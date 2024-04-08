@@ -1,8 +1,8 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Name,Description,Page[0],Page[1],Page[2],Page[3],Page[4],Page[5],Page[6],Page[7]
-int32,str,str,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage
-0,"","","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0"
-1,"南方博兹雅战线","","ContentsTutorialPage#1","ContentsTutorialPage#2","ContentsTutorialPage#3","ContentsTutorialPage#4","ContentsTutorialPage#5","ContentsTutorialPage#6","ContentsTutorialPage#0","ContentsTutorialPage#0"
-2,"迷宫挑战","","ContentsTutorialPage#7","ContentsTutorialPage#8","ContentsTutorialPage#9","ContentsTutorialPage#10","ContentsTutorialPage#11","ContentsTutorialPage#12","ContentsTutorialPage#13","ContentsTutorialPage#14"
-3,"多变迷宫","","ContentsTutorialPage#15","ContentsTutorialPage#16","ContentsTutorialPage#17","ContentsTutorialPage#18","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0"
-4,"开拓无人岛","","ContentsTutorialPage#19","ContentsTutorialPage#20","ContentsTutorialPage#21","ContentsTutorialPage#22","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0"
+#,Page[0],Page[1],Page[2],Page[3],Page[4],Page[5],Page[6],Page[7],Name,Description
+int32,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,str,str
+0,"ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","",""
+1,"ContentsTutorialPage#1","ContentsTutorialPage#2","ContentsTutorialPage#3","ContentsTutorialPage#4","ContentsTutorialPage#5","ContentsTutorialPage#6","ContentsTutorialPage#0","ContentsTutorialPage#0","南方博兹雅战线",""
+2,"ContentsTutorialPage#7","ContentsTutorialPage#8","ContentsTutorialPage#9","ContentsTutorialPage#10","ContentsTutorialPage#11","ContentsTutorialPage#12","ContentsTutorialPage#13","ContentsTutorialPage#14","迷宫挑战",""
+3,"ContentsTutorialPage#15","ContentsTutorialPage#16","ContentsTutorialPage#17","ContentsTutorialPage#18","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","多变迷宫",""
+4,"ContentsTutorialPage#19","ContentsTutorialPage#20","ContentsTutorialPage#21","ContentsTutorialPage#22","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","ContentsTutorialPage#0","开拓无人岛",""

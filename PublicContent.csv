@@ -38,7 +38,9 @@ int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,PublicCo
 29,6,180,,"","","","PublicContentCutscene#50021",8308669,0,"天上福地云冠群岛",,0,22,0,0,18,"PublicContentCutscene#0"
 30,8,180,,"","突破兵舍与谷仓","距离移动结束还有1秒……","PublicContentCutscene#50026",8548099,8626209,"女王古殿",,0,45,0,2,18,"PublicContentCutscene#50024"
 31,8,180,,"","突破兵舍与谷仓","距离移动结束还有1秒……","PublicContentCutscene#50027",8548099,0,"零式女王古殿",,0,45,0,3,18,"PublicContentCutscene#50025"
-32,9,0,,"","<Unknown0A>E802</Unknown0A>来岛上玩了！","欢迎<Unknown0A>E802</Unknown0A>回岛！",,0,0,"",,0,0,0,0,18,"PublicContentCutscene#0"
+32,9,0,,"","<Unknown0A>E802</Unknown0A>来岛上玩了！","新消息！新消息！
+建筑造好啦！有新造好的建筑正在等待你确认呢！
+请快去该建筑对应的管理板看看吧！",,0,0,"",,0,0,0,0,18,"PublicContentCutscene#0"
 33,7,180,,"","我々の邪魔をする愚かな者たちよ、死ぬがいい……！","从敌舰内部降下飞空艇升降机","PublicContentCutscene#50028",8773410,8759203,"扎杜诺尔高原",,0,51,5,0,18,"PublicContentCutscene#0"
 34,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#19",48,118,0,0,18,"PublicContentCutscene#0"
 35,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#20",48,119,0,0,18,"PublicContentCutscene#0"
@@ -49,3 +51,4 @@ int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,PublicCo
 40,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#25",48,124,0,0,18,"PublicContentCutscene#0"
 41,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#26",48,125,0,0,18,"PublicContentCutscene#0"
 42,5,10,"ui/icon/060000/060848.tex","","金仙人刺持有数","向着终点前进！","PublicContentCutscene#0",0,0,"虚景跳跳乐大挑战","GFateClimbing2Content#27",48,126,0,0,18,"PublicContentCutscene#0"
+43,10,0,"ui/icon/060000/060848.tex","","","","PublicContentCutscene#0",0,0,"金碟巨豆中心",,54,146,0,0,1,"PublicContentCutscene#50029"

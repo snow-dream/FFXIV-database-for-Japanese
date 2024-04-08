@@ -63,4 +63,5 @@ int32,BNpcName,Image,Image,bit&01,byte,byte,byte,byte,byte,byte,byte,byte,byte,b
 59,"齐格弗里德","ui/icon/072000/072052.tex","ui/icon/072000/072152.tex",True,14,0,0,0,0,0,0,0,0,0,0,True,True,True,True,True,True,True,True,True,True
 60,"提丰","ui/icon/072000/072025.tex","ui/icon/072000/072125.tex",False,14,0,0,0,0,0,0,0,0,0,0,True,True,True,True,True,True,True,True,True,True
 61,"模仿师 格格","ui/icon/072000/072058.tex","ui/icon/072000/072158.tex",True,14,0,0,0,0,0,0,0,0,0,0,True,True,True,False,True,True,True,True,True,True
-62,"",,,False,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+62,"金德尔","ui/icon/072000/072059.tex","ui/icon/072000/072159.tex",True,14,0,0,0,0,0,0,0,0,0,0,True,True,True,False,True,True,True,True,True,True
+63,"金光水晶","ui/icon/072000/072060.tex","ui/icon/072000/072160.tex",True,10,21,21,21,21,21,21,21,21,21,21,True,True,True,False,True,True,True,True,True,True

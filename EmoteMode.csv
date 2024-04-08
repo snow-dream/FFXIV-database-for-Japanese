@@ -68,3 +68,10 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 64,"展现右侧","",True,False,False,False,3,False
 65,"展现左侧","",True,False,False,False,3,False
 66,"观战","",True,False,False,False,3,False
+67,"声援小白","",True,False,False,False,3,False
+68,"声援小紫","",True,False,False,False,3,False
+69,"声援小绿","",True,False,False,False,3,False
+70,"","",True,False,False,False,3,False
+71,"垂头丧气","",True,False,False,False,3,False
+72,"比心","",True,False,False,False,3,True
+73,"众生离绝","",True,False,False,False,3,True

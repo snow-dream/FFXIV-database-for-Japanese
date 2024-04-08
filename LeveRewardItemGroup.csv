@@ -1051,7 +1051,7 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1047,"水之水晶",90,False,"雷之水晶",90,False,"贝尔卡楠的树液",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1048,"水之水晶",112,False,"雷之水晶",112,False,"贝尔卡楠的树液",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1049,"火之水晶",36,False,"水之水晶",36,False,"北洋岩盐",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1050,"火之水晶",43,False,"水之水晶",43,False,"桓娑胸肉",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1050,"火之水晶",43,False,"水之水晶",43,False,"桓娑鸟胸肉",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1051,"火之水晶",36,False,"水之水晶",36,False,"裸麦",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1052,"火之水晶",43,False,"水之水晶",43,False,"亚考牛肩肉",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1053,"火之水晶",37,False,"水之水晶",37,False,"萨维奈紫苏",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

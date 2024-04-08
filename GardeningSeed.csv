@@ -102,3 +102,5 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 98,"红色比尔格紫罗兰",119,"ui/icon/066000/066502.tex",False,True,17
 99,"红色香豌豆花",120,"ui/icon/066000/066502.tex",False,True,18
 100,"红色牵牛花",121,"ui/icon/066000/066502.tex",False,True,19
+101,"红色菊花",122,"ui/icon/066000/066502.tex",False,True,20
+102,"红色鲁冰花",117,"ui/icon/066000/066502.tex",False,True,21

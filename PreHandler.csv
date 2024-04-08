@@ -125,4 +125,6 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539065,"",,"InclusionShop#3801094","打开新世界的大门",,,1,0
 3539066,"",,"InclusionShop#3801094","一流工匠的新工作",,,1,0
 3539067,"",,"InclusionShop#3801099",,,,1,0
-3539068,"",,,,,,0,0
+3539068,"",,"听取解说",,"DefaultTalk#599453","DefaultTalk#599269",3,0
+3539069,"",,"道具交易（魔法景观）",,,,1,0
+3539070,"",,"InclusionShop#3801101",,,,1,0

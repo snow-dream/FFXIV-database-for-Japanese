@@ -39,7 +39,8 @@ int32,AddonTransient,Row,Addon
 3.6,"AddonTransient#1003","五头巨龙深吸了一口气！","交换"
 3.7,"AddonTransient#1004","确定要交换吗？
 当前捕鱼人等级不足，无法将该道具作为钓饵使用。","用不了也要换"
-3.8,"AddonTransient#1005","",""
+3.8,"AddonTransient#1008","确定要用<Sheet(Item,IntegerParameter(1),0)/>×<Format(IntegerParameter(2),FF022C)/>，
+换取以下道具吗？",""
 3.9,"AddonTransient#105","无法进行交易，<Sheet(Item,IntegerParameter(1),0)/>不足。",""
 4.0,"AddonTransient#102","该道具的效果已经掌握，并且无法交易给其他人。没有领取的必要。",""
 4.1,"AddonTransient#103","无法进行领取，背包中已有相同的珍稀道具。",""

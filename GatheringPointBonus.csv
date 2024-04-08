@@ -56,7 +56,7 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 52,"获得力 <Value>IntegerParameter(1)</Value>以上",226,248,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 53,"获得力 <Value>IntegerParameter(1)</Value>以上",251,276,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 54,"获得力 <Value>IntegerParameter(1)</Value>以上",281,309,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-55,"鉴别力 <Value>IntegerParameter(1)</Value>以上",271,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
+55,"获得力 <Value>IntegerParameter(1)</Value>以上",4100,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",2,0,False,0
 56,"获得力 <Value>IntegerParameter(1)</Value>以上",302,347,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 57,"采集力上限 <Value>IntegerParameter(1)</Value>以上",574,604,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 58,"获得力 <Value>IntegerParameter(1)</Value>以上",3750,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",2,0,False,0
@@ -72,16 +72,16 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 68,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 69,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 70,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-71,"鉴别力 <Value>IntegerParameter(1)</Value>以上",688,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-72,"鉴别力 <Value>IntegerParameter(1)</Value>以上",688,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-73,"鉴别力 <Value>IntegerParameter(1)</Value>以上",784,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-74,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1200,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-75,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1350,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-76,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
+71,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38745,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
+72,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39740,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
+73,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38746,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
+74,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39741,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
+75,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39751,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
+76,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",41188,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 77,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38723,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 78,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 79,"获得力 <Value>IntegerParameter(1)</Value>以上",2244,2692,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-80,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2140,3210,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+80,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39752,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 81,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3800,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
 82,"获得力 <Value>IntegerParameter(1)</Value>以上",3590,3990,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 83,"采集力上限 <Value>IntegerParameter(1)</Value>以上",850,900,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
@@ -89,7 +89,7 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 85,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
 86,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
 87,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-88,"获得力 <Value>IntegerParameter(1)</Value>以上",3910,0,"收藏价值最大时：升华率＋<Value>IntegerParameter(1)</Value>%",50,0,False,0
+88,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",41189,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 89,"获得力 <Value>IntegerParameter(1)</Value>以上",3300,3497,"收藏价值最大时：升华率＋<Value>IntegerParameter(1)</Value>%（上升型）",10,20,False,0
 90,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38734,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 91,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38724,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
@@ -111,7 +111,7 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 107,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38735,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
 108,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 109,"获得力 <Value>IntegerParameter(1)</Value>以上",105,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-110,"获得力 <Value>IntegerParameter(1)</Value>以上",150,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+110,"",0,0,"",0,0,False,0
 111,"获得力 <Value>IntegerParameter(1)</Value>以上",188,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 112,"获得力 <Value>IntegerParameter(1)</Value>以上",228,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 113,"获得力 <Value>IntegerParameter(1)</Value>以上",323,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
@@ -120,10 +120,10 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 116,"获得力 <Value>IntegerParameter(1)</Value>以上",889,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 117,"获得力 <Value>IntegerParameter(1)</Value>以上",989,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 118,"获得力 <Value>IntegerParameter(1)</Value>以上",1546,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-119,"采集力上限 <Value>IntegerParameter(1)</Value>以上",400,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-120,"采集力上限 <Value>IntegerParameter(1)</Value>以上",429,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+119,"",0,0,"",0,0,False,0
+120,"",0,0,"",0,0,False,0
 121,"采集力上限 <Value>IntegerParameter(1)</Value>以上",486,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-122,"采集力上限 <Value>IntegerParameter(1)</Value>以上",515,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+122,"",0,0,"",0,0,False,0
 123,"采集力上限 <Value>IntegerParameter(1)</Value>以上",542,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 124,"采集力上限 <Value>IntegerParameter(1)</Value>以上",571,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 125,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
@@ -142,22 +142,22 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 138,"鉴别力 <Value>IntegerParameter(1)</Value>以上",874,1588,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 139,"鉴别力 <Value>IntegerParameter(1)</Value>以上",989,1688,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 140,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-141,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,88,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,3,False,0
-142,"鉴别力 <Value>IntegerParameter(1)</Value>以上",88,165,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,3,False,0
-143,"鉴别力 <Value>IntegerParameter(1)</Value>以上",150,200,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,3,False,0
-144,"鉴别力 <Value>IntegerParameter(1)</Value>以上",182,248,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,3,False,0
-145,"鉴别力 <Value>IntegerParameter(1)</Value>以上",226,459,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,3,False,0
+141,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3550,3800,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
+142,"采集力上限 <Value>IntegerParameter(1)</Value>以上",910,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+143,"鉴别力 <Value>IntegerParameter(1)</Value>以上",4000,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
+144,"获得力 <Value>IntegerParameter(1)</Value>以上",3900,4100,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
+145,"采集力上限 <Value>IntegerParameter(1)</Value>以上",900,950,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 146,"鉴别力 <Value>IntegerParameter(1)</Value>以上",321,548,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
 147,"鉴别力 <Value>IntegerParameter(1)</Value>以上",499,960,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
 148,"鉴别力 <Value>IntegerParameter(1)</Value>以上",611,961,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
 149,"鉴别力 <Value>IntegerParameter(1)</Value>以上",874,1588,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
 150,"鉴别力 <Value>IntegerParameter(1)</Value>以上",989,1688,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
 151,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-152,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,88,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,4,False,0
-153,"鉴别力 <Value>IntegerParameter(1)</Value>以上",88,165,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,4,False,0
-154,"鉴别力 <Value>IntegerParameter(1)</Value>以上",150,200,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-155,"鉴别力 <Value>IntegerParameter(1)</Value>以上",182,248,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-156,"鉴别力 <Value>IntegerParameter(1)</Value>以上",226,459,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
+152,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
+153,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+154,"",0,0,"",0,0,False,0
+155,"",0,0,"",0,0,False,0
+156,"",0,0,"",0,0,False,0
 157,"鉴别力 <Value>IntegerParameter(1)</Value>以上",321,548,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",4,6,False,0
 158,"鉴别力 <Value>IntegerParameter(1)</Value>以上",499,960,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",4,6,False,0
 159,"鉴别力 <Value>IntegerParameter(1)</Value>以上",611,961,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",5,7,False,0
@@ -184,7 +184,7 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 180,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30302,0,"<If(IntegerParameter(2))>可以采集收藏品<Else/>不可采集收藏品</If>",0,0,True,0
 181,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 182,"获得力 <Value>IntegerParameter(1)</Value>以上",2524,3028,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-183,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2404,3606,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+183,"",0,0,"",0,0,False,0
 184,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
 185,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
 186,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
@@ -303,30 +303,30 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 299,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
 300,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
 301,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-302,"",0,0,"",0,0,False,0
-303,"",0,0,"",0,0,False,0
-304,"",0,0,"",0,0,False,0
-305,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-306,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-307,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-308,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-309,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-310,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-311,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-312,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-313,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-314,"获得力 <Value>IntegerParameter(1)</Value>以下",353,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-315,"获得力 <Value>IntegerParameter(1)</Value>以下",353,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-316,"获得力 <Value>IntegerParameter(1)</Value>以下",353,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-317,"获得力 <Value>IntegerParameter(1)</Value>以下",353,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-318,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-319,"获得力 <Value>IntegerParameter(1)</Value>以下",408,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-320,"获得力 <Value>IntegerParameter(1)</Value>以下",420,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-321,"获得力 <Value>IntegerParameter(1)</Value>以下",420,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-322,"获得力 <Value>IntegerParameter(1)</Value>以下",420,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-323,"获得力 <Value>IntegerParameter(1)</Value>以下",420,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-324,"获得力 <Value>IntegerParameter(1)</Value>以下",450,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
-325,"获得力 <Value>IntegerParameter(1)</Value>以下",450,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,False,0
+302,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",1,10,False,0
+303,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
+304,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
+305,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"价值提升＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
+306,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"收藏价值＋<Value>IntegerParameter(1)</Value>",20,0,False,0
+307,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
+308,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
+309,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"价值提升＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
+310,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
+311,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+312,"获得力 <Value>IntegerParameter(1)</Value>以上",3610,4035,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",50,150,False,0
+313,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
+314,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
+315,"获得力 <Value>IntegerParameter(1)</Value>以上",3610,4035,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",50,150,False,0
+316,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3820,4035,"价值提升＋<Value>IntegerParameter(1)</Value>%（上升型）",50,100,False,0
+317,"鉴别力 <Value>IntegerParameter(1)</Value>以上",4020,0,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%",60,0,False,0
+318,"获得力 <Value>IntegerParameter(1)</Value>以上",4020,4200,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
+319,"",0,0,"",0,0,False,0
+320,"",0,0,"",0,0,False,0
+321,"",0,0,"",0,0,False,0
+322,"",0,0,"",0,0,False,0
+323,"",0,0,"",0,0,False,0
+324,"",0,0,"",0,0,False,0
+325,"",0,0,"",0,0,False,0
 326,"",0,0,"",0,0,False,0
 327,"鉴别力 <Value>IntegerParameter(1)</Value>以上",444,572,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
 328,"鉴别力 <Value>IntegerParameter(1)</Value>以上",451,581,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
@@ -383,32 +383,32 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 379,"获得力 <Value>IntegerParameter(1)</Value>以上",480,528,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 380,"获得力 <Value>IntegerParameter(1)</Value>以上",486,534,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 381,"获得力 <Value>IntegerParameter(1)</Value>以上",491,540,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-382,"鉴别力 <Value>IntegerParameter(1)</Value>以上",508,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-383,"鉴别力 <Value>IntegerParameter(1)</Value>以上",512,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-384,"鉴别力 <Value>IntegerParameter(1)</Value>以上",523,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-385,"鉴别力 <Value>IntegerParameter(1)</Value>以上",527,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-386,"鉴别力 <Value>IntegerParameter(1)</Value>以上",544,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-387,"鉴别力 <Value>IntegerParameter(1)</Value>以上",688,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-388,"鉴别力 <Value>IntegerParameter(1)</Value>以上",688,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-389,"鉴别力 <Value>IntegerParameter(1)</Value>以上",784,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
+382,"",0,0,"",0,0,False,0
+383,"",0,0,"",0,0,False,0
+384,"",0,0,"",0,0,False,0
+385,"",0,0,"",0,0,False,0
+386,"",0,0,"",0,0,False,0
+387,"",0,0,"",0,0,False,0
+388,"",0,0,"",0,0,False,0
+389,"",0,0,"",0,0,False,0
 390,"获得力 <Value>IntegerParameter(1)</Value>以上",395,454,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 391,"获得力 <Value>IntegerParameter(1)</Value>以上",400,460,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 392,"获得力 <Value>IntegerParameter(1)</Value>以上",495,569,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 393,"获得力 <Value>IntegerParameter(1)</Value>以上",499,573,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 394,"获得力 <Value>IntegerParameter(1)</Value>以上",515,592,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-395,"获得力 <Value>IntegerParameter(1)</Value>以上",767,882,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-396,"获得力 <Value>IntegerParameter(1)</Value>以上",821,944,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-397,"获得力 <Value>IntegerParameter(1)</Value>以上",874,1005,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+395,"",0,0,"",0,0,False,0
+396,"",0,0,"",0,0,False,0
+397,"",0,0,"",0,0,False,0
 398,"采集力上限 <Value>IntegerParameter(1)</Value>以上",577,607,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 399,"采集力上限 <Value>IntegerParameter(1)</Value>以上",583,613,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 400,"采集力上限 <Value>IntegerParameter(1)</Value>以上",591,621,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 401,"采集力上限 <Value>IntegerParameter(1)</Value>以上",593,623,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 402,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,627,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-403,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-404,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-405,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-406,"获得力 <Value>IntegerParameter(1)</Value>以上",495,544,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-407,"采集力上限 <Value>IntegerParameter(1)</Value>以上",591,621,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+403,"",0,0,"",0,0,False,0
+404,"",0,0,"",0,0,False,0
+405,"",0,0,"",0,0,False,0
+406,"",0,0,"",0,0,False,0
+407,"",0,0,"",0,0,False,0
 408,"",0,0,"",0,0,False,0
 409,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
 410,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
@@ -478,11 +478,11 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 474,"",0,0,"",0,0,False,0
 475,"采集力上限 <Value>IntegerParameter(1)</Value>以上",900,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
 476,"",0,0,"",0,0,False,0
-477,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3230,3876,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
+477,"",0,0,"",0,0,False,0
 478,"",0,0,"",0,0,False,0
 479,"",0,0,"",0,0,False,0
 480,"",0,0,"",0,0,False,0
-481,"采集力上限 <Value>IntegerParameter(1)</Value>以上",850,920,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
+481,"",0,0,"",0,0,False,0
 482,"",0,0,"",0,0,False,0
 483,"",0,0,"",0,0,False,0
 484,"",0,0,"",0,0,False,0
@@ -601,56 +601,56 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 597,"",0,0,"",0,0,True,0
 598,"",0,0,"",0,0,True,0
 599,"",0,0,"",0,0,True,0
-600,"鉴别力 <Value>IntegerParameter(1)</Value>以上",688,1032,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-601,"鉴别力 <Value>IntegerParameter(1)</Value>以上",832,1248,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-602,"鉴别力 <Value>IntegerParameter(1)</Value>以上",849,1273,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-603,"鉴别力 <Value>IntegerParameter(1)</Value>以上",884,1326,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-604,"鉴别力 <Value>IntegerParameter(1)</Value>以上",902,1353,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-605,"鉴别力 <Value>IntegerParameter(1)</Value>以上",920,1380,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-606,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1200,1800,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-607,"鉴别力 <Value>IntegerParameter(1)</Value>以上",902,1353,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-608,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1200,1800,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+600,"",0,0,"",0,0,False,0
+601,"",0,0,"",0,0,False,0
+602,"",0,0,"",0,0,False,0
+603,"",0,0,"",0,0,False,0
+604,"",0,0,"",0,0,False,0
+605,"",0,0,"",0,0,False,0
+606,"",0,0,"",0,0,False,0
+607,"",0,0,"",0,0,False,0
+608,"",0,0,"",0,0,False,0
 609,"获得力 <Value>IntegerParameter(1)</Value>以上",821,944,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 610,"获得力 <Value>IntegerParameter(1)</Value>以上",928,1067,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 611,"获得力 <Value>IntegerParameter(1)</Value>以上",948,1090,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 612,"获得力 <Value>IntegerParameter(1)</Value>以上",987,1135,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-613,"获得力 <Value>IntegerParameter(1)</Value>以上",1006,1156,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+613,"",0,0,"",0,0,False,0
 614,"获得力 <Value>IntegerParameter(1)</Value>以上",1026,1179,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 615,"获得力 <Value>IntegerParameter(1)</Value>以上",1116,1283,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 616,"获得力 <Value>IntegerParameter(1)</Value>以上",1006,1156,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-617,"获得力 <Value>IntegerParameter(1)</Value>以上",1116,1283,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-618,"获得力 <Value>IntegerParameter(1)</Value>以上",948,1090,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-619,"获得力 <Value>IntegerParameter(1)</Value>以上",1116,1283,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+617,"",0,0,"",0,0,False,0
+618,"",0,0,"",0,0,False,0
+619,"",0,0,"",0,0,False,0
 620,"",0,0,"",0,0,False,0
-621,"获得力 <Value>IntegerParameter(1)</Value>以上",580,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-622,"获得力 <Value>IntegerParameter(1)</Value>以上",599,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-623,"获得力 <Value>IntegerParameter(1)</Value>以上",594,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-624,"获得力 <Value>IntegerParameter(1)</Value>以上",620,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-625,"获得力 <Value>IntegerParameter(1)</Value>以上",690,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-626,"鉴别力 <Value>IntegerParameter(1)</Value>以上",472,810,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-627,"鉴别力 <Value>IntegerParameter(1)</Value>以上",492,845,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-628,"鉴别力 <Value>IntegerParameter(1)</Value>以上",483,830,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-629,"鉴别力 <Value>IntegerParameter(1)</Value>以上",505,866,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-630,"鉴别力 <Value>IntegerParameter(1)</Value>以上",526,903,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-631,"采集力上限 <Value>IntegerParameter(1)</Value>以上",644,676,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-632,"采集力上限 <Value>IntegerParameter(1)</Value>以上",654,687,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-633,"采集力上限 <Value>IntegerParameter(1)</Value>以上",660,692,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-634,"采集力上限 <Value>IntegerParameter(1)</Value>以上",669,702,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-635,"采集力上限 <Value>IntegerParameter(1)</Value>以上",676,712,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-636,"获得力 <Value>IntegerParameter(1)</Value>以上",580,837,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-637,"获得力 <Value>IntegerParameter(1)</Value>以上",599,864,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-638,"获得力 <Value>IntegerParameter(1)</Value>以上",594,857,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-639,"获得力 <Value>IntegerParameter(1)</Value>以上",620,894,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-640,"获得力 <Value>IntegerParameter(1)</Value>以上",690,930,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-641,"采集力上限 <Value>IntegerParameter(1)</Value>以上",669,702,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-642,"采集力上限 <Value>IntegerParameter(1)</Value>以上",669,702,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-643,"采集力上限 <Value>IntegerParameter(1)</Value>以上",676,712,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-644,"鉴别力 <Value>IntegerParameter(1)</Value>以上",505,866,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-645,"鉴别力 <Value>IntegerParameter(1)</Value>以上",505,866,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-646,"鉴别力 <Value>IntegerParameter(1)</Value>以上",526,903,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-647,"获得力 <Value>IntegerParameter(1)</Value>以上",620,894,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-648,"获得力 <Value>IntegerParameter(1)</Value>以上",620,894,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-649,"获得力 <Value>IntegerParameter(1)</Value>以上",690,930,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
+621,"",0,0,"",0,0,False,0
+622,"",0,0,"",0,0,False,0
+623,"",0,0,"",0,0,False,0
+624,"",0,0,"",0,0,False,0
+625,"",0,0,"",0,0,False,0
+626,"",0,0,"",0,0,False,0
+627,"",0,0,"",0,0,False,0
+628,"",0,0,"",0,0,False,0
+629,"",0,0,"",0,0,False,0
+630,"",0,0,"",0,0,False,0
+631,"",0,0,"",0,0,False,0
+632,"",0,0,"",0,0,False,0
+633,"",0,0,"",0,0,False,0
+634,"",0,0,"",0,0,False,0
+635,"",0,0,"",0,0,False,0
+636,"",0,0,"",0,0,False,0
+637,"",0,0,"",0,0,False,0
+638,"",0,0,"",0,0,False,0
+639,"",0,0,"",0,0,False,0
+640,"",0,0,"",0,0,False,0
+641,"",0,0,"",0,0,False,0
+642,"",0,0,"",0,0,False,0
+643,"",0,0,"",0,0,False,0
+644,"",0,0,"",0,0,False,0
+645,"",0,0,"",0,0,False,0
+646,"",0,0,"",0,0,False,0
+647,"",0,0,"",0,0,False,0
+648,"",0,0,"",0,0,False,0
+649,"",0,0,"",0,0,False,0
 650,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 651,"采集力上限 <Value>IntegerParameter(1)</Value>以上",610,640,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 652,"采集力上限 <Value>IntegerParameter(1)</Value>以上",625,655,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
@@ -658,18 +658,18 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 654,"采集力上限 <Value>IntegerParameter(1)</Value>以上",640,670,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 655,"采集力上限 <Value>IntegerParameter(1)</Value>以上",645,675,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 656,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-657,"采集力上限 <Value>IntegerParameter(1)</Value>以上",640,670,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-658,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-659,"采集力上限 <Value>IntegerParameter(1)</Value>以上",625,655,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-660,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+657,"",0,0,"",0,0,False,0
+658,"",0,0,"",0,0,False,0
+659,"",0,0,"",0,0,False,0
+660,"",0,0,"",0,0,False,0
 661,"",0,0,"",0,0,False,0
 662,"",0,0,"",0,0,False,0
 663,"",0,0,"",0,0,False,0
 664,"",0,0,"",0,0,False,0
 665,"",0,0,"",0,0,True,0
-666,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1350,2025,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+666,"",0,0,"",0,0,False,0
 667,"",0,0,"",0,0,True,0
-668,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1550,2325,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+668,"",0,0,"",0,0,False,0
 669,"获得力 <Value>IntegerParameter(1)</Value>以上",1543,1851,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 670,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 671,"获得力 <Value>IntegerParameter(1)</Value>以上",1015,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
@@ -747,74 +747,74 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 743,"",0,0,"",0,0,True,0
 744,"",0,0,"",0,0,True,0
 745,"",0,0,"",0,0,True,0
-746,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1400,2100,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-747,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1440,2160,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-748,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1516,2274,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-749,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1591,2386,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-750,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1666,2499,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-751,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-752,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1591,2386,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-753,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1666,2499,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
-754,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,100,False,0
+746,"",0,0,"",0,0,False,0
+747,"",0,0,"",0,0,False,0
+748,"",0,0,"",0,0,False,0
+749,"",0,0,"",0,0,False,0
+750,"",0,0,"",0,0,False,0
+751,"",0,0,"",0,0,False,0
+752,"",0,0,"",0,0,False,0
+753,"",0,0,"",0,0,False,0
+754,"",0,0,"",0,0,False,0
 755,"获得力 <Value>IntegerParameter(1)</Value>以上",1294,1488,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 756,"获得力 <Value>IntegerParameter(1)</Value>以上",1562,1796,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 757,"获得力 <Value>IntegerParameter(1)</Value>以上",1606,1846,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 758,"获得力 <Value>IntegerParameter(1)</Value>以上",1691,1944,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 759,"获得力 <Value>IntegerParameter(1)</Value>以上",1775,2041,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
 760,"获得力 <Value>IntegerParameter(1)</Value>以上",1859,2137,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-761,"获得力 <Value>IntegerParameter(1)</Value>以上",1947,2239,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-762,"获得力 <Value>IntegerParameter(1)</Value>以上",1775,2041,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-763,"获得力 <Value>IntegerParameter(1)</Value>以上",1859,2137,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-764,"获得力 <Value>IntegerParameter(1)</Value>以上",1947,2239,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-765,"获得力 <Value>IntegerParameter(1)</Value>以上",1691,1944,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-766,"获得力 <Value>IntegerParameter(1)</Value>以上",1947,2239,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
+761,"",0,0,"",0,0,False,0
+762,"",0,0,"",0,0,False,0
+763,"",0,0,"",0,0,False,0
+764,"",0,0,"",0,0,False,0
+765,"",0,0,"",0,0,False,0
+766,"",0,0,"",0,0,False,0
 767,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 768,"采集力上限 <Value>IntegerParameter(1)</Value>以上",685,715,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 769,"采集力上限 <Value>IntegerParameter(1)</Value>以上",695,725,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 770,"采集力上限 <Value>IntegerParameter(1)</Value>以上",705,735,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 771,"采集力上限 <Value>IntegerParameter(1)</Value>以上",715,745,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
 772,"采集力上限 <Value>IntegerParameter(1)</Value>以上",725,755,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-773,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-774,"采集力上限 <Value>IntegerParameter(1)</Value>以上",715,745,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-775,"采集力上限 <Value>IntegerParameter(1)</Value>以上",725,755,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-776,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-777,"采集力上限 <Value>IntegerParameter(1)</Value>以上",705,735,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-778,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-779,"获得力 <Value>IntegerParameter(1)</Value>以上",987,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-780,"获得力 <Value>IntegerParameter(1)</Value>以上",1034,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-781,"获得力 <Value>IntegerParameter(1)</Value>以上",1061,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-782,"获得力 <Value>IntegerParameter(1)</Value>以上",1113,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-783,"获得力 <Value>IntegerParameter(1)</Value>以上",1166,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-784,"鉴别力 <Value>IntegerParameter(1)</Value>以上",793,1364,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-785,"鉴别力 <Value>IntegerParameter(1)</Value>以上",831,1429,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-786,"鉴别力 <Value>IntegerParameter(1)</Value>以上",852,1465,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-787,"鉴别力 <Value>IntegerParameter(1)</Value>以上",895,1539,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-788,"鉴别力 <Value>IntegerParameter(1)</Value>以上",937,1612,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-789,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-790,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-791,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-792,"采集力上限 <Value>IntegerParameter(1)</Value>以上",720,756,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-793,"采集力上限 <Value>IntegerParameter(1)</Value>以上",730,767,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-794,"获得力 <Value>IntegerParameter(1)</Value>以上",987,1421,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-795,"获得力 <Value>IntegerParameter(1)</Value>以上",1034,1489,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-796,"获得力 <Value>IntegerParameter(1)</Value>以上",1061,1528,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-797,"获得力 <Value>IntegerParameter(1)</Value>以上",1113,1603,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-798,"获得力 <Value>IntegerParameter(1)</Value>以上",1166,1574,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-799,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-800,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-801,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,746,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-802,"鉴别力 <Value>IntegerParameter(1)</Value>以上",793,1356,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-803,"鉴别力 <Value>IntegerParameter(1)</Value>以上",810,1385,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-804,"鉴别力 <Value>IntegerParameter(1)</Value>以上",831,1429,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-805,"获得力 <Value>IntegerParameter(1)</Value>以上",987,1421,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-806,"获得力 <Value>IntegerParameter(1)</Value>以上",1008,1452,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-807,"获得力 <Value>IntegerParameter(1)</Value>以上",1034,1396,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-808,"采集力上限 <Value>IntegerParameter(1)</Value>以上",720,756,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-809,"采集力上限 <Value>IntegerParameter(1)</Value>以上",730,767,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-810,"采集力上限 <Value>IntegerParameter(1)</Value>以上",730,767,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-811,"鉴别力 <Value>IntegerParameter(1)</Value>以上",895,1530,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-812,"鉴别力 <Value>IntegerParameter(1)</Value>以上",916,1566,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-813,"鉴别力 <Value>IntegerParameter(1)</Value>以上",937,1612,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,60,False,0
-814,"获得力 <Value>IntegerParameter(1)</Value>以上",1113,1603,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-815,"获得力 <Value>IntegerParameter(1)</Value>以上",1140,1642,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-816,"获得力 <Value>IntegerParameter(1)</Value>以上",1166,1574,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
+773,"",0,0,"",0,0,False,0
+774,"",0,0,"",0,0,False,0
+775,"",0,0,"",0,0,False,0
+776,"",0,0,"",0,0,False,0
+777,"",0,0,"",0,0,False,0
+778,"",0,0,"",0,0,False,0
+779,"",0,0,"",0,0,False,0
+780,"",0,0,"",0,0,False,0
+781,"",0,0,"",0,0,False,0
+782,"",0,0,"",0,0,False,0
+783,"",0,0,"",0,0,False,0
+784,"",0,0,"",0,0,False,0
+785,"",0,0,"",0,0,False,0
+786,"",0,0,"",0,0,False,0
+787,"",0,0,"",0,0,False,0
+788,"",0,0,"",0,0,False,0
+789,"",0,0,"",0,0,False,0
+790,"",0,0,"",0,0,False,0
+791,"",0,0,"",0,0,False,0
+792,"",0,0,"",0,0,False,0
+793,"",0,0,"",0,0,False,0
+794,"",0,0,"",0,0,False,0
+795,"",0,0,"",0,0,False,0
+796,"",0,0,"",0,0,False,0
+797,"",0,0,"",0,0,False,0
+798,"",0,0,"",0,0,False,0
+799,"",0,0,"",0,0,False,0
+800,"",0,0,"",0,0,False,0
+801,"",0,0,"",0,0,False,0
+802,"",0,0,"",0,0,False,0
+803,"",0,0,"",0,0,False,0
+804,"",0,0,"",0,0,False,0
+805,"",0,0,"",0,0,False,0
+806,"",0,0,"",0,0,False,0
+807,"",0,0,"",0,0,False,0
+808,"",0,0,"",0,0,False,0
+809,"",0,0,"",0,0,False,0
+810,"",0,0,"",0,0,False,0
+811,"",0,0,"",0,0,False,0
+812,"",0,0,"",0,0,False,0
+813,"",0,0,"",0,0,False,0
+814,"",0,0,"",0,0,False,0
+815,"",0,0,"",0,0,False,0
+816,"",0,0,"",0,0,False,0

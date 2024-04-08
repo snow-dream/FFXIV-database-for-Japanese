@@ -186,7 +186,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 39.0,8468751,1,"威尔布兰德扬帆起航",0,False,2,"月亮的囚徒",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 40.0,8724610,2,"敌人现身",2,False,2,"敌人现身",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 40.1,8462348,2,"敌人现身",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-41.0,8754908,2,"熠熠生辉的生命",7,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+41.0,8754908,2,"熠熠生辉的生命",7,False,2,"联系漆黑之将的大繁荣之轮",1,False,2,"联系漆黑之将的大繁荣之轮",255,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.0,8773502,2,"苍鹰啊，振翅吧！",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.1,8773523,2,"苍鹰啊，远行吧！",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.2,8773532,2,"苍鹰啊，远行吧！",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -205,17 +205,19 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 42.15,8715333,2,"消逝的百合",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 43.0,8992911,2,"特级精金",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 43.1,8872828,2,"前往天外",3,False,1,"晓月之终途",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-43.2,9396828,2,"万魔殿的真相",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+43.2,9396828,2,"万魔殿的真相",255,False,2,"登天之路",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.0,8751915,2,"拂晓出征",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.1,9000193,2,"被绝望蚕食的大地",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.2,9167820,1," 岛上狂奔的河马",0,False,1," 新的配送服务",0,False,1," 河马也需要治愈",0,False,1," 斡兀立化身人趣诸神？！",0,False,1," 悌阳象族与魔邪象族",0,False,0,,0,False,0,0,0,False
 45.0,8905301,2,"高洁的加雷马族",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 45.1,8905079,2,"无可替代的宝物",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-46.0,8465766,1,"叹息之海",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-46.1,8465762,2,"拯救星球的英雄",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.0,8465766,1,"叹息之海",0,False,1,"月球上的“剑”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.1,8465762,2,"拯救星球的英雄",2,False,1,"月球上的“剑”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.2,8794413,2,"拯救星球的英雄",2,False,2,"拯救星球的英雄",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.3,8464943,1,"过去的记录",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.4,9627908,1," 去寻找梦想吧！",0,False,1," 发明帅气的机器吧！",0,False,1," 来尝试烹饪吧！",0,False,1," 用情感来创作吧！",0,False,1," 开设播音电台吧！",0,False,0,,0,False,0,0,0,False
+46.5,9808974,1,"月球上的“剑”",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.6,9838150,2,"虚无界的月球",2,False,1,"月龙归来",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.0,8964469,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.1,8998095,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.2,8998096,2,"尊严与和平",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
