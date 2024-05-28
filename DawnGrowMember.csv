@@ -1,18 +1,18 @@
 ﻿key,0,1,2,3,4,5,6
 #,SelectImage[0],SelectImage[1],SelectImage[2],PortraitImage[0],PortraitImage[1],PortraitImage[2],Class
 int32,Image,Image,Image,Image,Image,Image,DawnMemberUIParam
-0,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","Academician"
-1,"ui/icon/072000/072622.tex","ui/icon/072000/072631.tex","ui/icon/072000/072639.tex","ui/icon/072000/072682.tex","ui/icon/072000/072691.tex","ui/icon/072000/072699.tex","Red Mage"
-2,"ui/icon/072000/072623.tex","ui/icon/072000/072632.tex","ui/icon/072000/072640.tex","ui/icon/072000/072683.tex","ui/icon/072000/072692.tex","ui/icon/072000/072700.tex","Gunbreaker"
-3,"ui/icon/072000/072625.tex","ui/icon/072000/072633.tex","ui/icon/072000/072641.tex","ui/icon/072000/072685.tex","ui/icon/072000/072693.tex","ui/icon/072000/072701.tex","Astrologian"
-4,"ui/icon/072000/072626.tex","ui/icon/072000/072634.tex","ui/icon/072000/072642.tex","ui/icon/072000/072686.tex","ui/icon/072000/072694.tex","ui/icon/072000/072702.tex","Sorceress"
-5,"ui/icon/072000/072627.tex","ui/icon/072000/072635.tex",,"ui/icon/072000/072687.tex","ui/icon/072000/072695.tex",,"Oracle of Light"
-6,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","Sage"
-7,"ui/icon/072000/072644.tex","ui/icon/072000/072645.tex","ui/icon/072000/072646.tex","ui/icon/072000/072704.tex","ui/icon/072000/072705.tex","ui/icon/072000/072706.tex","Dragoon"
-8,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-9,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-10,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-100,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-101,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-102,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-103,"ui/icon/072000/072651.tex",,,"ui/icon/072000/072711.tex",,,"Memoriate"
+0,72621,72630,72638,72681,72690,72698,1
+1,72622,72631,72639,72682,72691,72699,2
+2,72623,72632,72640,72683,72692,72700,3
+3,72625,72633,72641,72685,72693,72701,5
+4,72626,72634,72642,72686,72694,72702,6
+5,72627,72635,0,72687,72695,0,7
+6,72621,72630,72638,72681,72690,72698,11
+7,72644,72645,72646,72704,72705,72706,12
+8,72637,72629,72643,72697,72689,72703,10
+9,72637,72629,72643,72697,72689,72703,10
+10,72637,72629,72643,72697,72689,72703,10
+100,72637,72629,72643,72697,72689,72703,10
+101,72637,72629,72643,72697,72689,72703,10
+102,72637,72629,72643,72697,72689,72703,10
+103,72651,0,0,72711,0,0,41

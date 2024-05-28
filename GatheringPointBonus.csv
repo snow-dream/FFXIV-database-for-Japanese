@@ -1,820 +1,820 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,Condition,ConditionValue,,BonusType,BonusValue,,,
 int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit&01,uint32
-0,"",0,0,"",0,0,False,0
-1,"灵巧 <Value>IntegerParameter(1)</Value>以上",30,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-2,"连锁 <Value>IntegerParameter(1)</Value>以上",2,0,"获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-3,"灵巧 <Value>IntegerParameter(1)</Value>以上",20,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",15,0,False,0
-4,"灵巧 <Value>IntegerParameter(1)</Value>以上",30,0,"低于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
-5,"鉴别力 <Value>IntegerParameter(1)</Value>以上",42,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-6,"鉴别力 <Value>IntegerParameter(1)</Value>以上",52,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-7,"鉴别力 <Value>IntegerParameter(1)</Value>以上",62,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-8,"鉴别力 <Value>IntegerParameter(1)</Value>以上",81,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-9,"鉴别力 <Value>IntegerParameter(1)</Value>以上",98,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-10,"鉴别力 <Value>IntegerParameter(1)</Value>以上",126,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-11,"鉴别力 <Value>IntegerParameter(1)</Value>以上",153,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-12,"鉴别力 <Value>IntegerParameter(1)</Value>以上",182,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-13,"鉴别力 <Value>IntegerParameter(1)</Value>以上",198,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-14,"鉴别力 <Value>IntegerParameter(1)</Value>以上",214,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-15,"获得力 <Value>IntegerParameter(1)</Value>以上",34,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-16,"获得力 <Value>IntegerParameter(1)</Value>以上",57,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-17,"获得力 <Value>IntegerParameter(1)</Value>以上",89,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-18,"获得力 <Value>IntegerParameter(1)</Value>以上",128,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-19,"获得力 <Value>IntegerParameter(1)</Value>以上",171,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-20,"获得力 <Value>IntegerParameter(1)</Value>以上",194,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-21,"获得力 <Value>IntegerParameter(1)</Value>以上",216,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-22,"获得力 <Value>IntegerParameter(1)</Value>以上",237,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-23,"获得力 <Value>IntegerParameter(1)</Value>以上",263,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-24,"获得力 <Value>IntegerParameter(1)</Value>以上",295,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-25,"鉴别力 <Value>IntegerParameter(1)</Value>以上",89,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-26,"鉴别力 <Value>IntegerParameter(1)</Value>以上",110,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-27,"鉴别力 <Value>IntegerParameter(1)</Value>以上",131,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-28,"鉴别力 <Value>IntegerParameter(1)</Value>以上",153,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-29,"鉴别力 <Value>IntegerParameter(1)</Value>以上",174,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-30,"鉴别力 <Value>IntegerParameter(1)</Value>以上",195,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-31,"鉴别力 <Value>IntegerParameter(1)</Value>以上",216,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-32,"鉴别力 <Value>IntegerParameter(1)</Value>以上",238,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-33,"鉴别力 <Value>IntegerParameter(1)</Value>以上",259,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-34,"鉴别力 <Value>IntegerParameter(1)</Value>以上",280,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-35,"采集力上限 <Value>IntegerParameter(1)</Value>以上",414,444,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-36,"采集力上限 <Value>IntegerParameter(1)</Value>以上",429,459,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-37,"采集力上限 <Value>IntegerParameter(1)</Value>以上",436,466,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-38,"采集力上限 <Value>IntegerParameter(1)</Value>以上",486,516,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-39,"采集力上限 <Value>IntegerParameter(1)</Value>以上",493,523,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-40,"采集力上限 <Value>IntegerParameter(1)</Value>以上",515,545,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-41,"采集力上限 <Value>IntegerParameter(1)</Value>以上",521,551,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-42,"采集力上限 <Value>IntegerParameter(1)</Value>以上",542,572,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-43,"采集力上限 <Value>IntegerParameter(1)</Value>以上",545,575,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-44,"采集力上限 <Value>IntegerParameter(1)</Value>以上",571,601,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-45,"获得力 <Value>IntegerParameter(1)</Value>以上",33,36,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-46,"获得力 <Value>IntegerParameter(1)</Value>以上",55,60,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-47,"获得力 <Value>IntegerParameter(1)</Value>以上",85,93,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-48,"获得力 <Value>IntegerParameter(1)</Value>以上",122,134,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-49,"获得力 <Value>IntegerParameter(1)</Value>以上",163,179,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-50,"获得力 <Value>IntegerParameter(1)</Value>以上",185,203,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-51,"获得力 <Value>IntegerParameter(1)</Value>以上",206,226,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-52,"获得力 <Value>IntegerParameter(1)</Value>以上",226,248,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-53,"获得力 <Value>IntegerParameter(1)</Value>以上",251,276,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-54,"获得力 <Value>IntegerParameter(1)</Value>以上",281,309,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-55,"获得力 <Value>IntegerParameter(1)</Value>以上",4100,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",2,0,False,0
-56,"获得力 <Value>IntegerParameter(1)</Value>以上",302,347,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-57,"采集力上限 <Value>IntegerParameter(1)</Value>以上",574,604,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-58,"获得力 <Value>IntegerParameter(1)</Value>以上",3750,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",2,0,False,0
-59,"获得力 <Value>IntegerParameter(1)</Value>以上",804,964,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-60,"获得力 <Value>IntegerParameter(1)</Value>以上",860,1032,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-61,"获得力 <Value>IntegerParameter(1)</Value>以上",916,1099,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-62,"获得力 <Value>IntegerParameter(1)</Value>以上",1169,1402,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-63,"获得力 <Value>IntegerParameter(1)</Value>以上",1356,1627,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-64,"获得力 <Value>IntegerParameter(1)</Value>以上",2040,2448,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-65,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-66,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-67,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-68,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-69,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-70,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-71,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38745,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-72,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39740,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-73,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38746,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-74,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39741,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-75,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39751,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-76,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",41188,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-77,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38723,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-78,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-79,"获得力 <Value>IntegerParameter(1)</Value>以上",2244,2692,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-80,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",39752,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-81,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3800,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-82,"获得力 <Value>IntegerParameter(1)</Value>以上",3590,3990,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-83,"采集力上限 <Value>IntegerParameter(1)</Value>以上",850,900,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-84,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-85,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-86,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-87,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-88,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",41189,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-89,"获得力 <Value>IntegerParameter(1)</Value>以上",3300,3497,"收藏价值最大时：升华率＋<Value>IntegerParameter(1)</Value>%（上升型）",10,20,False,0
-90,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38734,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-91,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38724,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-92,"获得力 <Value>IntegerParameter(1)</Value>以上",42,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-93,"获得力 <Value>IntegerParameter(1)</Value>以上",42,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-94,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-95,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-96,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-97,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-98,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-99,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-100,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-101,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-102,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-103,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-104,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-105,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-106,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-107,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",38735,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-108,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-109,"获得力 <Value>IntegerParameter(1)</Value>以上",105,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-110,"",0,0,"",0,0,False,0
-111,"获得力 <Value>IntegerParameter(1)</Value>以上",188,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-112,"获得力 <Value>IntegerParameter(1)</Value>以上",228,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-113,"获得力 <Value>IntegerParameter(1)</Value>以上",323,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-114,"获得力 <Value>IntegerParameter(1)</Value>以上",523,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-115,"获得力 <Value>IntegerParameter(1)</Value>以上",619,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-116,"获得力 <Value>IntegerParameter(1)</Value>以上",889,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-117,"获得力 <Value>IntegerParameter(1)</Value>以上",989,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-118,"获得力 <Value>IntegerParameter(1)</Value>以上",1546,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-119,"",0,0,"",0,0,False,0
-120,"",0,0,"",0,0,False,0
-121,"采集力上限 <Value>IntegerParameter(1)</Value>以上",486,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-122,"",0,0,"",0,0,False,0
-123,"采集力上限 <Value>IntegerParameter(1)</Value>以上",542,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-124,"采集力上限 <Value>IntegerParameter(1)</Value>以上",571,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-125,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-126,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-127,"采集力上限 <Value>IntegerParameter(1)</Value>以上",652,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-128,"采集力上限 <Value>IntegerParameter(1)</Value>以上",668,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-129,"采集力上限 <Value>IntegerParameter(1)</Value>以上",694,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-130,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-131,"鉴别力 <Value>IntegerParameter(1)</Value>以上",88,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-132,"鉴别力 <Value>IntegerParameter(1)</Value>以上",150,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-133,"鉴别力 <Value>IntegerParameter(1)</Value>以上",182,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-134,"鉴别力 <Value>IntegerParameter(1)</Value>以上",226,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-135,"鉴别力 <Value>IntegerParameter(1)</Value>以上",321,548,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-136,"鉴别力 <Value>IntegerParameter(1)</Value>以上",499,960,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-137,"鉴别力 <Value>IntegerParameter(1)</Value>以上",611,961,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-138,"鉴别力 <Value>IntegerParameter(1)</Value>以上",874,1588,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-139,"鉴别力 <Value>IntegerParameter(1)</Value>以上",989,1688,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-140,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-141,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3550,3800,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-142,"采集力上限 <Value>IntegerParameter(1)</Value>以上",910,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-143,"鉴别力 <Value>IntegerParameter(1)</Value>以上",4000,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",30,0,False,0
-144,"获得力 <Value>IntegerParameter(1)</Value>以上",3900,4100,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-145,"采集力上限 <Value>IntegerParameter(1)</Value>以上",900,950,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-146,"鉴别力 <Value>IntegerParameter(1)</Value>以上",321,548,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-147,"鉴别力 <Value>IntegerParameter(1)</Value>以上",499,960,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-148,"鉴别力 <Value>IntegerParameter(1)</Value>以上",611,961,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-149,"鉴别力 <Value>IntegerParameter(1)</Value>以上",874,1588,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-150,"鉴别力 <Value>IntegerParameter(1)</Value>以上",989,1688,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-151,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",3,5,False,0
-152,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-153,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-154,"",0,0,"",0,0,False,0
-155,"",0,0,"",0,0,False,0
-156,"",0,0,"",0,0,False,0
-157,"鉴别力 <Value>IntegerParameter(1)</Value>以上",321,548,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",4,6,False,0
-158,"鉴别力 <Value>IntegerParameter(1)</Value>以上",499,960,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",4,6,False,0
-159,"鉴别力 <Value>IntegerParameter(1)</Value>以上",611,961,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",5,7,False,0
-160,"鉴别力 <Value>IntegerParameter(1)</Value>以上",874,1588,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",5,7,False,0
-161,"鉴别力 <Value>IntegerParameter(1)</Value>以上",989,1688,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",5,9,False,0
-162,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1535,2024,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",5,9,False,0
-163,"采集力上限 <Value>IntegerParameter(1)</Value>以上",836,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",5,0,False,0
-164,"获得力 <Value>IntegerParameter(1)</Value>以上",2421,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-165,"获得力 <Value>IntegerParameter(1)</Value>以上",2421,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-166,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2345,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-167,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2345,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-168,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-169,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-170,"采集力上限 <Value>IntegerParameter(1)</Value>以上",400,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-171,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-172,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-173,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-174,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-175,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2642,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-176,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2642,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-177,"采集力上限 <Value>IntegerParameter(1)</Value>以上",400,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-178,"采集力上限 <Value>IntegerParameter(1)</Value>以上",858,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",5,0,False,0
-179,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30301,0,"<If(IntegerParameter(2))>可以采集收藏品<Else/>不可采集收藏品</If>",0,0,True,0
-180,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30302,0,"<If(IntegerParameter(2))>可以采集收藏品<Else/>不可采集收藏品</If>",0,0,True,0
-181,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-182,"获得力 <Value>IntegerParameter(1)</Value>以上",2524,3028,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-183,"",0,0,"",0,0,False,0
-184,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-185,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-186,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-187,"鉴别力 <Value>IntegerParameter(1)</Value>以上",25,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-188,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2642,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-189,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2642,0,"获得数＋<Value>IntegerParameter(1)</Value>个",2,0,False,0
-190,"采集力上限 <Value>IntegerParameter(1)</Value>以上",400,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-191,"采集力上限 <Value>IntegerParameter(1)</Value>以上",858,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",5,0,False,0
-192,"获得力 <Value>IntegerParameter(1)</Value>以上",1680,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-193,"获得力 <Value>IntegerParameter(1)</Value>以上",1960,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-194,"获得力 <Value>IntegerParameter(1)</Value>以上",2100,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-195,"获得力 <Value>IntegerParameter(1)</Value>以上",2198,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-196,"获得力 <Value>IntegerParameter(1)</Value>以上",2296,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-197,"获得力 <Value>IntegerParameter(1)</Value>以上",2142,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-198,"获得力 <Value>IntegerParameter(1)</Value>以上",2454,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-199,"获得力 <Value>IntegerParameter(1)</Value>以上",2499,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-200,"获得力 <Value>IntegerParameter(1)</Value>以上",2677,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-201,"获得力 <Value>IntegerParameter(1)</Value>以上",2740,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-202,"获得力 <Value>IntegerParameter(1)</Value>以上",2802,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-203,"获得力 <Value>IntegerParameter(1)</Value>以上",2865,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-204,"获得力 <Value>IntegerParameter(1)</Value>以上",3052,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-205,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-206,"采集力上限 <Value>IntegerParameter(1)</Value>以上",750,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-207,"采集力上限 <Value>IntegerParameter(1)</Value>以上",760,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-208,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-209,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-210,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-211,"采集力上限 <Value>IntegerParameter(1)</Value>以上",780,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-212,"采集力上限 <Value>IntegerParameter(1)</Value>以上",790,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-213,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1680,2167,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-214,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1925,2483,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-215,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1960,2528,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-216,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2100,2709,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-217,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2149,2772,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-218,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2198,2835,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-219,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2247,2898,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-220,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2394,3088,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-221,"获得力 <Value>IntegerParameter(1)</Value>以上",2040,2244,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-222,"获得力 <Value>IntegerParameter(1)</Value>以上",2338,2571,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-223,"获得力 <Value>IntegerParameter(1)</Value>以上",2380,2618,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-224,"获得力 <Value>IntegerParameter(1)</Value>以上",2550,2805,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-225,"获得力 <Value>IntegerParameter(1)</Value>以上",2610,2871,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-226,"获得力 <Value>IntegerParameter(1)</Value>以上",2669,2935,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-227,"获得力 <Value>IntegerParameter(1)</Value>以上",2729,3001,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-228,"获得力 <Value>IntegerParameter(1)</Value>以上",2907,3197,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-229,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,770,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-230,"采集力上限 <Value>IntegerParameter(1)</Value>以上",750,780,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-231,"采集力上限 <Value>IntegerParameter(1)</Value>以上",760,790,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-232,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,800,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-233,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,800,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-234,"采集力上限 <Value>IntegerParameter(1)</Value>以上",770,800,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-235,"采集力上限 <Value>IntegerParameter(1)</Value>以上",780,810,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-236,"采集力上限 <Value>IntegerParameter(1)</Value>以上",790,820,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-237,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2140,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-238,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2337,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-239,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2380,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-240,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2550,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-241,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2609,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-242,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2669,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-243,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2728,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-244,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2907,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-245,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3401,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-246,"获得力 <Value>IntegerParameter(1)</Value>以上",3295,3591,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-247,"采集力上限 <Value>IntegerParameter(1)</Value>以上",830,880,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-248,"采集力上限 <Value>IntegerParameter(1)</Value>以上",750,780,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-249,"采集力上限 <Value>IntegerParameter(1)</Value>以上",760,790,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-250,"采集力上限 <Value>IntegerParameter(1)</Value>以上",780,810,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-251,"采集力上限 <Value>IntegerParameter(1)</Value>以上",780,810,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-252,"采集力上限 <Value>IntegerParameter(1)</Value>以上",830,860,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-253,"获得力 <Value>IntegerParameter(1)</Value>以上",3950,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",2,0,False,0
-254,"",0,0,"",0,0,False,0
-255,"",0,0,"",0,0,False,0
-256,"",0,0,"",0,0,False,0
-257,"",0,0,"",0,0,False,0
-258,"",0,0,"",0,0,False,0
-259,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-260,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-261,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-262,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-263,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-264,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-265,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-266,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-267,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-268,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-269,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-270,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-271,"获得力 <Value>IntegerParameter(1)</Value>以上",42,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-272,"获得力 <Value>IntegerParameter(1)</Value>以上",42,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-273,"获得力 <Value>IntegerParameter(1)</Value>以上",54,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-274,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-275,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-276,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-277,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-278,"获得力 <Value>IntegerParameter(1)</Value>以上",69,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-279,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-280,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-281,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-282,"获得力 <Value>IntegerParameter(1)</Value>以上",90,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-283,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-284,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-285,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-286,"获得力 <Value>IntegerParameter(1)</Value>以上",112,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-287,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-288,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-289,"获得力 <Value>IntegerParameter(1)</Value>以上",138,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-290,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-291,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-292,"获得力 <Value>IntegerParameter(1)</Value>以上",165,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-293,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-294,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-295,"获得力 <Value>IntegerParameter(1)</Value>以上",187,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-296,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-297,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-298,"获得力 <Value>IntegerParameter(1)</Value>以上",204,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-299,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-300,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-301,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-302,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",1,10,False,0
-303,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
-304,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
-305,"获得力 <Value>IntegerParameter(1)</Value>以上",2000,3000,"价值提升＋<Value>IntegerParameter(1)</Value>%（上升型）",1,10,False,0
-306,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"收藏价值＋<Value>IntegerParameter(1)</Value>",20,0,False,0
-307,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
-308,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
-309,"获得力 <Value>IntegerParameter(1)</Value>以上",4000,0,"价值提升＋<Value>IntegerParameter(1)</Value>%",20,0,False,0
-310,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-311,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-312,"获得力 <Value>IntegerParameter(1)</Value>以上",3610,4035,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",50,150,False,0
-313,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3650,3900,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-314,"采集力上限 <Value>IntegerParameter(1)</Value>以上",920,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-315,"获得力 <Value>IntegerParameter(1)</Value>以上",3610,4035,"收藏价值＋<Value>IntegerParameter(1)</Value>（上升型）",50,150,False,0
-316,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3820,4035,"价值提升＋<Value>IntegerParameter(1)</Value>%（上升型）",50,100,False,0
-317,"鉴别力 <Value>IntegerParameter(1)</Value>以上",4020,0,"集中检查：上升率＋<Value>IntegerParameter(1)</Value>%",60,0,False,0
-318,"获得力 <Value>IntegerParameter(1)</Value>以上",4020,4200,"慎重提纯：追加效果发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-319,"",0,0,"",0,0,False,0
-320,"",0,0,"",0,0,False,0
-321,"",0,0,"",0,0,False,0
-322,"",0,0,"",0,0,False,0
-323,"",0,0,"",0,0,False,0
-324,"",0,0,"",0,0,False,0
-325,"",0,0,"",0,0,False,0
-326,"",0,0,"",0,0,False,0
-327,"鉴别力 <Value>IntegerParameter(1)</Value>以上",444,572,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-328,"鉴别力 <Value>IntegerParameter(1)</Value>以上",451,581,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-329,"鉴别力 <Value>IntegerParameter(1)</Value>以上",453,584,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-330,"鉴别力 <Value>IntegerParameter(1)</Value>以上",455,586,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-331,"鉴别力 <Value>IntegerParameter(1)</Value>以上",457,589,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-332,"鉴别力 <Value>IntegerParameter(1)</Value>以上",461,594,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-333,"鉴别力 <Value>IntegerParameter(1)</Value>以上",498,642,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-334,"鉴别力 <Value>IntegerParameter(1)</Value>以上",505,651,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-335,"鉴别力 <Value>IntegerParameter(1)</Value>以上",510,657,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-336,"获得力 <Value>IntegerParameter(1)</Value>以上",395,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-337,"获得力 <Value>IntegerParameter(1)</Value>以上",460,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-338,"获得力 <Value>IntegerParameter(1)</Value>以上",462,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-339,"获得力 <Value>IntegerParameter(1)</Value>以上",493,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-340,"获得力 <Value>IntegerParameter(1)</Value>以上",495,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-341,"获得力 <Value>IntegerParameter(1)</Value>以上",499,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-342,"获得力 <Value>IntegerParameter(1)</Value>以上",504,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-343,"获得力 <Value>IntegerParameter(1)</Value>以上",510,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-344,"获得力 <Value>IntegerParameter(1)</Value>以上",515,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-345,"采集力上限 <Value>IntegerParameter(1)</Value>以上",571,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-346,"采集力上限 <Value>IntegerParameter(1)</Value>以上",577,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-347,"采集力上限 <Value>IntegerParameter(1)</Value>以上",587,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-348,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-349,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-350,"采集力上限 <Value>IntegerParameter(1)</Value>以上",591,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-351,"采集力上限 <Value>IntegerParameter(1)</Value>以上",593,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-352,"采集力上限 <Value>IntegerParameter(1)</Value>以上",595,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-353,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-354,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-355,"鉴别力 <Value>IntegerParameter(1)</Value>以上",539,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-356,"鉴别力 <Value>IntegerParameter(1)</Value>以上",548,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-357,"鉴别力 <Value>IntegerParameter(1)</Value>以上",550,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-358,"鉴别力 <Value>IntegerParameter(1)</Value>以上",553,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-359,"鉴别力 <Value>IntegerParameter(1)</Value>以上",555,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-360,"鉴别力 <Value>IntegerParameter(1)</Value>以上",560,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-361,"鉴别力 <Value>IntegerParameter(1)</Value>以上",565,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-362,"鉴别力 <Value>IntegerParameter(1)</Value>以上",572,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-363,"鉴别力 <Value>IntegerParameter(1)</Value>以上",578,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-364,"采集力上限 <Value>IntegerParameter(1)</Value>以上",577,607,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-365,"采集力上限 <Value>IntegerParameter(1)</Value>以上",587,617,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-366,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,619,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-367,"采集力上限 <Value>IntegerParameter(1)</Value>以上",589,619,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-368,"采集力上限 <Value>IntegerParameter(1)</Value>以上",591,621,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-369,"采集力上限 <Value>IntegerParameter(1)</Value>以上",593,623,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-370,"采集力上限 <Value>IntegerParameter(1)</Value>以上",595,625,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-371,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,627,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-372,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,627,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-373,"获得力 <Value>IntegerParameter(1)</Value>以上",377,414,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-374,"获得力 <Value>IntegerParameter(1)</Value>以上",439,482,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-375,"获得力 <Value>IntegerParameter(1)</Value>以上",440,484,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-376,"获得力 <Value>IntegerParameter(1)</Value>以上",470,517,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-377,"获得力 <Value>IntegerParameter(1)</Value>以上",472,519,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-378,"获得力 <Value>IntegerParameter(1)</Value>以上",476,523,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-379,"获得力 <Value>IntegerParameter(1)</Value>以上",480,528,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-380,"获得力 <Value>IntegerParameter(1)</Value>以上",486,534,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-381,"获得力 <Value>IntegerParameter(1)</Value>以上",491,540,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-382,"",0,0,"",0,0,False,0
-383,"",0,0,"",0,0,False,0
-384,"",0,0,"",0,0,False,0
-385,"",0,0,"",0,0,False,0
-386,"",0,0,"",0,0,False,0
-387,"",0,0,"",0,0,False,0
-388,"",0,0,"",0,0,False,0
-389,"",0,0,"",0,0,False,0
-390,"获得力 <Value>IntegerParameter(1)</Value>以上",395,454,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-391,"获得力 <Value>IntegerParameter(1)</Value>以上",400,460,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-392,"获得力 <Value>IntegerParameter(1)</Value>以上",495,569,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-393,"获得力 <Value>IntegerParameter(1)</Value>以上",499,573,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-394,"获得力 <Value>IntegerParameter(1)</Value>以上",515,592,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-395,"",0,0,"",0,0,False,0
-396,"",0,0,"",0,0,False,0
-397,"",0,0,"",0,0,False,0
-398,"采集力上限 <Value>IntegerParameter(1)</Value>以上",577,607,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-399,"采集力上限 <Value>IntegerParameter(1)</Value>以上",583,613,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-400,"采集力上限 <Value>IntegerParameter(1)</Value>以上",591,621,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-401,"采集力上限 <Value>IntegerParameter(1)</Value>以上",593,623,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-402,"采集力上限 <Value>IntegerParameter(1)</Value>以上",597,627,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-403,"",0,0,"",0,0,False,0
-404,"",0,0,"",0,0,False,0
-405,"",0,0,"",0,0,False,0
-406,"",0,0,"",0,0,False,0
-407,"",0,0,"",0,0,False,0
-408,"",0,0,"",0,0,False,0
-409,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-410,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1840,2760,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-411,"获得力 <Value>IntegerParameter(1)</Value>以上",1856,2041,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-412,"获得力 <Value>IntegerParameter(1)</Value>以上",1856,2041,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-413,"采集力上限 <Value>IntegerParameter(1)</Value>以上",696,765,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-414,"采集力上限 <Value>IntegerParameter(1)</Value>以上",696,765,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
-415,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1898,2847,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-416,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1898,2847,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-417,"获得力 <Value>IntegerParameter(1)</Value>以上",1929,2121,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-418,"获得力 <Value>IntegerParameter(1)</Value>以上",1929,2121,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-419,"采集力上限 <Value>IntegerParameter(1)</Value>以上",714,785,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-420,"采集力上限 <Value>IntegerParameter(1)</Value>以上",714,785,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
-421,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",29642,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-422,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",29643,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-423,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30290,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-424,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30291,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-425,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2139,3208,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-426,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2139,3208,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-427,"获得力 <Value>IntegerParameter(1)</Value>以上",2162,2378,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-428,"获得力 <Value>IntegerParameter(1)</Value>以上",2162,2378,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-429,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,814,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-430,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,814,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
-431,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2156,3234,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-432,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2156,3234,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-433,"获得力 <Value>IntegerParameter(1)</Value>以上",2192,2411,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-434,"获得力 <Value>IntegerParameter(1)</Value>以上",2192,2411,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-435,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,814,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-436,"采集力上限 <Value>IntegerParameter(1)</Value>以上",740,814,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
-437,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30301,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-438,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>",30302,0,"<If(IntegerParameter(2))>可获得<Else/>获得率 <Value>IntegerParameter(1)</Value>%</If>",0,0,True,0
-439,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2336,3504,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,30,False,0
-440,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2336,3504,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-441,"获得力 <Value>IntegerParameter(1)</Value>以上",2348,2582,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,2,False,0
-442,"获得力 <Value>IntegerParameter(1)</Value>以上",2348,2582,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",2,4,False,0
-443,"采集力上限 <Value>IntegerParameter(1)</Value>以上",772,849,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-444,"采集力上限 <Value>IntegerParameter(1)</Value>以上",772,849,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",2,4,False,0
-445,"鉴别力 <Value>IntegerParameter(1)</Value>以上",327,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-446,"鉴别力 <Value>IntegerParameter(1)</Value>以上",612,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-447,"鉴别力 <Value>IntegerParameter(1)</Value>以上",617,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-448,"鉴别力 <Value>IntegerParameter(1)</Value>以上",631,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-449,"鉴别力 <Value>IntegerParameter(1)</Value>以上",635,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-450,"鉴别力 <Value>IntegerParameter(1)</Value>以上",656,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-451,"鉴别力 <Value>IntegerParameter(1)</Value>以上",829,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-452,"鉴别力 <Value>IntegerParameter(1)</Value>以上",829,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-453,"鉴别力 <Value>IntegerParameter(1)</Value>以上",945,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-454,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1003,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-455,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1024,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-456,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1067,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-457,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1088,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-458,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1109,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-459,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1206,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-460,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1399,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-461,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1592,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-462,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1688,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-463,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1737,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-464,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1828,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-465,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1919,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-466,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2010,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-467,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2105,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-468,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2316,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-469,"鉴别力 <Value>IntegerParameter(1)</Value>以上",2605,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",40,0,False,0
-470,"",0,0,"",0,0,False,0
-471,"鉴别力 <Value>IntegerParameter(1)</Value>以上",3145,3774,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",30,50,False,0
-472,"",0,0,"",0,0,False,0
-473,"",0,0,"",0,0,False,0
-474,"",0,0,"",0,0,False,0
-475,"采集力上限 <Value>IntegerParameter(1)</Value>以上",900,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-476,"",0,0,"",0,0,False,0
-477,"",0,0,"",0,0,False,0
-478,"",0,0,"",0,0,False,0
-479,"",0,0,"",0,0,False,0
-480,"",0,0,"",0,0,False,0
-481,"",0,0,"",0,0,False,0
-482,"",0,0,"",0,0,False,0
-483,"",0,0,"",0,0,False,0
-484,"",0,0,"",0,0,False,0
-485,"",0,0,"",0,0,False,0
-486,"",0,0,"",0,0,False,0
-487,"",0,0,"",0,0,False,0
-488,"",0,0,"",0,0,False,0
-489,"",0,0,"",0,0,False,0
-490,"",0,0,"",0,0,False,0
-491,"",0,0,"",0,0,False,0
-492,"",0,0,"",0,0,False,0
-493,"",0,0,"",0,0,False,0
-494,"获得力 <Value>IntegerParameter(1)</Value>以上",221,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-495,"获得力 <Value>IntegerParameter(1)</Value>以上",448,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-496,"获得力 <Value>IntegerParameter(1)</Value>以上",453,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-497,"获得力 <Value>IntegerParameter(1)</Value>以上",457,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-498,"获得力 <Value>IntegerParameter(1)</Value>以上",498,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-499,"",0,0,"",0,0,False,0
-500,"",0,0,"",0,0,False,0
-501,"",0,0,"",0,0,False,0
-502,"",0,0,"",0,0,False,0
-503,"",0,0,"",0,0,False,0
-504,"",0,0,"",0,0,False,0
-505,"",0,0,"",0,0,False,0
-506,"",0,0,"",0,0,False,0
-507,"",0,0,"",0,0,False,0
-508,"",0,0,"",0,0,False,0
-509,"",0,0,"",0,0,False,0
-510,"",0,0,"",0,0,False,0
-511,"",0,0,"",0,0,False,0
-512,"",0,0,"",0,0,False,0
-513,"",0,0,"",0,0,False,0
-514,"",0,0,"",0,0,False,0
-515,"",0,0,"",0,0,False,0
-516,"",0,0,"",0,0,False,0
-517,"",0,0,"",0,0,False,0
-518,"",0,0,"",0,0,False,0
-519,"",0,0,"",0,0,False,0
-520,"",0,0,"",0,0,False,0
-521,"",0,0,"",0,0,False,0
-522,"",0,0,"",0,0,False,0
-523,"",0,0,"",0,0,False,0
-524,"",0,0,"",0,0,False,0
-525,"",0,0,"",0,0,False,0
-526,"",0,0,"",0,0,False,0
-527,"",0,0,"",0,0,False,0
-528,"",0,0,"",0,0,False,0
-529,"",0,0,"",0,0,False,0
-530,"",0,0,"",0,0,False,0
-531,"",0,0,"",0,0,False,0
-532,"",0,0,"",0,0,False,0
-533,"",0,0,"",0,0,False,0
-534,"获得力 <Value>IntegerParameter(1)</Value>以上",602,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-535,"获得力 <Value>IntegerParameter(1)</Value>以上",714,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-536,"获得力 <Value>IntegerParameter(1)</Value>以上",733,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-537,"获得力 <Value>IntegerParameter(1)</Value>以上",743,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-538,"获得力 <Value>IntegerParameter(1)</Value>以上",774,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-539,"获得力 <Value>IntegerParameter(1)</Value>以上",821,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-540,"获得力 <Value>IntegerParameter(1)</Value>以上",892,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-541,"获得力 <Value>IntegerParameter(1)</Value>以上",928,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-542,"获得力 <Value>IntegerParameter(1)</Value>以上",941,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-543,"获得力 <Value>IntegerParameter(1)</Value>以上",948,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-544,"获得力 <Value>IntegerParameter(1)</Value>以上",987,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-545,"获得力 <Value>IntegerParameter(1)</Value>以上",1026,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-546,"鉴别力 <Value>IntegerParameter(1)</Value>以上",645,832,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-547,"鉴别力 <Value>IntegerParameter(1)</Value>以上",700,903,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-548,"鉴别力 <Value>IntegerParameter(1)</Value>以上",728,939,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-549,"鉴别力 <Value>IntegerParameter(1)</Value>以上",738,952,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-550,"鉴别力 <Value>IntegerParameter(1)</Value>以上",743,958,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-551,"鉴别力 <Value>IntegerParameter(1)</Value>以上",774,998,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-552,"鉴别力 <Value>IntegerParameter(1)</Value>以上",805,1038,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-553,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-554,"采集力上限 <Value>IntegerParameter(1)</Value>以上",605,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-555,"采集力上限 <Value>IntegerParameter(1)</Value>以上",610,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-556,"采集力上限 <Value>IntegerParameter(1)</Value>以上",620,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-557,"采集力上限 <Value>IntegerParameter(1)</Value>以上",625,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-558,"采集力上限 <Value>IntegerParameter(1)</Value>以上",635,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-559,"采集力上限 <Value>IntegerParameter(1)</Value>以上",645,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-560,"",0,0,"",0,0,False,0
-561,"",0,0,"",0,0,False,0
-562,"",0,0,"",0,0,False,0
-563,"",0,0,"",0,0,False,0
-564,"",0,0,"",0,0,False,0
-565,"",0,0,"",0,0,False,0
-566,"",0,0,"",0,0,False,0
-567,"鉴别力 <Value>IntegerParameter(1)</Value>以上",731,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-568,"鉴别力 <Value>IntegerParameter(1)</Value>以上",850,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-569,"鉴别力 <Value>IntegerParameter(1)</Value>以上",884,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-570,"鉴别力 <Value>IntegerParameter(1)</Value>以上",896,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-571,"鉴别力 <Value>IntegerParameter(1)</Value>以上",902,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-572,"鉴别力 <Value>IntegerParameter(1)</Value>以上",940,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-573,"鉴别力 <Value>IntegerParameter(1)</Value>以上",977,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-574,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-575,"采集力上限 <Value>IntegerParameter(1)</Value>以上",605,635,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-576,"采集力上限 <Value>IntegerParameter(1)</Value>以上",610,640,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-577,"采集力上限 <Value>IntegerParameter(1)</Value>以上",620,650,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-578,"采集力上限 <Value>IntegerParameter(1)</Value>以上",625,655,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-579,"采集力上限 <Value>IntegerParameter(1)</Value>以上",635,665,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-580,"采集力上限 <Value>IntegerParameter(1)</Value>以上",645,675,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-581,"获得力 <Value>IntegerParameter(1)</Value>以上",782,860,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-582,"获得力 <Value>IntegerParameter(1)</Value>以上",850,935,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-583,"获得力 <Value>IntegerParameter(1)</Value>以上",884,972,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-584,"获得力 <Value>IntegerParameter(1)</Value>以上",897,986,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-585,"获得力 <Value>IntegerParameter(1)</Value>以上",903,993,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-586,"获得力 <Value>IntegerParameter(1)</Value>以上",940,1034,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-587,"获得力 <Value>IntegerParameter(1)</Value>以上",978,1075,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-588,"",0,0,"",0,0,False,0
-589,"",0,0,"",0,0,False,0
-590,"",0,0,"",0,0,True,0
-591,"",0,0,"",0,0,True,0
-592,"",0,0,"",0,0,True,0
-593,"",0,0,"",0,0,True,0
-594,"",0,0,"",0,0,True,0
-595,"",0,0,"",0,0,True,0
-596,"",0,0,"",0,0,True,0
-597,"",0,0,"",0,0,True,0
-598,"",0,0,"",0,0,True,0
-599,"",0,0,"",0,0,True,0
-600,"",0,0,"",0,0,False,0
-601,"",0,0,"",0,0,False,0
-602,"",0,0,"",0,0,False,0
-603,"",0,0,"",0,0,False,0
-604,"",0,0,"",0,0,False,0
-605,"",0,0,"",0,0,False,0
-606,"",0,0,"",0,0,False,0
-607,"",0,0,"",0,0,False,0
-608,"",0,0,"",0,0,False,0
-609,"获得力 <Value>IntegerParameter(1)</Value>以上",821,944,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-610,"获得力 <Value>IntegerParameter(1)</Value>以上",928,1067,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-611,"获得力 <Value>IntegerParameter(1)</Value>以上",948,1090,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-612,"获得力 <Value>IntegerParameter(1)</Value>以上",987,1135,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-613,"",0,0,"",0,0,False,0
-614,"获得力 <Value>IntegerParameter(1)</Value>以上",1026,1179,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-615,"获得力 <Value>IntegerParameter(1)</Value>以上",1116,1283,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-616,"获得力 <Value>IntegerParameter(1)</Value>以上",1006,1156,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-617,"",0,0,"",0,0,False,0
-618,"",0,0,"",0,0,False,0
-619,"",0,0,"",0,0,False,0
-620,"",0,0,"",0,0,False,0
-621,"",0,0,"",0,0,False,0
-622,"",0,0,"",0,0,False,0
-623,"",0,0,"",0,0,False,0
-624,"",0,0,"",0,0,False,0
-625,"",0,0,"",0,0,False,0
-626,"",0,0,"",0,0,False,0
-627,"",0,0,"",0,0,False,0
-628,"",0,0,"",0,0,False,0
-629,"",0,0,"",0,0,False,0
-630,"",0,0,"",0,0,False,0
-631,"",0,0,"",0,0,False,0
-632,"",0,0,"",0,0,False,0
-633,"",0,0,"",0,0,False,0
-634,"",0,0,"",0,0,False,0
-635,"",0,0,"",0,0,False,0
-636,"",0,0,"",0,0,False,0
-637,"",0,0,"",0,0,False,0
-638,"",0,0,"",0,0,False,0
-639,"",0,0,"",0,0,False,0
-640,"",0,0,"",0,0,False,0
-641,"",0,0,"",0,0,False,0
-642,"",0,0,"",0,0,False,0
-643,"",0,0,"",0,0,False,0
-644,"",0,0,"",0,0,False,0
-645,"",0,0,"",0,0,False,0
-646,"",0,0,"",0,0,False,0
-647,"",0,0,"",0,0,False,0
-648,"",0,0,"",0,0,False,0
-649,"",0,0,"",0,0,False,0
-650,"采集力上限 <Value>IntegerParameter(1)</Value>以上",600,630,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-651,"采集力上限 <Value>IntegerParameter(1)</Value>以上",610,640,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-652,"采集力上限 <Value>IntegerParameter(1)</Value>以上",625,655,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-653,"采集力上限 <Value>IntegerParameter(1)</Value>以上",635,665,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-654,"采集力上限 <Value>IntegerParameter(1)</Value>以上",640,670,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-655,"采集力上限 <Value>IntegerParameter(1)</Value>以上",645,675,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-656,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-657,"",0,0,"",0,0,False,0
-658,"",0,0,"",0,0,False,0
-659,"",0,0,"",0,0,False,0
-660,"",0,0,"",0,0,False,0
-661,"",0,0,"",0,0,False,0
-662,"",0,0,"",0,0,False,0
-663,"",0,0,"",0,0,False,0
-664,"",0,0,"",0,0,False,0
-665,"",0,0,"",0,0,True,0
-666,"",0,0,"",0,0,False,0
-667,"",0,0,"",0,0,True,0
-668,"",0,0,"",0,0,False,0
-669,"获得力 <Value>IntegerParameter(1)</Value>以上",1543,1851,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-670,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-671,"获得力 <Value>IntegerParameter(1)</Value>以上",1015,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-672,"获得力 <Value>IntegerParameter(1)</Value>以上",1225,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-673,"获得力 <Value>IntegerParameter(1)</Value>以上",1260,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-674,"获得力 <Value>IntegerParameter(1)</Value>以上",1326,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-675,"获得力 <Value>IntegerParameter(1)</Value>以上",1392,0,"高于自身等级道具获得率＋<Value>IntegerParameter(1)</Value>%",10,0,False,0
-676,"获得力 <Value>IntegerParameter(1)</Value>以上",1294,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-677,"获得力 <Value>IntegerParameter(1)</Value>以上",1517,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-678,"获得力 <Value>IntegerParameter(1)</Value>以上",1562,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-679,"获得力 <Value>IntegerParameter(1)</Value>以上",1606,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-680,"获得力 <Value>IntegerParameter(1)</Value>以上",1649,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-681,"获得力 <Value>IntegerParameter(1)</Value>以上",1691,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-682,"获得力 <Value>IntegerParameter(1)</Value>以上",1733,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-683,"获得力 <Value>IntegerParameter(1)</Value>以上",1859,0,"获得数＋<Value>IntegerParameter(1)</Value>个",1,0,False,0
-684,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1015,1309,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-685,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1190,1535,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-686,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1225,1580,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-687,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1260,1625,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-688,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1293,1667,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-689,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1326,1710,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-690,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1359,1753,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-691,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1458,1880,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）",20,60,False,0
-692,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-693,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-694,"采集力上限 <Value>IntegerParameter(1)</Value>以上",685,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-695,"采集力上限 <Value>IntegerParameter(1)</Value>以上",695,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-696,"采集力上限 <Value>IntegerParameter(1)</Value>以上",700,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-697,"采集力上限 <Value>IntegerParameter(1)</Value>以上",705,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-698,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-699,"采集力上限 <Value>IntegerParameter(1)</Value>以上",725,0,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次",1,0,False,0
-700,"",0,0,"",0,0,False,0
-701,"",0,0,"",0,0,False,0
-702,"",0,0,"",0,0,False,0
-703,"",0,0,"",0,0,False,0
-704,"",0,0,"",0,0,False,0
-705,"",0,0,"",0,0,False,0
-706,"",0,0,"",0,0,False,0
-707,"",0,0,"",0,0,False,0
-708,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1350,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-709,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1445,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-710,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1487,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-711,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1530,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-712,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1570,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-713,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1610,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-714,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1650,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-715,"鉴别力 <Value>IntegerParameter(1)</Value>以上",1770,0,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%",100,0,False,0
-716,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-717,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-718,"采集力上限 <Value>IntegerParameter(1)</Value>以上",685,715,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-719,"采集力上限 <Value>IntegerParameter(1)</Value>以上",695,725,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-720,"采集力上限 <Value>IntegerParameter(1)</Value>以上",700,730,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-721,"采集力上限 <Value>IntegerParameter(1)</Value>以上",705,735,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-722,"采集力上限 <Value>IntegerParameter(1)</Value>以上",710,740,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-723,"采集力上限 <Value>IntegerParameter(1)</Value>以上",725,755,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-724,"获得力 <Value>IntegerParameter(1)</Value>以上",1233,1356,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-725,"获得力 <Value>IntegerParameter(1)</Value>以上",1445,1589,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-726,"获得力 <Value>IntegerParameter(1)</Value>以上",1488,1636,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-727,"获得力 <Value>IntegerParameter(1)</Value>以上",1530,1683,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-728,"获得力 <Value>IntegerParameter(1)</Value>以上",1571,1728,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-729,"获得力 <Value>IntegerParameter(1)</Value>以上",1611,1772,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-730,"获得力 <Value>IntegerParameter(1)</Value>以上",1651,1816,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-731,"获得力 <Value>IntegerParameter(1)</Value>以上",1771,1948,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-732,"",0,0,"",0,0,False,0
-733,"",0,0,"",0,0,False,0
-734,"",0,0,"",0,0,False,0
-735,"",0,0,"",0,0,True,0
-736,"",0,0,"",0,0,True,0
-737,"",0,0,"",0,0,True,0
-738,"",0,0,"",0,0,True,0
-739,"",0,0,"",0,0,True,0
-740,"",0,0,"",0,0,True,0
-741,"",0,0,"",0,0,True,0
-742,"",0,0,"",0,0,True,0
-743,"",0,0,"",0,0,True,0
-744,"",0,0,"",0,0,True,0
-745,"",0,0,"",0,0,True,0
-746,"",0,0,"",0,0,False,0
-747,"",0,0,"",0,0,False,0
-748,"",0,0,"",0,0,False,0
-749,"",0,0,"",0,0,False,0
-750,"",0,0,"",0,0,False,0
-751,"",0,0,"",0,0,False,0
-752,"",0,0,"",0,0,False,0
-753,"",0,0,"",0,0,False,0
-754,"",0,0,"",0,0,False,0
-755,"获得力 <Value>IntegerParameter(1)</Value>以上",1294,1488,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-756,"获得力 <Value>IntegerParameter(1)</Value>以上",1562,1796,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-757,"获得力 <Value>IntegerParameter(1)</Value>以上",1606,1846,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-758,"获得力 <Value>IntegerParameter(1)</Value>以上",1691,1944,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-759,"获得力 <Value>IntegerParameter(1)</Value>以上",1775,2041,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-760,"获得力 <Value>IntegerParameter(1)</Value>以上",1859,2137,"获得数＋<Value>IntegerParameter(1)</Value>个（上升型）",1,3,False,0
-761,"",0,0,"",0,0,False,0
-762,"",0,0,"",0,0,False,0
-763,"",0,0,"",0,0,False,0
-764,"",0,0,"",0,0,False,0
-765,"",0,0,"",0,0,False,0
-766,"",0,0,"",0,0,False,0
-767,"采集力上限 <Value>IntegerParameter(1)</Value>以上",680,710,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-768,"采集力上限 <Value>IntegerParameter(1)</Value>以上",685,715,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-769,"采集力上限 <Value>IntegerParameter(1)</Value>以上",695,725,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-770,"采集力上限 <Value>IntegerParameter(1)</Value>以上",705,735,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-771,"采集力上限 <Value>IntegerParameter(1)</Value>以上",715,745,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-772,"采集力上限 <Value>IntegerParameter(1)</Value>以上",725,755,"采集次数/耐久＋<Value>IntegerParameter(1)</Value>次（上升型）",1,2,False,0
-773,"",0,0,"",0,0,False,0
-774,"",0,0,"",0,0,False,0
-775,"",0,0,"",0,0,False,0
-776,"",0,0,"",0,0,False,0
-777,"",0,0,"",0,0,False,0
-778,"",0,0,"",0,0,False,0
-779,"",0,0,"",0,0,False,0
-780,"",0,0,"",0,0,False,0
-781,"",0,0,"",0,0,False,0
-782,"",0,0,"",0,0,False,0
-783,"",0,0,"",0,0,False,0
-784,"",0,0,"",0,0,False,0
-785,"",0,0,"",0,0,False,0
-786,"",0,0,"",0,0,False,0
-787,"",0,0,"",0,0,False,0
-788,"",0,0,"",0,0,False,0
-789,"",0,0,"",0,0,False,0
-790,"",0,0,"",0,0,False,0
-791,"",0,0,"",0,0,False,0
-792,"",0,0,"",0,0,False,0
-793,"",0,0,"",0,0,False,0
-794,"",0,0,"",0,0,False,0
-795,"",0,0,"",0,0,False,0
-796,"",0,0,"",0,0,False,0
-797,"",0,0,"",0,0,False,0
-798,"",0,0,"",0,0,False,0
-799,"",0,0,"",0,0,False,0
-800,"",0,0,"",0,0,False,0
-801,"",0,0,"",0,0,False,0
-802,"",0,0,"",0,0,False,0
-803,"",0,0,"",0,0,False,0
-804,"",0,0,"",0,0,False,0
-805,"",0,0,"",0,0,False,0
-806,"",0,0,"",0,0,False,0
-807,"",0,0,"",0,0,False,0
-808,"",0,0,"",0,0,False,0
-809,"",0,0,"",0,0,False,0
-810,"",0,0,"",0,0,False,0
-811,"",0,0,"",0,0,False,0
-812,"",0,0,"",0,0,False,0
-813,"",0,0,"",0,0,False,0
-814,"",0,0,"",0,0,False,0
-815,"",0,0,"",0,0,False,0
-816,"",0,0,"",0,0,False,0
+0,0,0,0,0,0,0,False,0
+1,3,30,0,18,1,0,False,0
+2,1,2,0,1,10,0,False,0
+3,3,20,0,4,15,0,False,0
+4,3,30,0,7,20,0,False,0
+5,15,42,0,22,40,0,False,0
+6,15,52,0,22,40,0,False,0
+7,15,62,0,22,40,0,False,0
+8,15,81,0,22,40,0,False,0
+9,15,98,0,22,40,0,False,0
+10,15,126,0,22,40,0,False,0
+11,15,153,0,22,40,0,False,0
+12,15,182,0,22,40,0,False,0
+13,15,198,0,22,40,0,False,0
+14,15,214,0,22,40,0,False,0
+15,14,34,0,14,1,0,False,0
+16,14,57,0,14,1,0,False,0
+17,14,89,0,14,1,0,False,0
+18,14,128,0,14,1,0,False,0
+19,14,171,0,14,1,0,False,0
+20,14,194,0,14,1,0,False,0
+21,14,216,0,14,1,0,False,0
+22,14,237,0,14,1,0,False,0
+23,14,263,0,14,1,0,False,0
+24,14,295,0,14,1,0,False,0
+25,15,89,0,22,100,0,False,0
+26,15,110,0,22,100,0,False,0
+27,15,131,0,22,100,0,False,0
+28,15,153,0,22,100,0,False,0
+29,15,174,0,22,100,0,False,0
+30,15,195,0,22,100,0,False,0
+31,15,216,0,22,100,0,False,0
+32,15,238,0,22,100,0,False,0
+33,15,259,0,22,100,0,False,0
+34,15,280,0,22,100,0,False,0
+35,19,414,444,19,1,2,False,0
+36,19,429,459,19,1,2,False,0
+37,19,436,466,19,1,2,False,0
+38,19,486,516,19,1,2,False,0
+39,19,493,523,19,1,2,False,0
+40,19,515,545,19,1,2,False,0
+41,19,521,551,19,1,2,False,0
+42,19,542,572,19,1,2,False,0
+43,19,545,575,19,1,2,False,0
+44,19,571,601,19,1,2,False,0
+45,14,33,36,17,1,3,False,0
+46,14,55,60,17,1,3,False,0
+47,14,85,93,17,1,3,False,0
+48,14,122,134,17,1,3,False,0
+49,14,163,179,17,1,3,False,0
+50,14,185,203,17,1,3,False,0
+51,14,206,226,17,1,3,False,0
+52,14,226,248,17,1,3,False,0
+53,14,251,276,17,1,3,False,0
+54,14,281,309,17,1,3,False,0
+55,14,4100,0,18,2,0,False,0
+56,14,302,347,17,1,3,False,0
+57,19,574,604,19,1,2,False,0
+58,14,3750,0,18,2,0,False,0
+59,14,804,964,17,1,3,False,0
+60,14,860,1032,17,1,3,False,0
+61,14,916,1099,17,1,3,False,0
+62,14,1169,1402,17,1,3,False,0
+63,14,1356,1627,17,1,3,False,0
+64,14,2040,2448,17,1,3,False,0
+65,19,600,630,19,1,2,False,0
+66,19,600,630,19,1,2,False,0
+67,19,600,630,19,1,2,False,0
+68,19,680,710,19,1,2,False,0
+69,19,680,710,19,1,2,False,0
+70,19,740,770,19,1,2,False,0
+71,20,38745,0,3,0,0,True,0
+72,20,39740,0,3,0,0,True,0
+73,20,38746,0,3,0,0,True,0
+74,20,39741,0,3,0,0,True,0
+75,20,39751,0,3,0,0,True,0
+76,20,41188,0,3,0,0,True,0
+77,20,38723,0,3,0,0,True,0
+78,19,740,770,19,1,2,False,0
+79,14,2244,2692,17,1,3,False,0
+80,20,39752,0,3,0,0,True,0
+81,15,3800,0,22,30,0,False,0
+82,14,3590,3990,17,1,3,False,0
+83,19,850,900,19,1,2,False,0
+84,14,90,0,4,10,0,False,0
+85,14,90,0,4,10,0,False,0
+86,14,90,0,4,10,0,False,0
+87,14,90,0,4,10,0,False,0
+88,20,41189,0,3,0,0,True,0
+89,14,3300,3497,25,10,20,False,0
+90,20,38734,0,3,0,0,True,0
+91,20,38724,0,3,0,0,True,0
+92,14,42,0,4,10,0,False,0
+93,14,42,0,4,10,0,False,0
+94,14,54,0,4,10,0,False,0
+95,14,69,0,4,10,0,False,0
+96,14,69,0,4,10,0,False,0
+97,14,69,0,4,10,0,False,0
+98,14,69,0,4,10,0,False,0
+99,14,69,0,4,10,0,False,0
+100,14,112,0,4,10,0,False,0
+101,14,112,0,4,10,0,False,0
+102,14,112,0,4,10,0,False,0
+103,14,112,0,4,10,0,False,0
+104,14,138,0,4,10,0,False,0
+105,14,138,0,4,10,0,False,0
+106,14,138,0,4,10,0,False,0
+107,20,38735,0,3,0,0,True,0
+108,14,54,0,18,1,0,False,0
+109,14,105,0,18,1,0,False,0
+110,0,0,0,0,0,0,False,0
+111,14,188,0,18,1,0,False,0
+112,14,228,0,18,1,0,False,0
+113,14,323,0,18,1,0,False,0
+114,14,523,0,18,1,0,False,0
+115,14,619,0,18,1,0,False,0
+116,14,889,0,18,1,0,False,0
+117,14,989,0,18,1,0,False,0
+118,14,1546,0,18,1,0,False,0
+119,0,0,0,0,0,0,False,0
+120,0,0,0,0,0,0,False,0
+121,19,486,0,18,1,0,False,0
+122,0,0,0,0,0,0,False,0
+123,19,542,0,18,1,0,False,0
+124,19,571,0,18,1,0,False,0
+125,19,589,0,18,1,0,False,0
+126,19,597,0,18,1,0,False,0
+127,19,652,0,18,1,0,False,0
+128,19,668,0,18,1,0,False,0
+129,19,694,0,18,1,0,False,0
+130,15,25,0,14,1,0,False,0
+131,15,88,0,14,1,0,False,0
+132,15,150,0,14,1,0,False,0
+133,15,182,0,14,1,0,False,0
+134,15,226,0,14,1,0,False,0
+135,15,321,548,17,1,2,False,0
+136,15,499,960,17,1,2,False,0
+137,15,611,961,17,1,3,False,0
+138,15,874,1588,17,1,3,False,0
+139,15,989,1688,17,1,3,False,0
+140,15,1535,2024,17,1,3,False,0
+141,15,3550,3800,23,30,50,False,0
+142,19,910,0,18,1,0,False,0
+143,15,4000,0,22,30,0,False,0
+144,14,3900,4100,17,1,3,False,0
+145,19,900,950,19,1,2,False,0
+146,15,321,548,17,2,4,False,0
+147,15,499,960,17,2,4,False,0
+148,15,611,961,17,3,5,False,0
+149,15,874,1588,17,3,5,False,0
+150,15,989,1688,17,3,5,False,0
+151,15,1535,2024,17,3,5,False,0
+152,15,3650,3900,23,30,50,False,0
+153,19,920,0,18,1,0,False,0
+154,0,0,0,0,0,0,False,0
+155,0,0,0,0,0,0,False,0
+156,0,0,0,0,0,0,False,0
+157,15,321,548,17,4,6,False,0
+158,15,499,960,17,4,6,False,0
+159,15,611,961,17,5,7,False,0
+160,15,874,1588,17,5,7,False,0
+161,15,989,1688,17,5,9,False,0
+162,15,1535,2024,17,5,9,False,0
+163,19,836,0,18,5,0,False,0
+164,14,2421,0,14,1,0,False,0
+165,14,2421,0,14,2,0,False,0
+166,15,2345,0,14,1,0,False,0
+167,15,2345,0,14,2,0,False,0
+168,14,54,0,14,1,0,False,0
+169,15,25,0,14,1,0,False,0
+170,19,400,0,14,1,0,False,0
+171,14,54,0,14,1,0,False,0
+172,14,2740,0,14,1,0,False,0
+173,14,2740,0,14,2,0,False,0
+174,15,25,0,14,1,0,False,0
+175,15,2642,0,14,1,0,False,0
+176,15,2642,0,14,2,0,False,0
+177,19,400,0,14,1,0,False,0
+178,19,858,0,18,5,0,False,0
+179,20,30301,0,21,0,0,True,0
+180,20,30302,0,21,0,0,True,0
+181,19,740,770,19,1,2,False,0
+182,14,2524,3028,17,1,3,False,0
+183,0,0,0,0,0,0,False,0
+184,14,54,0,14,1,0,False,0
+185,14,2740,0,14,1,0,False,0
+186,14,2740,0,14,2,0,False,0
+187,15,25,0,14,1,0,False,0
+188,15,2642,0,14,1,0,False,0
+189,15,2642,0,14,2,0,False,0
+190,19,400,0,14,1,0,False,0
+191,19,858,0,18,5,0,False,0
+192,14,1680,0,4,10,0,False,0
+193,14,1960,0,4,10,0,False,0
+194,14,2100,0,4,10,0,False,0
+195,14,2198,0,4,10,0,False,0
+196,14,2296,0,4,10,0,False,0
+197,14,2142,0,14,1,0,False,0
+198,14,2454,0,14,1,0,False,0
+199,14,2499,0,14,1,0,False,0
+200,14,2677,0,14,1,0,False,0
+201,14,2740,0,14,1,0,False,0
+202,14,2802,0,14,1,0,False,0
+203,14,2865,0,14,1,0,False,0
+204,14,3052,0,14,1,0,False,0
+205,19,740,0,18,1,0,False,0
+206,19,750,0,18,1,0,False,0
+207,19,760,0,18,1,0,False,0
+208,19,770,0,18,1,0,False,0
+209,19,770,0,18,1,0,False,0
+210,19,770,0,18,1,0,False,0
+211,19,780,0,18,1,0,False,0
+212,19,790,0,18,1,0,False,0
+213,15,1680,2167,23,20,60,False,0
+214,15,1925,2483,23,20,60,False,0
+215,15,1960,2528,23,20,60,False,0
+216,15,2100,2709,23,20,60,False,0
+217,15,2149,2772,23,20,60,False,0
+218,15,2198,2835,23,20,60,False,0
+219,15,2247,2898,23,20,60,False,0
+220,15,2394,3088,23,20,60,False,0
+221,14,2040,2244,17,1,3,False,0
+222,14,2338,2571,17,1,3,False,0
+223,14,2380,2618,17,1,3,False,0
+224,14,2550,2805,17,1,3,False,0
+225,14,2610,2871,17,1,3,False,0
+226,14,2669,2935,17,1,3,False,0
+227,14,2729,3001,17,1,3,False,0
+228,14,2907,3197,17,1,3,False,0
+229,19,740,770,19,1,2,False,0
+230,19,750,780,19,1,2,False,0
+231,19,760,790,19,1,2,False,0
+232,19,770,800,19,1,2,False,0
+233,19,770,800,19,1,2,False,0
+234,19,770,800,19,1,2,False,0
+235,19,780,810,19,1,2,False,0
+236,19,790,820,19,1,2,False,0
+237,15,2140,0,22,100,0,False,0
+238,15,2337,0,22,100,0,False,0
+239,15,2380,0,22,100,0,False,0
+240,15,2550,0,22,100,0,False,0
+241,15,2609,0,22,100,0,False,0
+242,15,2669,0,22,100,0,False,0
+243,15,2728,0,22,100,0,False,0
+244,15,2907,0,22,100,0,False,0
+245,15,3401,0,22,40,0,False,0
+246,14,3295,3591,17,1,3,False,0
+247,19,830,880,19,1,2,False,0
+248,19,750,780,19,1,2,False,0
+249,19,760,790,19,1,2,False,0
+250,19,780,810,19,1,2,False,0
+251,19,780,810,19,1,2,False,0
+252,19,830,860,19,1,2,False,0
+253,14,3950,0,18,2,0,False,0
+254,0,0,0,0,0,0,False,0
+255,0,0,0,0,0,0,False,0
+256,0,0,0,0,0,0,False,0
+257,0,0,0,0,0,0,False,0
+258,0,0,0,0,0,0,False,0
+259,14,165,0,4,10,0,False,0
+260,14,165,0,4,10,0,False,0
+261,14,165,0,4,10,0,False,0
+262,14,187,0,4,10,0,False,0
+263,14,187,0,4,10,0,False,0
+264,14,187,0,4,10,0,False,0
+265,14,204,0,4,10,0,False,0
+266,14,204,0,4,10,0,False,0
+267,14,204,0,4,10,0,False,0
+268,14,221,0,4,10,0,False,0
+269,14,221,0,4,10,0,False,0
+270,14,221,0,4,10,0,False,0
+271,14,42,0,4,10,0,False,0
+272,14,42,0,4,10,0,False,0
+273,14,54,0,4,10,0,False,0
+274,14,69,0,4,10,0,False,0
+275,14,69,0,4,10,0,False,0
+276,14,69,0,4,10,0,False,0
+277,14,69,0,4,10,0,False,0
+278,14,69,0,4,10,0,False,0
+279,14,90,0,4,10,0,False,0
+280,14,90,0,4,10,0,False,0
+281,14,90,0,4,10,0,False,0
+282,14,90,0,4,10,0,False,0
+283,14,112,0,4,10,0,False,0
+284,14,112,0,4,10,0,False,0
+285,14,112,0,4,10,0,False,0
+286,14,112,0,4,10,0,False,0
+287,14,138,0,4,10,0,False,0
+288,14,138,0,4,10,0,False,0
+289,14,138,0,4,10,0,False,0
+290,14,165,0,4,10,0,False,0
+291,14,165,0,4,10,0,False,0
+292,14,165,0,4,10,0,False,0
+293,14,187,0,4,10,0,False,0
+294,14,187,0,4,10,0,False,0
+295,14,187,0,4,10,0,False,0
+296,14,204,0,4,10,0,False,0
+297,14,204,0,4,10,0,False,0
+298,14,204,0,4,10,0,False,0
+299,14,221,0,4,10,0,False,0
+300,14,221,0,4,10,0,False,0
+301,14,221,0,4,10,0,False,0
+302,14,2000,3000,26,1,10,False,0
+303,14,2000,3000,27,1,10,False,0
+304,14,2000,3000,28,1,10,False,0
+305,14,2000,3000,29,1,10,False,0
+306,14,4000,0,30,20,0,False,0
+307,14,4000,0,31,20,0,False,0
+308,14,4000,0,32,20,0,False,0
+309,14,4000,0,33,20,0,False,0
+310,15,3650,3900,23,30,50,False,0
+311,19,920,0,18,1,0,False,0
+312,14,3610,4035,26,50,150,False,0
+313,15,3650,3900,23,30,50,False,0
+314,19,920,0,18,1,0,False,0
+315,14,3610,4035,26,50,150,False,0
+316,15,3820,4035,29,50,100,False,0
+317,15,4020,0,32,60,0,False,0
+318,14,4020,4200,27,20,30,False,0
+319,0,0,0,0,0,0,False,0
+320,0,0,0,0,0,0,False,0
+321,0,0,0,0,0,0,False,0
+322,0,0,0,0,0,0,False,0
+323,0,0,0,0,0,0,False,0
+324,0,0,0,0,0,0,False,0
+325,0,0,0,0,0,0,False,0
+326,0,0,0,0,0,0,False,0
+327,15,444,572,23,20,60,False,0
+328,15,451,581,23,20,60,False,0
+329,15,453,584,23,20,60,False,0
+330,15,455,586,23,20,60,False,0
+331,15,457,589,23,20,60,False,0
+332,15,461,594,23,20,60,False,0
+333,15,498,642,23,20,60,False,0
+334,15,505,651,23,20,60,False,0
+335,15,510,657,23,20,60,False,0
+336,14,395,0,14,1,0,False,0
+337,14,460,0,14,1,0,False,0
+338,14,462,0,14,1,0,False,0
+339,14,493,0,14,1,0,False,0
+340,14,495,0,14,1,0,False,0
+341,14,499,0,14,1,0,False,0
+342,14,504,0,14,1,0,False,0
+343,14,510,0,14,1,0,False,0
+344,14,515,0,14,1,0,False,0
+345,19,571,0,18,1,0,False,0
+346,19,577,0,18,1,0,False,0
+347,19,587,0,18,1,0,False,0
+348,19,589,0,18,1,0,False,0
+349,19,589,0,18,1,0,False,0
+350,19,591,0,18,1,0,False,0
+351,19,593,0,18,1,0,False,0
+352,19,595,0,18,1,0,False,0
+353,19,597,0,18,1,0,False,0
+354,19,597,0,18,1,0,False,0
+355,15,539,0,22,100,0,False,0
+356,15,548,0,22,100,0,False,0
+357,15,550,0,22,100,0,False,0
+358,15,553,0,22,100,0,False,0
+359,15,555,0,22,100,0,False,0
+360,15,560,0,22,100,0,False,0
+361,15,565,0,22,100,0,False,0
+362,15,572,0,22,100,0,False,0
+363,15,578,0,22,100,0,False,0
+364,19,577,607,19,1,2,False,0
+365,19,587,617,19,1,2,False,0
+366,19,589,619,19,1,2,False,0
+367,19,589,619,19,1,2,False,0
+368,19,591,621,19,1,2,False,0
+369,19,593,623,19,1,2,False,0
+370,19,595,625,19,1,2,False,0
+371,19,597,627,19,1,2,False,0
+372,19,597,627,19,1,2,False,0
+373,14,377,414,17,1,3,False,0
+374,14,439,482,17,1,3,False,0
+375,14,440,484,17,1,3,False,0
+376,14,470,517,17,1,3,False,0
+377,14,472,519,17,1,3,False,0
+378,14,476,523,17,1,3,False,0
+379,14,480,528,17,1,3,False,0
+380,14,486,534,17,1,3,False,0
+381,14,491,540,17,1,3,False,0
+382,0,0,0,0,0,0,False,0
+383,0,0,0,0,0,0,False,0
+384,0,0,0,0,0,0,False,0
+385,0,0,0,0,0,0,False,0
+386,0,0,0,0,0,0,False,0
+387,0,0,0,0,0,0,False,0
+388,0,0,0,0,0,0,False,0
+389,0,0,0,0,0,0,False,0
+390,14,395,454,17,1,3,False,0
+391,14,400,460,17,1,3,False,0
+392,14,495,569,17,1,3,False,0
+393,14,499,573,17,1,3,False,0
+394,14,515,592,17,1,3,False,0
+395,0,0,0,0,0,0,False,0
+396,0,0,0,0,0,0,False,0
+397,0,0,0,0,0,0,False,0
+398,19,577,607,19,1,2,False,0
+399,19,583,613,19,1,2,False,0
+400,19,591,621,19,1,2,False,0
+401,19,593,623,19,1,2,False,0
+402,19,597,627,19,1,2,False,0
+403,0,0,0,0,0,0,False,0
+404,0,0,0,0,0,0,False,0
+405,0,0,0,0,0,0,False,0
+406,0,0,0,0,0,0,False,0
+407,0,0,0,0,0,0,False,0
+408,0,0,0,0,0,0,False,0
+409,15,1840,2760,23,20,30,False,0
+410,15,1840,2760,23,30,50,False,0
+411,14,1856,2041,17,1,2,False,0
+412,14,1856,2041,17,2,4,False,0
+413,19,696,765,19,1,2,False,0
+414,19,696,765,19,2,4,False,0
+415,15,1898,2847,23,20,30,False,0
+416,15,1898,2847,23,30,50,False,0
+417,14,1929,2121,17,1,2,False,0
+418,14,1929,2121,17,2,4,False,0
+419,19,714,785,19,1,2,False,0
+420,19,714,785,19,2,4,False,0
+421,20,29642,0,3,0,0,True,0
+422,20,29643,0,3,0,0,True,0
+423,20,30290,0,3,0,0,True,0
+424,20,30291,0,3,0,0,True,0
+425,15,2139,3208,23,20,30,False,0
+426,15,2139,3208,23,30,50,False,0
+427,14,2162,2378,17,1,2,False,0
+428,14,2162,2378,17,2,4,False,0
+429,19,740,814,19,1,2,False,0
+430,19,740,814,19,2,4,False,0
+431,15,2156,3234,23,20,30,False,0
+432,15,2156,3234,23,30,50,False,0
+433,14,2192,2411,17,1,2,False,0
+434,14,2192,2411,17,2,4,False,0
+435,19,740,814,19,1,2,False,0
+436,19,740,814,19,2,4,False,0
+437,20,30301,0,3,0,0,True,0
+438,20,30302,0,3,0,0,True,0
+439,15,2336,3504,23,20,30,False,0
+440,15,2336,3504,23,30,50,False,0
+441,14,2348,2582,17,1,2,False,0
+442,14,2348,2582,17,2,4,False,0
+443,19,772,849,19,1,2,False,0
+444,19,772,849,19,2,4,False,0
+445,15,327,0,22,40,0,False,0
+446,15,612,0,22,40,0,False,0
+447,15,617,0,22,40,0,False,0
+448,15,631,0,22,40,0,False,0
+449,15,635,0,22,40,0,False,0
+450,15,656,0,22,40,0,False,0
+451,15,829,0,22,40,0,False,0
+452,15,829,0,22,40,0,False,0
+453,15,945,0,22,40,0,False,0
+454,15,1003,0,22,40,0,False,0
+455,15,1024,0,22,40,0,False,0
+456,15,1067,0,22,40,0,False,0
+457,15,1088,0,22,40,0,False,0
+458,15,1109,0,22,40,0,False,0
+459,15,1206,0,22,40,0,False,0
+460,15,1399,0,22,40,0,False,0
+461,15,1592,0,22,40,0,False,0
+462,15,1688,0,22,40,0,False,0
+463,15,1737,0,22,40,0,False,0
+464,15,1828,0,22,40,0,False,0
+465,15,1919,0,22,40,0,False,0
+466,15,2010,0,22,40,0,False,0
+467,15,2105,0,22,40,0,False,0
+468,15,2316,0,22,40,0,False,0
+469,15,2605,0,22,40,0,False,0
+470,0,0,0,0,0,0,False,0
+471,15,3145,3774,23,30,50,False,0
+472,0,0,0,0,0,0,False,0
+473,0,0,0,0,0,0,False,0
+474,0,0,0,0,0,0,False,0
+475,19,900,0,18,1,0,False,0
+476,0,0,0,0,0,0,False,0
+477,0,0,0,0,0,0,False,0
+478,0,0,0,0,0,0,False,0
+479,0,0,0,0,0,0,False,0
+480,0,0,0,0,0,0,False,0
+481,0,0,0,0,0,0,False,0
+482,0,0,0,0,0,0,False,0
+483,0,0,0,0,0,0,False,0
+484,0,0,0,0,0,0,False,0
+485,0,0,0,0,0,0,False,0
+486,0,0,0,0,0,0,False,0
+487,0,0,0,0,0,0,False,0
+488,0,0,0,0,0,0,False,0
+489,0,0,0,0,0,0,False,0
+490,0,0,0,0,0,0,False,0
+491,0,0,0,0,0,0,False,0
+492,0,0,0,0,0,0,False,0
+493,0,0,0,0,0,0,False,0
+494,14,221,0,4,10,0,False,0
+495,14,448,0,4,10,0,False,0
+496,14,453,0,4,10,0,False,0
+497,14,457,0,4,10,0,False,0
+498,14,498,0,4,10,0,False,0
+499,0,0,0,0,0,0,False,0
+500,0,0,0,0,0,0,False,0
+501,0,0,0,0,0,0,False,0
+502,0,0,0,0,0,0,False,0
+503,0,0,0,0,0,0,False,0
+504,0,0,0,0,0,0,False,0
+505,0,0,0,0,0,0,False,0
+506,0,0,0,0,0,0,False,0
+507,0,0,0,0,0,0,False,0
+508,0,0,0,0,0,0,False,0
+509,0,0,0,0,0,0,False,0
+510,0,0,0,0,0,0,False,0
+511,0,0,0,0,0,0,False,0
+512,0,0,0,0,0,0,False,0
+513,0,0,0,0,0,0,False,0
+514,0,0,0,0,0,0,False,0
+515,0,0,0,0,0,0,False,0
+516,0,0,0,0,0,0,False,0
+517,0,0,0,0,0,0,False,0
+518,0,0,0,0,0,0,False,0
+519,0,0,0,0,0,0,False,0
+520,0,0,0,0,0,0,False,0
+521,0,0,0,0,0,0,False,0
+522,0,0,0,0,0,0,False,0
+523,0,0,0,0,0,0,False,0
+524,0,0,0,0,0,0,False,0
+525,0,0,0,0,0,0,False,0
+526,0,0,0,0,0,0,False,0
+527,0,0,0,0,0,0,False,0
+528,0,0,0,0,0,0,False,0
+529,0,0,0,0,0,0,False,0
+530,0,0,0,0,0,0,False,0
+531,0,0,0,0,0,0,False,0
+532,0,0,0,0,0,0,False,0
+533,0,0,0,0,0,0,False,0
+534,14,602,0,4,10,0,False,0
+535,14,714,0,4,10,0,False,0
+536,14,733,0,4,10,0,False,0
+537,14,743,0,4,10,0,False,0
+538,14,774,0,4,10,0,False,0
+539,14,821,0,14,1,0,False,0
+540,14,892,0,14,1,0,False,0
+541,14,928,0,14,1,0,False,0
+542,14,941,0,14,1,0,False,0
+543,14,948,0,14,1,0,False,0
+544,14,987,0,14,1,0,False,0
+545,14,1026,0,14,1,0,False,0
+546,15,645,832,23,20,60,False,0
+547,15,700,903,23,20,60,False,0
+548,15,728,939,23,20,60,False,0
+549,15,738,952,23,20,60,False,0
+550,15,743,958,23,20,60,False,0
+551,15,774,998,23,20,60,False,0
+552,15,805,1038,23,20,60,False,0
+553,19,600,0,18,1,0,False,0
+554,19,605,0,18,1,0,False,0
+555,19,610,0,18,1,0,False,0
+556,19,620,0,18,1,0,False,0
+557,19,625,0,18,1,0,False,0
+558,19,635,0,18,1,0,False,0
+559,19,645,0,18,1,0,False,0
+560,0,0,0,0,0,0,False,0
+561,0,0,0,0,0,0,False,0
+562,0,0,0,0,0,0,False,0
+563,0,0,0,0,0,0,False,0
+564,0,0,0,0,0,0,False,0
+565,0,0,0,0,0,0,False,0
+566,0,0,0,0,0,0,False,0
+567,15,731,0,22,100,0,False,0
+568,15,850,0,22,100,0,False,0
+569,15,884,0,22,100,0,False,0
+570,15,896,0,22,100,0,False,0
+571,15,902,0,22,100,0,False,0
+572,15,940,0,22,100,0,False,0
+573,15,977,0,22,100,0,False,0
+574,19,600,630,19,1,2,False,0
+575,19,605,635,19,1,2,False,0
+576,19,610,640,19,1,2,False,0
+577,19,620,650,19,1,2,False,0
+578,19,625,655,19,1,2,False,0
+579,19,635,665,19,1,2,False,0
+580,19,645,675,19,1,2,False,0
+581,14,782,860,17,1,3,False,0
+582,14,850,935,17,1,3,False,0
+583,14,884,972,17,1,3,False,0
+584,14,897,986,17,1,3,False,0
+585,14,903,993,17,1,3,False,0
+586,14,940,1034,17,1,3,False,0
+587,14,978,1075,17,1,3,False,0
+588,0,0,0,0,0,0,False,0
+589,0,0,0,0,0,0,False,0
+590,0,0,0,0,0,0,True,0
+591,0,0,0,0,0,0,True,0
+592,0,0,0,0,0,0,True,0
+593,0,0,0,0,0,0,True,0
+594,0,0,0,0,0,0,True,0
+595,0,0,0,0,0,0,True,0
+596,0,0,0,0,0,0,True,0
+597,0,0,0,0,0,0,True,0
+598,0,0,0,0,0,0,True,0
+599,0,0,0,0,0,0,True,0
+600,0,0,0,0,0,0,False,0
+601,0,0,0,0,0,0,False,0
+602,0,0,0,0,0,0,False,0
+603,0,0,0,0,0,0,False,0
+604,0,0,0,0,0,0,False,0
+605,0,0,0,0,0,0,False,0
+606,0,0,0,0,0,0,False,0
+607,0,0,0,0,0,0,False,0
+608,0,0,0,0,0,0,False,0
+609,14,821,944,17,1,3,False,0
+610,14,928,1067,17,1,3,False,0
+611,14,948,1090,17,1,3,False,0
+612,14,987,1135,17,1,3,False,0
+613,0,0,0,0,0,0,False,0
+614,14,1026,1179,17,1,3,False,0
+615,14,1116,1283,17,1,3,False,0
+616,14,1006,1156,17,1,3,False,0
+617,0,0,0,0,0,0,False,0
+618,0,0,0,0,0,0,False,0
+619,0,0,0,0,0,0,False,0
+620,0,0,0,0,0,0,False,0
+621,0,0,0,0,0,0,False,0
+622,0,0,0,0,0,0,False,0
+623,0,0,0,0,0,0,False,0
+624,0,0,0,0,0,0,False,0
+625,0,0,0,0,0,0,False,0
+626,0,0,0,0,0,0,False,0
+627,0,0,0,0,0,0,False,0
+628,0,0,0,0,0,0,False,0
+629,0,0,0,0,0,0,False,0
+630,0,0,0,0,0,0,False,0
+631,0,0,0,0,0,0,False,0
+632,0,0,0,0,0,0,False,0
+633,0,0,0,0,0,0,False,0
+634,0,0,0,0,0,0,False,0
+635,0,0,0,0,0,0,False,0
+636,0,0,0,0,0,0,False,0
+637,0,0,0,0,0,0,False,0
+638,0,0,0,0,0,0,False,0
+639,0,0,0,0,0,0,False,0
+640,0,0,0,0,0,0,False,0
+641,0,0,0,0,0,0,False,0
+642,0,0,0,0,0,0,False,0
+643,0,0,0,0,0,0,False,0
+644,0,0,0,0,0,0,False,0
+645,0,0,0,0,0,0,False,0
+646,0,0,0,0,0,0,False,0
+647,0,0,0,0,0,0,False,0
+648,0,0,0,0,0,0,False,0
+649,0,0,0,0,0,0,False,0
+650,19,600,630,19,1,2,False,0
+651,19,610,640,19,1,2,False,0
+652,19,625,655,19,1,2,False,0
+653,19,635,665,19,1,2,False,0
+654,19,640,670,19,1,2,False,0
+655,19,645,675,19,1,2,False,0
+656,19,680,710,19,1,2,False,0
+657,0,0,0,0,0,0,False,0
+658,0,0,0,0,0,0,False,0
+659,0,0,0,0,0,0,False,0
+660,0,0,0,0,0,0,False,0
+661,0,0,0,0,0,0,False,0
+662,0,0,0,0,0,0,False,0
+663,0,0,0,0,0,0,False,0
+664,0,0,0,0,0,0,False,0
+665,0,0,0,0,0,0,True,0
+666,0,0,0,0,0,0,False,0
+667,0,0,0,0,0,0,True,0
+668,0,0,0,0,0,0,False,0
+669,14,1543,1851,17,1,3,False,0
+670,19,680,710,19,1,2,False,0
+671,14,1015,0,4,10,0,False,0
+672,14,1225,0,4,10,0,False,0
+673,14,1260,0,4,10,0,False,0
+674,14,1326,0,4,10,0,False,0
+675,14,1392,0,4,10,0,False,0
+676,14,1294,0,14,1,0,False,0
+677,14,1517,0,14,1,0,False,0
+678,14,1562,0,14,1,0,False,0
+679,14,1606,0,14,1,0,False,0
+680,14,1649,0,14,1,0,False,0
+681,14,1691,0,14,1,0,False,0
+682,14,1733,0,14,1,0,False,0
+683,14,1859,0,14,1,0,False,0
+684,15,1015,1309,23,20,60,False,0
+685,15,1190,1535,23,20,60,False,0
+686,15,1225,1580,23,20,60,False,0
+687,15,1260,1625,23,20,60,False,0
+688,15,1293,1667,23,20,60,False,0
+689,15,1326,1710,23,20,60,False,0
+690,15,1359,1753,23,20,60,False,0
+691,15,1458,1880,23,20,60,False,0
+692,19,680,0,18,1,0,False,0
+693,19,680,0,18,1,0,False,0
+694,19,685,0,18,1,0,False,0
+695,19,695,0,18,1,0,False,0
+696,19,700,0,18,1,0,False,0
+697,19,705,0,18,1,0,False,0
+698,19,710,0,18,1,0,False,0
+699,19,725,0,18,1,0,False,0
+700,0,0,0,0,0,0,False,0
+701,0,0,0,0,0,0,False,0
+702,0,0,0,0,0,0,False,0
+703,0,0,0,0,0,0,False,0
+704,0,0,0,0,0,0,False,0
+705,0,0,0,0,0,0,False,0
+706,0,0,0,0,0,0,False,0
+707,0,0,0,0,0,0,False,0
+708,15,1350,0,22,100,0,False,0
+709,15,1445,0,22,100,0,False,0
+710,15,1487,0,22,100,0,False,0
+711,15,1530,0,22,100,0,False,0
+712,15,1570,0,22,100,0,False,0
+713,15,1610,0,22,100,0,False,0
+714,15,1650,0,22,100,0,False,0
+715,15,1770,0,22,100,0,False,0
+716,19,680,710,19,1,2,False,0
+717,19,680,710,19,1,2,False,0
+718,19,685,715,19,1,2,False,0
+719,19,695,725,19,1,2,False,0
+720,19,700,730,19,1,2,False,0
+721,19,705,735,19,1,2,False,0
+722,19,710,740,19,1,2,False,0
+723,19,725,755,19,1,2,False,0
+724,14,1233,1356,17,1,3,False,0
+725,14,1445,1589,17,1,3,False,0
+726,14,1488,1636,17,1,3,False,0
+727,14,1530,1683,17,1,3,False,0
+728,14,1571,1728,17,1,3,False,0
+729,14,1611,1772,17,1,3,False,0
+730,14,1651,1816,17,1,3,False,0
+731,14,1771,1948,17,1,3,False,0
+732,0,0,0,0,0,0,False,0
+733,0,0,0,0,0,0,False,0
+734,0,0,0,0,0,0,False,0
+735,0,0,0,0,0,0,True,0
+736,0,0,0,0,0,0,True,0
+737,0,0,0,0,0,0,True,0
+738,0,0,0,0,0,0,True,0
+739,0,0,0,0,0,0,True,0
+740,0,0,0,0,0,0,True,0
+741,0,0,0,0,0,0,True,0
+742,0,0,0,0,0,0,True,0
+743,0,0,0,0,0,0,True,0
+744,0,0,0,0,0,0,True,0
+745,0,0,0,0,0,0,True,0
+746,0,0,0,0,0,0,False,0
+747,0,0,0,0,0,0,False,0
+748,0,0,0,0,0,0,False,0
+749,0,0,0,0,0,0,False,0
+750,0,0,0,0,0,0,False,0
+751,0,0,0,0,0,0,False,0
+752,0,0,0,0,0,0,False,0
+753,0,0,0,0,0,0,False,0
+754,0,0,0,0,0,0,False,0
+755,14,1294,1488,17,1,3,False,0
+756,14,1562,1796,17,1,3,False,0
+757,14,1606,1846,17,1,3,False,0
+758,14,1691,1944,17,1,3,False,0
+759,14,1775,2041,17,1,3,False,0
+760,14,1859,2137,17,1,3,False,0
+761,0,0,0,0,0,0,False,0
+762,0,0,0,0,0,0,False,0
+763,0,0,0,0,0,0,False,0
+764,0,0,0,0,0,0,False,0
+765,0,0,0,0,0,0,False,0
+766,0,0,0,0,0,0,False,0
+767,19,680,710,19,1,2,False,0
+768,19,685,715,19,1,2,False,0
+769,19,695,725,19,1,2,False,0
+770,19,705,735,19,1,2,False,0
+771,19,715,745,19,1,2,False,0
+772,19,725,755,19,1,2,False,0
+773,0,0,0,0,0,0,False,0
+774,0,0,0,0,0,0,False,0
+775,0,0,0,0,0,0,False,0
+776,0,0,0,0,0,0,False,0
+777,0,0,0,0,0,0,False,0
+778,0,0,0,0,0,0,False,0
+779,0,0,0,0,0,0,False,0
+780,0,0,0,0,0,0,False,0
+781,0,0,0,0,0,0,False,0
+782,0,0,0,0,0,0,False,0
+783,0,0,0,0,0,0,False,0
+784,0,0,0,0,0,0,False,0
+785,0,0,0,0,0,0,False,0
+786,0,0,0,0,0,0,False,0
+787,0,0,0,0,0,0,False,0
+788,0,0,0,0,0,0,False,0
+789,0,0,0,0,0,0,False,0
+790,0,0,0,0,0,0,False,0
+791,0,0,0,0,0,0,False,0
+792,0,0,0,0,0,0,False,0
+793,0,0,0,0,0,0,False,0
+794,0,0,0,0,0,0,False,0
+795,0,0,0,0,0,0,False,0
+796,0,0,0,0,0,0,False,0
+797,0,0,0,0,0,0,False,0
+798,0,0,0,0,0,0,False,0
+799,0,0,0,0,0,0,False,0
+800,0,0,0,0,0,0,False,0
+801,0,0,0,0,0,0,False,0
+802,0,0,0,0,0,0,False,0
+803,0,0,0,0,0,0,False,0
+804,0,0,0,0,0,0,False,0
+805,0,0,0,0,0,0,False,0
+806,0,0,0,0,0,0,False,0
+807,0,0,0,0,0,0,False,0
+808,0,0,0,0,0,0,False,0
+809,0,0,0,0,0,0,False,0
+810,0,0,0,0,0,0,False,0
+811,0,0,0,0,0,0,False,0
+812,0,0,0,0,0,0,False,0
+813,0,0,0,0,0,0,False,0
+814,0,0,0,0,0,0,False,0
+815,0,0,0,0,0,0,False,0
+816,0,0,0,0,0,0,False,0

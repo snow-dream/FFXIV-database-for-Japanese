@@ -1,5 +1,5 @@
 ﻿key,0,1,2
 #,ScreenImage,LogMessage,Name
 int32,ScreenImage,LogMessage,DeepDungeonFloorEffectUI
-0,"ScreenImage#0","",""
-1,"ScreenImage#410","四周弥漫的妖雾增强了魔物的力量……","魔法效果：妖雾弥漫"
+0,0,0,0
+1,410,7240,11

@@ -1,8 +1,8 @@
 ﻿key,0,1,2
 #,Name,AcceptJingle,CompleteJingle
 int32,str,ScreenImage,ScreenImage
-0,"重生之境","ScreenImage#1","ScreenImage#2"
-1,"苍穹之禁城","ScreenImage#342","ScreenImage#343"
-2,"红莲之狂潮","ScreenImage#344","ScreenImage#345"
-3,"暗影之逆焰","ScreenImage#723","ScreenImage#724"
-4,"晓月之终途","ScreenImage#993","ScreenImage#994"
+0,"重生之境",1,2
+1,"苍穹之禁城",342,343
+2,"红莲之狂潮",344,345
+3,"暗影之逆焰",723,724
+4,"晓月之终途",993,994

@@ -1,163 +1,163 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,ResultItem,Category,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart[0],CompanyCraftPart[1],CompanyCraftPart[2],CompanyCraftPart[3],CompanyCraftPart[4],CompanyCraftPart[5],CompanyCraftPart[6],CompanyCraftPart[7],Order
 int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,uint32
-0,"",0,"以太转轮","",,"CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
-1,"转轮台II",1,"以太转轮","转轮台",,"CompanyCraftPart#1","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-2,"转轮台III",1,"以太转轮","转轮台","转轮台设计图2","CompanyCraftPart#2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-3,"转轮台IV",1,"以太转轮","转轮台","转轮台设计图3","CompanyCraftPart#3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-4,"转轮台V",1,"以太转轮","转轮台","转轮台设计图4","CompanyCraftPart#4","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-5,"转轮台VI",1,"以太转轮","转轮台","转轮台设计图5","CompanyCraftPart#5","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-6,"2级教练以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#100","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-7,"2级修炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#101","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-8,"2级锻炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#102","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-9,"2级特训以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#103","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-10,"2级战绩以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#104","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-11,"2级军功以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#105","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-12,"2级游戏以太转轮",6,"以太转轮","以太转轮","以太转轮设计图2","CompanyCraftPart#116","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-13,"2级新兵以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#106","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",8
-14,"2级达识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#107","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",9
-15,"2级博识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#108","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",10
-16,"2级名匠以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#109","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",11
-17,"2级巨匠以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#110","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",12
-18,"2级精炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图3","CompanyCraftPart#111","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",13
-19,"2级美食以太转轮",6,"以太转轮","以太转轮","以太转轮设计图4","CompanyCraftPart#112","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",14
-20,"2级耐久以太转轮",6,"以太转轮","以太转轮","以太转轮设计图4","CompanyCraftPart#113","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",15
-21,"2级疾风以太转轮",6,"以太转轮","以太转轮","以太转轮设计图4","CompanyCraftPart#114","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",16
-22,"2级旅人以太转轮",6,"以太转轮","以太转轮","以太转轮设计图4","CompanyCraftPart#115","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",17
-23,"3级教练以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#200","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",18
-24,"3级修炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#201","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",19
-25,"3级锻炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#202","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",20
-26,"3级特训以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#203","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",21
-27,"3级战绩以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#204","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",22
-28,"3级军功以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#205","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",23
-29,"3级游戏以太转轮",6,"以太转轮","以太转轮","以太转轮设计图5","CompanyCraftPart#216","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",24
-31,"3级达识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#207","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",26
-32,"3级博识以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#208","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",27
-33,"3级名匠以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#209","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",28
-34,"3级巨匠以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#210","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",29
-35,"3级精炼以太转轮",6,"以太转轮","以太转轮","以太转轮设计图6","CompanyCraftPart#211","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",30
-36,"3级美食以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#212","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",31
-37,"3级耐久以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#213","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",32
-39,"3级旅人以太转轮",6,"以太转轮","以太转轮","以太转轮设计图7","CompanyCraftPart#215","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",34
-500,"野马级船体",5,"飞空艇 & 潜水艇","飞空艇：船体",,"CompanyCraftPart#300","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-501,"无敌级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图2","CompanyCraftPart#301","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-502,"企业级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图3","CompanyCraftPart#302","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-503,"无敌改级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图4","CompanyCraftPart#303","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-504,"奥德赛级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图5","CompanyCraftPart#304","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-505,"塔塔诺拉级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图6","CompanyCraftPart#305","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-506,"野马级气囊",5,"飞空艇 & 潜水艇","飞空艇：舾装",,"CompanyCraftPart#0","CompanyCraftPart#400","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-507,"无敌级螺旋桨",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#401","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-508,"企业级气囊",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图3","CompanyCraftPart#0","CompanyCraftPart#402","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-509,"无敌改级螺旋桨",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图4","CompanyCraftPart#0","CompanyCraftPart#403","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-510,"奥德赛级气囊",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图5","CompanyCraftPart#0","CompanyCraftPart#404","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-511,"塔塔诺拉级螺旋桨",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图6","CompanyCraftPart#0","CompanyCraftPart#405","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-512,"野马级船首",5,"飞空艇 & 潜水艇","飞空艇：船首",,"CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#500","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-513,"无敌级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#501","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-514,"企业级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#502","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-515,"无敌改级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图4","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#503","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-516,"奥德赛级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图5","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#504","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-517,"塔塔诺拉级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#505","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-518,"野马级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾",,"CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#600","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-519,"无敌级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#601","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-520,"企业级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#602","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-521,"无敌改级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图4","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#603","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-522,"奥德赛级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图5","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#604","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-523,"塔塔诺拉级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#605","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-524,"威尔特甘斯级船体",5,"飞空艇 & 潜水艇","飞空艇：船体","飞空艇设计图7","CompanyCraftPart#306","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-525,"威尔特甘斯级灵翼",5,"飞空艇 & 潜水艇","飞空艇：舾装","飞空艇设计图7","CompanyCraftPart#0","CompanyCraftPart#406","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-526,"威尔特甘斯级船首",5,"飞空艇 & 潜水艇","飞空艇：船首","飞空艇设计图7","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#506","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-527,"威尔特甘斯级船尾",5,"飞空艇 & 潜水艇","飞空艇：船尾","飞空艇设计图7","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#606","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-528,"鲨鱼级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图1","CompanyCraftPart#1500","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-529,"鲨鱼级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图1","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1600","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-530,"鲨鱼级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图1","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1700","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-531,"鲨鱼级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图1","CompanyCraftPart#0","CompanyCraftPart#1800","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
-532,"甲鲎级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图2","CompanyCraftPart#1501","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-533,"甲鲎级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1601","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-534,"甲鲎级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1701","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-535,"甲鲎级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图2","CompanyCraftPart#0","CompanyCraftPart#1801","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
-536,"须鲸级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图3","CompanyCraftPart#1502","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-537,"须鲸级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1602","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-538,"须鲸级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1702","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-539,"须鲸级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图3","CompanyCraftPart#0","CompanyCraftPart#1802","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3
-540,"腔棘鱼级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图4","CompanyCraftPart#1503","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-541,"腔棘鱼级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图4","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1603","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-542,"腔棘鱼级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图4","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1703","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-543,"腔棘鱼级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图4","CompanyCraftPart#0","CompanyCraftPart#1803","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",4
-544,"希尔德拉级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图5","CompanyCraftPart#1504","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-545,"希尔德拉级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图5","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1604","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-546,"希尔德拉级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图5","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1704","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-547,"希尔德拉级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图5","CompanyCraftPart#0","CompanyCraftPart#1804","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",5
-548,"鲨鱼改级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图6","CompanyCraftPart#1505","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-549,"鲨鱼改级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1605","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-550,"鲨鱼改级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1705","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-551,"鲨鱼改级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#1805","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",6
-552,"甲鲎改级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图6","CompanyCraftPart#1506","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-553,"甲鲎改级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1606","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-554,"甲鲎改级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1706","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-555,"甲鲎改级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#1806","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",7
-556,"须鲸改级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图6","CompanyCraftPart#1507","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",8
-557,"须鲸改级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1607","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",8
-558,"须鲸改级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1707","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",8
-559,"须鲸改级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#1807","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",8
-560,"腔棘鱼改级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图6","CompanyCraftPart#1508","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",9
-561,"腔棘鱼改级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1608","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",9
-562,"腔棘鱼改级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1708","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",9
-563,"腔棘鱼改级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#1808","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",9
-564,"希尔德拉改级船体",7,"飞空艇 & 潜水艇","潜水艇：船体","潜水艇设计图6","CompanyCraftPart#1509","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",10
-565,"希尔德拉改级船尾",7,"飞空艇 & 潜水艇","潜水艇：船尾","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1609","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",10
-566,"希尔德拉改级船首",7,"飞空艇 & 潜水艇","潜水艇：船首","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#1709","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",10
-567,"希尔德拉改级舰桥",7,"飞空艇 & 潜水艇","潜水艇：舰桥","潜水艇设计图6","CompanyCraftPart#0","CompanyCraftPart#1809","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",10
-1000,"小型商店外墙",2,"房屋用具","外墙(一体型)",,"CompanyCraftPart#700","CompanyCraftPart#800","CompanyCraftPart#900","CompanyCraftPart#1000","CompanyCraftPart#1103","CompanyCraftPart#1202","CompanyCraftPart#1302","CompanyCraftPart#1400",1
-1001,"中型商店外墙",3,"房屋用具","外墙(一体型)",,"CompanyCraftPart#701","CompanyCraftPart#801","CompanyCraftPart#900","CompanyCraftPart#1000","CompanyCraftPart#1103","CompanyCraftPart#1202","CompanyCraftPart#1302","CompanyCraftPart#1400",2
-1002,"大型商店外墙",4,"房屋用具","外墙(一体型)",,"CompanyCraftPart#702","CompanyCraftPart#802","CompanyCraftPart#900","CompanyCraftPart#1000","CompanyCraftPart#1103","CompanyCraftPart#1202","CompanyCraftPart#1302","CompanyCraftPart#1400",3
-1003,"小型餐厅外墙",2,"房屋用具","外墙(一体型)","餐厅设计图","CompanyCraftPart#703","CompanyCraftPart#803","CompanyCraftPart#901","CompanyCraftPart#1001","CompanyCraftPart#1102","CompanyCraftPart#1203","CompanyCraftPart#1303","CompanyCraftPart#1401",4
-1004,"中型餐厅外墙",3,"房屋用具","外墙(一体型)","餐厅设计图","CompanyCraftPart#704","CompanyCraftPart#804","CompanyCraftPart#901","CompanyCraftPart#1001","CompanyCraftPart#1102","CompanyCraftPart#1203","CompanyCraftPart#1303","CompanyCraftPart#1401",5
-1005,"大型餐厅外墙",4,"房屋用具","外墙(一体型)","餐厅设计图","CompanyCraftPart#705","CompanyCraftPart#805","CompanyCraftPart#901","CompanyCraftPart#1001","CompanyCraftPart#1102","CompanyCraftPart#1203","CompanyCraftPart#1303","CompanyCraftPart#1401",6
-1006,"小型防具店外墙",2,"房屋用具","外墙(一体型)","防具店设计图","CompanyCraftPart#706","CompanyCraftPart#806","CompanyCraftPart#902","CompanyCraftPart#1002","CompanyCraftPart#1101","CompanyCraftPart#1201","CompanyCraftPart#1301","CompanyCraftPart#1402",7
-1007,"中型防具店外墙",3,"房屋用具","外墙(一体型)","防具店设计图","CompanyCraftPart#707","CompanyCraftPart#807","CompanyCraftPart#902","CompanyCraftPart#1002","CompanyCraftPart#1101","CompanyCraftPart#1201","CompanyCraftPart#1301","CompanyCraftPart#1402",8
-1008,"大型防具店外墙",4,"房屋用具","外墙(一体型)","防具店设计图","CompanyCraftPart#708","CompanyCraftPart#808","CompanyCraftPart#902","CompanyCraftPart#1002","CompanyCraftPart#1101","CompanyCraftPart#1201","CompanyCraftPart#1301","CompanyCraftPart#1402",9
-1009,"小型武器店外墙",2,"房屋用具","外墙(一体型)","武器店设计图","CompanyCraftPart#709","CompanyCraftPart#809","CompanyCraftPart#903","CompanyCraftPart#1003","CompanyCraftPart#1100","CompanyCraftPart#1200","CompanyCraftPart#1300","CompanyCraftPart#1403",10
-1010,"中型武器店外墙",3,"房屋用具","外墙(一体型)","武器店设计图","CompanyCraftPart#710","CompanyCraftPart#810","CompanyCraftPart#903","CompanyCraftPart#1003","CompanyCraftPart#1100","CompanyCraftPart#1200","CompanyCraftPart#1300","CompanyCraftPart#1403",11
-1011,"大型武器店外墙",4,"房屋用具","外墙(一体型)","武器店设计图","CompanyCraftPart#711","CompanyCraftPart#811","CompanyCraftPart#903","CompanyCraftPart#1003","CompanyCraftPart#1100","CompanyCraftPart#1200","CompanyCraftPart#1300","CompanyCraftPart#1403",12
-1012,"小型莫古外墙",2,"房屋用具","外墙(一体型)","莫古莫古房设计图","CompanyCraftPart#712","CompanyCraftPart#812","CompanyCraftPart#904","CompanyCraftPart#1004","CompanyCraftPart#1104","CompanyCraftPart#1204","CompanyCraftPart#1304","CompanyCraftPart#1404",13
-1013,"中型莫古外墙",3,"房屋用具","外墙(一体型)","莫古莫古房设计图","CompanyCraftPart#713","CompanyCraftPart#813","CompanyCraftPart#904","CompanyCraftPart#1004","CompanyCraftPart#1104","CompanyCraftPart#1204","CompanyCraftPart#1304","CompanyCraftPart#1404",14
-1014,"大型莫古外墙",4,"房屋用具","外墙(一体型)","莫古莫古房设计图","CompanyCraftPart#714","CompanyCraftPart#814","CompanyCraftPart#904","CompanyCraftPart#1004","CompanyCraftPart#1104","CompanyCraftPart#1204","CompanyCraftPart#1304","CompanyCraftPart#1404",15
-1015,"小型陆行鸟外墙",2,"房屋用具","外墙(一体型)","陆行鸟房屋设计图","CompanyCraftPart#715","CompanyCraftPart#815","CompanyCraftPart#905","CompanyCraftPart#1005","CompanyCraftPart#1105","CompanyCraftPart#1205","CompanyCraftPart#1305","CompanyCraftPart#1405",16
-1016,"中型陆行鸟外墙",3,"房屋用具","外墙(一体型)","陆行鸟房屋设计图","CompanyCraftPart#716","CompanyCraftPart#816","CompanyCraftPart#905","CompanyCraftPart#1005","CompanyCraftPart#1105","CompanyCraftPart#1205","CompanyCraftPart#1305","CompanyCraftPart#1405",17
-1017,"大型陆行鸟外墙",4,"房屋用具","外墙(一体型)","陆行鸟房屋设计图","CompanyCraftPart#717","CompanyCraftPart#817","CompanyCraftPart#905","CompanyCraftPart#1005","CompanyCraftPart#1105","CompanyCraftPart#1205","CompanyCraftPart#1305","CompanyCraftPart#1405",18
-1018,"小型猴面雀外墙",2,"房屋用具","外墙(一体型)","猴面雀房屋设计图","CompanyCraftPart#718","CompanyCraftPart#818","CompanyCraftPart#906","CompanyCraftPart#1006","CompanyCraftPart#1106","CompanyCraftPart#1206","CompanyCraftPart#0","CompanyCraftPart#0",19
-1019,"中型猴面雀外墙",3,"房屋用具","外墙(一体型)","猴面雀房屋设计图","CompanyCraftPart#719","CompanyCraftPart#819","CompanyCraftPart#906","CompanyCraftPart#1006","CompanyCraftPart#1106","CompanyCraftPart#1206","CompanyCraftPart#0","CompanyCraftPart#0",20
-1020,"大型猴面雀外墙",4,"房屋用具","外墙(一体型)","猴面雀房屋设计图","CompanyCraftPart#720","CompanyCraftPart#820","CompanyCraftPart#906","CompanyCraftPart#1006","CompanyCraftPart#1106","CompanyCraftPart#1206","CompanyCraftPart#0","CompanyCraftPart#0",21
-1021,"小型宝石兽外墙",2,"房屋用具","外墙(一体型)","宝石兽房屋设计图","CompanyCraftPart#721","CompanyCraftPart#821","CompanyCraftPart#907","CompanyCraftPart#1007","CompanyCraftPart#1107","CompanyCraftPart#1207","CompanyCraftPart#0","CompanyCraftPart#0",22
-1022,"中型宝石兽外墙",3,"房屋用具","外墙(一体型)","宝石兽房屋设计图","CompanyCraftPart#722","CompanyCraftPart#822","CompanyCraftPart#907","CompanyCraftPart#1007","CompanyCraftPart#1107","CompanyCraftPart#1207","CompanyCraftPart#0","CompanyCraftPart#0",23
-1023,"大型宝石兽外墙",4,"房屋用具","外墙(一体型)","宝石兽房屋设计图","CompanyCraftPart#723","CompanyCraftPart#823","CompanyCraftPart#907","CompanyCraftPart#1007","CompanyCraftPart#1107","CompanyCraftPart#1207","CompanyCraftPart#0","CompanyCraftPart#0",24
-1024,"小型东洋城堡外墙",2,"房屋用具","外墙(一体型)","东洋城堡房屋设计图","CompanyCraftPart#724","CompanyCraftPart#824","CompanyCraftPart#908","CompanyCraftPart#1008","CompanyCraftPart#1108","CompanyCraftPart#1208","CompanyCraftPart#0","CompanyCraftPart#0",25
-1025,"中型东洋城堡外墙",3,"房屋用具","外墙(一体型)","东洋城堡房屋设计图","CompanyCraftPart#725","CompanyCraftPart#825","CompanyCraftPart#908","CompanyCraftPart#1008","CompanyCraftPart#1108","CompanyCraftPart#1208","CompanyCraftPart#0","CompanyCraftPart#0",26
-1026,"大型东洋城堡外墙",4,"房屋用具","外墙(一体型)","东洋城堡房屋设计图","CompanyCraftPart#726","CompanyCraftPart#826","CompanyCraftPart#908","CompanyCraftPart#1008","CompanyCraftPart#1108","CompanyCraftPart#1208","CompanyCraftPart#0","CompanyCraftPart#0",27
-1027,"小型獭獭外墙",2,"房屋用具","外墙(一体型)","獭獭房屋设计图","CompanyCraftPart#727","CompanyCraftPart#827","CompanyCraftPart#909","CompanyCraftPart#1009","CompanyCraftPart#1109","CompanyCraftPart#1209","CompanyCraftPart#0","CompanyCraftPart#0",28
-1028,"中型獭獭外墙",3,"房屋用具","外墙(一体型)","獭獭房屋设计图","CompanyCraftPart#728","CompanyCraftPart#828","CompanyCraftPart#909","CompanyCraftPart#1009","CompanyCraftPart#1109","CompanyCraftPart#1209","CompanyCraftPart#0","CompanyCraftPart#0",29
-1029,"大型獭獭外墙",4,"房屋用具","外墙(一体型)","獭獭房屋设计图","CompanyCraftPart#729","CompanyCraftPart#829","CompanyCraftPart#909","CompanyCraftPart#1009","CompanyCraftPart#1109","CompanyCraftPart#1209","CompanyCraftPart#0","CompanyCraftPart#0",30
-1030,"小型贸易商外墙",2,"房屋用具","外墙(一体型)",,"CompanyCraftPart#730","CompanyCraftPart#830","CompanyCraftPart#910","CompanyCraftPart#1010","CompanyCraftPart#1110","CompanyCraftPart#1210","CompanyCraftPart#0","CompanyCraftPart#0",31
-1031,"中型贸易商外墙",3,"房屋用具","外墙(一体型)",,"CompanyCraftPart#731","CompanyCraftPart#831","CompanyCraftPart#910","CompanyCraftPart#1010","CompanyCraftPart#1110","CompanyCraftPart#1210","CompanyCraftPart#0","CompanyCraftPart#0",32
-1032,"大型贸易商外墙",4,"房屋用具","外墙(一体型)",,"CompanyCraftPart#732","CompanyCraftPart#832","CompanyCraftPart#910","CompanyCraftPart#1010","CompanyCraftPart#1110","CompanyCraftPart#1210","CompanyCraftPart#0","CompanyCraftPart#0",33
-1033,"小型半木外墙",2,"房屋用具","外墙(一体型)","半木房屋设计图","CompanyCraftPart#733","CompanyCraftPart#833","CompanyCraftPart#911","CompanyCraftPart#1011","CompanyCraftPart#1111","CompanyCraftPart#1211","CompanyCraftPart#0","CompanyCraftPart#0",34
-1034,"中型半木外墙",3,"房屋用具","外墙(一体型)","半木房屋设计图","CompanyCraftPart#734","CompanyCraftPart#834","CompanyCraftPart#911","CompanyCraftPart#1011","CompanyCraftPart#1111","CompanyCraftPart#1211","CompanyCraftPart#0","CompanyCraftPart#0",35
-1035,"大型半木外墙",4,"房屋用具","外墙(一体型)","半木房屋设计图","CompanyCraftPart#735","CompanyCraftPart#835","CompanyCraftPart#911","CompanyCraftPart#1011","CompanyCraftPart#1111","CompanyCraftPart#1211","CompanyCraftPart#0","CompanyCraftPart#0",36
-1036,"小型锻铁匠外墙",2,"房屋用具","外墙(一体型)","锻铁匠房屋设计图","CompanyCraftPart#736","CompanyCraftPart#836","CompanyCraftPart#912","CompanyCraftPart#1012","CompanyCraftPart#1112","CompanyCraftPart#1212","CompanyCraftPart#0","CompanyCraftPart#0",37
-1037,"中型锻铁匠外墙",3,"房屋用具","外墙(一体型)","锻铁匠房屋设计图","CompanyCraftPart#737","CompanyCraftPart#837","CompanyCraftPart#912","CompanyCraftPart#1012","CompanyCraftPart#1112","CompanyCraftPart#1212","CompanyCraftPart#0","CompanyCraftPart#0",38
-1038,"大型锻铁匠外墙",4,"房屋用具","外墙(一体型)","锻铁匠房屋设计图","CompanyCraftPart#738","CompanyCraftPart#838","CompanyCraftPart#912","CompanyCraftPart#1012","CompanyCraftPart#1112","CompanyCraftPart#1212","CompanyCraftPart#0","CompanyCraftPart#0",39
-1039,"小型花店外墙",2,"房屋用具","外墙(一体型)","花店房屋设计图","CompanyCraftPart#739","CompanyCraftPart#839","CompanyCraftPart#913","CompanyCraftPart#1013","CompanyCraftPart#1113","CompanyCraftPart#1213","CompanyCraftPart#0","CompanyCraftPart#0",40
-1040,"中型花店外墙",3,"房屋用具","外墙(一体型)","花店房屋设计图","CompanyCraftPart#740","CompanyCraftPart#840","CompanyCraftPart#913","CompanyCraftPart#1013","CompanyCraftPart#1113","CompanyCraftPart#1213","CompanyCraftPart#0","CompanyCraftPart#0",41
-1041,"大型花店外墙",4,"房屋用具","外墙(一体型)","花店房屋设计图","CompanyCraftPart#741","CompanyCraftPart#841","CompanyCraftPart#913","CompanyCraftPart#1013","CompanyCraftPart#1113","CompanyCraftPart#1213","CompanyCraftPart#0","CompanyCraftPart#0",42
-1042,"小型锻冶工房外墙",2,"房屋用具","外墙(一体型)","锻冶工房房屋设计图","CompanyCraftPart#742","CompanyCraftPart#842","CompanyCraftPart#914","CompanyCraftPart#1014","CompanyCraftPart#1114","CompanyCraftPart#1214","CompanyCraftPart#0","CompanyCraftPart#0",43
-1043,"中型锻冶工房外墙",3,"房屋用具","外墙(一体型)","锻冶工房房屋设计图","CompanyCraftPart#743","CompanyCraftPart#843","CompanyCraftPart#914","CompanyCraftPart#1014","CompanyCraftPart#1114","CompanyCraftPart#1214","CompanyCraftPart#0","CompanyCraftPart#0",44
-1044,"大型锻冶工房外墙",4,"房屋用具","外墙(一体型)","锻冶工房房屋设计图","CompanyCraftPart#744","CompanyCraftPart#844","CompanyCraftPart#914","CompanyCraftPart#1014","CompanyCraftPart#1114","CompanyCraftPart#1214","CompanyCraftPart#0","CompanyCraftPart#0",45
-1045,"小型咖啡馆外墙",2,"房屋用具","外墙(一体型)","咖啡馆房屋设计图","CompanyCraftPart#745","CompanyCraftPart#845","CompanyCraftPart#915","CompanyCraftPart#1015","CompanyCraftPart#1115","CompanyCraftPart#1215","CompanyCraftPart#0","CompanyCraftPart#0",46
-1046,"中型咖啡馆外墙",3,"房屋用具","外墙(一体型)","咖啡馆房屋设计图","CompanyCraftPart#746","CompanyCraftPart#846","CompanyCraftPart#915","CompanyCraftPart#1015","CompanyCraftPart#1115","CompanyCraftPart#1215","CompanyCraftPart#0","CompanyCraftPart#0",47
-1047,"大型咖啡馆外墙",4,"房屋用具","外墙(一体型)","咖啡馆房屋设计图","CompanyCraftPart#747","CompanyCraftPart#847","CompanyCraftPart#915","CompanyCraftPart#1015","CompanyCraftPart#1115","CompanyCraftPart#1215","CompanyCraftPart#0","CompanyCraftPart#0",48
-1048,"姜饼小屋外墙",2,"房屋用具","外墙(一体型)","姜饼屋设计图","CompanyCraftPart#748","CompanyCraftPart#848","CompanyCraftPart#916","CompanyCraftPart#1016","CompanyCraftPart#1116","CompanyCraftPart#1216","CompanyCraftPart#0","CompanyCraftPart#0",49
-1049,"姜饼公馆外墙",3,"房屋用具","外墙(一体型)","姜饼屋设计图","CompanyCraftPart#749","CompanyCraftPart#849","CompanyCraftPart#916","CompanyCraftPart#1016","CompanyCraftPart#1116","CompanyCraftPart#1216","CompanyCraftPart#0","CompanyCraftPart#0",50
-1050,"姜饼别墅外墙",4,"房屋用具","外墙(一体型)","姜饼屋设计图","CompanyCraftPart#750","CompanyCraftPart#850","CompanyCraftPart#916","CompanyCraftPart#1016","CompanyCraftPart#1116","CompanyCraftPart#1216","CompanyCraftPart#0","CompanyCraftPart#0",51
-1051,"风雅东洋小屋外墙",2,"房屋用具","外墙(一体型)","风雅东洋房屋设计图","CompanyCraftPart#751","CompanyCraftPart#851","CompanyCraftPart#917","CompanyCraftPart#1017","CompanyCraftPart#1117","CompanyCraftPart#1217","CompanyCraftPart#0","CompanyCraftPart#0",52
-1052,"风雅东洋公馆外墙",3,"房屋用具","外墙(一体型)","风雅东洋房屋设计图","CompanyCraftPart#752","CompanyCraftPart#852","CompanyCraftPart#917","CompanyCraftPart#1017","CompanyCraftPart#1117","CompanyCraftPart#1217","CompanyCraftPart#0","CompanyCraftPart#0",53
-1053,"风雅东洋别墅外墙",4,"房屋用具","外墙(一体型)","风雅东洋房屋设计图","CompanyCraftPart#753","CompanyCraftPart#853","CompanyCraftPart#917","CompanyCraftPart#1017","CompanyCraftPart#1117","CompanyCraftPart#1217","CompanyCraftPart#0","CompanyCraftPart#0",54
+0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+1,9462,1,0,1,-1,1,0,0,0,0,0,0,0,1
+2,9463,1,0,1,14,2,0,0,0,0,0,0,0,2
+3,9464,1,0,1,16,3,0,0,0,0,0,0,0,3
+4,9465,1,0,1,18,4,0,0,0,0,0,0,0,4
+5,9466,1,0,1,19,5,0,0,0,0,0,0,0,5
+6,9653,6,0,2,8,100,0,0,0,0,0,0,0,1
+7,9654,6,0,2,8,101,0,0,0,0,0,0,0,2
+8,9655,6,0,2,8,102,0,0,0,0,0,0,0,3
+9,9656,6,0,2,8,103,0,0,0,0,0,0,0,4
+10,9657,6,0,2,8,104,0,0,0,0,0,0,0,5
+11,9658,6,0,2,8,105,0,0,0,0,0,0,0,6
+12,12215,6,0,2,8,116,0,0,0,0,0,0,0,7
+13,9659,6,0,2,9,106,0,0,0,0,0,0,0,8
+14,9660,6,0,2,9,107,0,0,0,0,0,0,0,9
+15,9661,6,0,2,9,108,0,0,0,0,0,0,0,10
+16,9662,6,0,2,9,109,0,0,0,0,0,0,0,11
+17,9663,6,0,2,9,110,0,0,0,0,0,0,0,12
+18,9664,6,0,2,9,111,0,0,0,0,0,0,0,13
+19,9665,6,0,2,10,112,0,0,0,0,0,0,0,14
+20,9666,6,0,2,10,113,0,0,0,0,0,0,0,15
+21,9667,6,0,2,10,114,0,0,0,0,0,0,0,16
+22,9668,6,0,2,10,115,0,0,0,0,0,0,0,17
+23,9669,6,0,2,11,200,0,0,0,0,0,0,0,18
+24,9670,6,0,2,11,201,0,0,0,0,0,0,0,19
+25,9671,6,0,2,11,202,0,0,0,0,0,0,0,20
+26,9672,6,0,2,11,203,0,0,0,0,0,0,0,21
+27,9673,6,0,2,11,204,0,0,0,0,0,0,0,22
+28,9674,6,0,2,11,205,0,0,0,0,0,0,0,23
+29,12216,6,0,2,11,216,0,0,0,0,0,0,0,24
+31,9676,6,0,2,12,207,0,0,0,0,0,0,0,26
+32,9677,6,0,2,12,208,0,0,0,0,0,0,0,27
+33,9678,6,0,2,12,209,0,0,0,0,0,0,0,28
+34,9679,6,0,2,12,210,0,0,0,0,0,0,0,29
+35,9680,6,0,2,12,211,0,0,0,0,0,0,0,30
+36,9681,6,0,2,13,212,0,0,0,0,0,0,0,31
+37,9682,6,0,2,13,213,0,0,0,0,0,0,0,32
+39,9684,6,0,2,13,215,0,0,0,0,0,0,0,34
+500,10156,5,1,3,-1,300,0,0,0,0,0,0,0,1
+501,10157,5,1,3,0,301,0,0,0,0,0,0,0,2
+502,10158,5,1,3,1,302,0,0,0,0,0,0,0,3
+503,10159,5,1,3,2,303,0,0,0,0,0,0,0,4
+504,10160,5,1,3,3,304,0,0,0,0,0,0,0,5
+505,10161,5,1,3,4,305,0,0,0,0,0,0,0,6
+506,10162,5,1,4,-1,0,400,0,0,0,0,0,0,1
+507,10163,5,1,4,0,0,401,0,0,0,0,0,0,2
+508,10164,5,1,4,1,0,402,0,0,0,0,0,0,3
+509,10165,5,1,4,2,0,403,0,0,0,0,0,0,4
+510,10166,5,1,4,3,0,404,0,0,0,0,0,0,5
+511,10167,5,1,4,4,0,405,0,0,0,0,0,0,6
+512,10168,5,1,5,-1,0,0,500,0,0,0,0,0,1
+513,10169,5,1,5,0,0,0,501,0,0,0,0,0,2
+514,10170,5,1,5,1,0,0,502,0,0,0,0,0,3
+515,10171,5,1,5,2,0,0,503,0,0,0,0,0,4
+516,10172,5,1,5,3,0,0,504,0,0,0,0,0,5
+517,10173,5,1,5,4,0,0,505,0,0,0,0,0,6
+518,10174,5,1,6,-1,0,0,0,600,0,0,0,0,1
+519,10175,5,1,6,0,0,0,0,601,0,0,0,0,2
+520,10176,5,1,6,1,0,0,0,602,0,0,0,0,3
+521,10177,5,1,6,2,0,0,0,603,0,0,0,0,4
+522,10178,5,1,6,3,0,0,0,604,0,0,0,0,5
+523,10179,5,1,6,4,0,0,0,605,0,0,0,0,6
+524,14003,5,1,3,17,306,0,0,0,0,0,0,0,7
+525,14004,5,1,4,17,0,406,0,0,0,0,0,0,7
+526,14005,5,1,5,17,0,0,506,0,0,0,0,0,7
+527,14006,5,1,6,17,0,0,0,606,0,0,0,0,7
+528,21794,7,1,16,24,1500,0,0,0,0,0,0,0,1
+529,21795,7,1,17,24,0,0,0,1600,0,0,0,0,1
+530,21792,7,1,18,24,0,0,1700,0,0,0,0,0,1
+531,21793,7,1,19,24,0,1800,0,0,0,0,0,0,1
+532,21798,7,1,16,25,1501,0,0,0,0,0,0,0,2
+533,21799,7,1,17,25,0,0,0,1601,0,0,0,0,2
+534,21796,7,1,18,25,0,0,1701,0,0,0,0,0,2
+535,21797,7,1,19,25,0,1801,0,0,0,0,0,0,2
+536,22528,7,1,16,26,1502,0,0,0,0,0,0,0,3
+537,22529,7,1,17,26,0,0,0,1602,0,0,0,0,3
+538,22526,7,1,18,26,0,0,1702,0,0,0,0,0,3
+539,22527,7,1,19,26,0,1802,0,0,0,0,0,0,3
+540,23905,7,1,16,28,1503,0,0,0,0,0,0,0,4
+541,23906,7,1,17,28,0,0,0,1603,0,0,0,0,4
+542,23903,7,1,18,28,0,0,1703,0,0,0,0,0,4
+543,23904,7,1,19,28,0,1803,0,0,0,0,0,0,4
+544,24346,7,1,16,29,1504,0,0,0,0,0,0,0,5
+545,24347,7,1,17,29,0,0,0,1604,0,0,0,0,5
+546,24344,7,1,18,29,0,0,1704,0,0,0,0,0,5
+547,24345,7,1,19,29,0,1804,0,0,0,0,0,0,5
+548,24350,7,1,16,30,1505,0,0,0,0,0,0,0,6
+549,24351,7,1,17,30,0,0,0,1605,0,0,0,0,6
+550,24348,7,1,18,30,0,0,1705,0,0,0,0,0,6
+551,24349,7,1,19,30,0,1805,0,0,0,0,0,0,6
+552,24354,7,1,16,30,1506,0,0,0,0,0,0,0,7
+553,24355,7,1,17,30,0,0,0,1606,0,0,0,0,7
+554,24352,7,1,18,30,0,0,1706,0,0,0,0,0,7
+555,24353,7,1,19,30,0,1806,0,0,0,0,0,0,7
+556,24358,7,1,16,30,1507,0,0,0,0,0,0,0,8
+557,24359,7,1,17,30,0,0,0,1607,0,0,0,0,8
+558,24356,7,1,18,30,0,0,1707,0,0,0,0,0,8
+559,24357,7,1,19,30,0,1807,0,0,0,0,0,0,8
+560,24362,7,1,16,30,1508,0,0,0,0,0,0,0,9
+561,24363,7,1,17,30,0,0,0,1608,0,0,0,0,9
+562,24360,7,1,18,30,0,0,1708,0,0,0,0,0,9
+563,24361,7,1,19,30,0,1808,0,0,0,0,0,0,9
+564,24366,7,1,16,30,1509,0,0,0,0,0,0,0,10
+565,24367,7,1,17,30,0,0,0,1609,0,0,0,0,10
+566,24364,7,1,18,30,0,0,1709,0,0,0,0,0,10
+567,24365,7,1,19,30,0,1809,0,0,0,0,0,0,10
+1000,10361,2,2,7,-1,700,800,900,1000,1103,1202,1302,1400,1
+1001,10362,3,2,7,-1,701,801,900,1000,1103,1202,1302,1400,2
+1002,10363,4,2,7,-1,702,802,900,1000,1103,1202,1302,1400,3
+1003,10364,2,2,7,5,703,803,901,1001,1102,1203,1303,1401,4
+1004,10365,3,2,7,5,704,804,901,1001,1102,1203,1303,1401,5
+1005,10366,4,2,7,5,705,805,901,1001,1102,1203,1303,1401,6
+1006,10367,2,2,7,6,706,806,902,1002,1101,1201,1301,1402,7
+1007,10368,3,2,7,6,707,807,902,1002,1101,1201,1301,1402,8
+1008,10369,4,2,7,6,708,808,902,1002,1101,1201,1301,1402,9
+1009,10370,2,2,7,7,709,809,903,1003,1100,1200,1300,1403,10
+1010,10371,3,2,7,7,710,810,903,1003,1100,1200,1300,1403,11
+1011,10372,4,2,7,7,711,811,903,1003,1100,1200,1300,1403,12
+1012,13092,2,2,7,15,712,812,904,1004,1104,1204,1304,1404,13
+1013,13093,3,2,7,15,713,813,904,1004,1104,1204,1304,1404,14
+1014,13094,4,2,7,15,714,814,904,1004,1104,1204,1304,1404,15
+1015,15950,2,2,7,20,715,815,905,1005,1105,1205,1305,1405,16
+1016,15951,3,2,7,20,716,816,905,1005,1105,1205,1305,1405,17
+1017,15952,4,2,7,20,717,817,905,1005,1105,1205,1305,1405,18
+1018,17004,2,2,7,21,718,818,906,1006,1106,1206,0,0,19
+1019,17005,3,2,7,21,719,819,906,1006,1106,1206,0,0,20
+1020,17006,4,2,7,21,720,820,906,1006,1106,1206,0,0,21
+1021,19767,2,2,7,22,721,821,907,1007,1107,1207,0,0,22
+1022,19768,3,2,7,22,722,822,907,1007,1107,1207,0,0,23
+1023,19769,4,2,7,22,723,823,907,1007,1107,1207,0,0,24
+1024,20723,2,2,7,23,724,824,908,1008,1108,1208,0,0,25
+1025,20724,3,2,7,23,725,825,908,1008,1108,1208,0,0,26
+1026,20725,4,2,7,23,726,826,908,1008,1108,1208,0,0,27
+1027,22533,2,2,7,27,727,827,909,1009,1109,1209,0,0,28
+1028,22534,3,2,7,27,728,828,909,1009,1109,1209,0,0,29
+1029,22535,4,2,7,27,729,829,909,1009,1109,1209,0,0,30
+1030,28172,2,2,7,-1,730,830,910,1010,1110,1210,0,0,31
+1031,28173,3,2,7,-1,731,831,910,1010,1110,1210,0,0,32
+1032,28174,4,2,7,-1,732,832,910,1010,1110,1210,0,0,33
+1033,28957,2,2,7,31,733,833,911,1011,1111,1211,0,0,34
+1034,28958,3,2,7,31,734,834,911,1011,1111,1211,0,0,35
+1035,28959,4,2,7,31,735,835,911,1011,1111,1211,0,0,36
+1036,30375,2,2,7,32,736,836,912,1012,1112,1212,0,0,37
+1037,30376,3,2,7,32,737,837,912,1012,1112,1212,0,0,38
+1038,30377,4,2,7,32,738,838,912,1012,1112,1212,0,0,39
+1039,32255,2,2,7,33,739,839,913,1013,1113,1213,0,0,40
+1040,32256,3,2,7,33,740,840,913,1013,1113,1213,0,0,41
+1041,32257,4,2,7,33,741,841,913,1013,1113,1213,0,0,42
+1042,33245,2,2,7,34,742,842,914,1014,1114,1214,0,0,43
+1043,33246,3,2,7,34,743,843,914,1014,1114,1214,0,0,44
+1044,33247,4,2,7,34,744,844,914,1014,1114,1214,0,0,45
+1045,35812,2,2,7,35,745,845,915,1015,1115,1215,0,0,46
+1046,35813,3,2,7,35,746,846,915,1015,1115,1215,0,0,47
+1047,35814,4,2,7,35,747,847,915,1015,1115,1215,0,0,48
+1048,37344,2,2,7,36,748,848,916,1016,1116,1216,0,0,49
+1049,37345,3,2,7,36,749,849,916,1016,1116,1216,0,0,50
+1050,37346,4,2,7,36,750,850,916,1016,1116,1216,0,0,51
+1051,38953,2,2,7,37,751,851,917,1017,1117,1217,0,0,52
+1052,38954,3,2,7,37,752,852,917,1017,1117,1217,0,0,53
+1053,38955,4,2,7,37,753,853,917,1017,1117,1217,0,0,54

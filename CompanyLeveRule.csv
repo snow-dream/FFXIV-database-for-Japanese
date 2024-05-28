@@ -1,11 +1,9 @@
 ﻿key,0,1,2
 #,Type,Objective,Help
 int32,str,LeveString,LeveString
-0,"","",""
-1,"CompanyLeveProtection","保护目标的同时击退敌人","失败条件：失去所有<Sheet(BNpcName,IntegerParameter(1),0)/>"
-2,"CompanyLeveInterception","在限制时间内尽可能打倒更多的敌人","失败条件：没有达到目标数量"
-3,"CompanyLevePenetration","找到<Sheet(EventItem,IntegerParameter(1),0)/>的持有者
-识破其本体并将其消灭","打倒对“<If(Equal(IntegerParameter(1),1))>戳指<Else/>质疑</If>”动作有反应的敌人
-获得<Sheet(EventItem,IntegerParameter(2),0)/>"
-4,"","",""
-5,"CompanyLeveSummon","打倒呼叫增援的敌人",""
+0,"",0,0
+1,"CompanyLeveProtection",26,33
+2,"CompanyLeveInterception",27,31
+3,"CompanyLevePenetration",28,32
+4,"",29,0
+5,"CompanyLeveSummon",30,0

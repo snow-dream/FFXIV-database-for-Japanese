@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,ActionTimeline,Pose
 int32,ActionTimeline,str
-0,"mannequin_ft/mq_normal_idle","普通站姿"
-1,"mannequin_ft/mq_emote_pose01_loop","服装模特"
-2,"mannequin_ft/mq_emote_pose02_loop","双手抱胸"
-3,"mannequin_ft/mq_emote_pose03_loop","彰显个性"
-4,"mannequin_ft/mq_emote_pose04_loop","模特站姿"
+0,6288,"普通站姿"
+1,6289,"服装模特"
+2,6290,"双手抱胸"
+3,6291,"彰显个性"
+4,6292,"模特站姿"

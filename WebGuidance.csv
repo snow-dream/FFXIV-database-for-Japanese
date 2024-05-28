@@ -1,12 +1,12 @@
 ﻿key,0,1,2,3,4
 #,Image,Url,Name,,Description
 int32,Image,WebURL,str,str,str
-0,,"","","",""
-1,"ui/icon/180000/chs/180102.tex","https://ff.web.sdo.com/bbs","COMMUNITY FINDER","コミュニティファインダー","コミュニティファインダーはフリーカンパニーやリンクシェルなど、メンバー募集の最新情報が集まるサイトです。
+0,0,0,"","",""
+1,180102,2,"COMMUNITY FINDER","コミュニティファインダー","コミュニティファインダーはフリーカンパニーやリンクシェルなど、メンバー募集の最新情報が集まるサイトです。
 
 ゲーム内のフレンドや仲間を探すなら
 ここにアクセス！"
-2,"ui/icon/180000/chs/180103.tex","https://sqex.to/ffxiv-immerse-ch","Immerse Spatial Audio","","“Immerse Spatial Audio”は、Embody社の提供するオプショナルサウンドアドオンです。
+2,180103,18,"Immerse Spatial Audio","","“Immerse Spatial Audio”は、Embody社の提供するオプショナルサウンドアドオンです。
 ファイナルファンタジーXIVのサウンドをあなたの耳の形状にあわせてパーソナライズし再生することで、360度から音が聴こえるような、より立体感のあるオーディオをお楽しみいただけます。
 
 本機能をご利用いただくには、“Immerse Spatial Audio”の導入が必要です。

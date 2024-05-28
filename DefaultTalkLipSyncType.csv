@@ -1,8 +1,8 @@
 ﻿key,0
 #,ActionTimeline
 int32,ActionTimeline
-0,""
-1,""
-2,"speak/shout_short"
-3,"speak/shout_middle"
-4,"speak/shout_long"
+0,0
+1,0
+2,632
+3,633
+4,634

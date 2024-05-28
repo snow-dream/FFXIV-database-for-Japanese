@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
 #,AetherpoolArm,AetherpoolArmor,PomanderSlot[0],PomanderSlot[1],PomanderSlot[2],PomanderSlot[3],PomanderSlot[4],PomanderSlot[5],PomanderSlot[6],PomanderSlot[7],PomanderSlot[8],PomanderSlot[9],PomanderSlot[10],PomanderSlot[11],PomanderSlot[12],PomanderSlot[13],PomanderSlot[14],PomanderSlot[15],MagiciteSlot[0],MagiciteSlot[1],MagiciteSlot[2],MagiciteSlot[3],MagiciteSlot[4],Name,ContentFinderCondition{Start},
 int32,DeepDungeonEquipment,DeepDungeonEquipment,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonItem,DeepDungeonMagicStone,DeepDungeonMagicStone,DeepDungeonMagicStone,DeepDungeonMagicStone,DeepDungeonMagicStone,str,ContentFinderCondition,bit&01
-0,"","","","","","","","","","","","","","","","","","","","","","","","","",False
-1,"聚魔装备（武器·盾）","聚魔装备（防具）","魔陶器：咒印解除","魔陶器：全景","魔陶器：强化自身","魔陶器：强化防御","魔陶器：宝箱增加","魔陶器：减少敌人","魔陶器：改变敌人","魔陶器：解咒","魔陶器：运气上升","魔陶器：形态变化","魔陶器：魔法效果解除","魔陶器：曼提克化","魔陶器：梦魔化","魔陶器：感知宝藏","魔陶器：重生","魔陶器：基路伯化","","","","","","死者宫殿","死者宫殿 地下1～10层",False
-2,"聚魔装备（武器·盾）","聚魔装备（防具）","魔陶器：咒印解除","魔陶器：全景","魔陶器：强化自身","魔陶器：强化防御","魔陶器：宝箱增加","魔陶器：减少敌人","魔陶器：改变敌人","魔陶器：解咒","魔陶器：运气上升","魔陶器：形态变化","魔陶器：魔法效果解除","魔陶器：弱化敌人","魔陶器：隐形","魔陶器：感知宝藏","魔陶器：重生","魔陶器：石化敌人","伊弗利特的魔石","伊弗利特的魔石","泰坦的魔石","迦楼罗的魔石","奥丁的魔石","天之御柱","天之御柱 1～10层",True
-3,"聚魔装备（武器·盾）","聚魔装备（防具）","魔科学器：咒印解除","魔科学器：全景","魔科学器：强化自身","魔科学器：强化防御","魔科学器：宝箱增加","魔科学器：减少敌人","魔科学器：改变敌人","魔科学器：解咒","魔科学器：运气上升","魔科学器：形态变化","魔科学器：魔法效果解除","魔科学器：缓速","魔科学器：大漩涡","魔科学器：感知宝藏","魔科学器：重生","魔科学器：恐慌装甲化","泰坦的魔石","伊弗利特的魔石","泰坦的魔石","迦楼罗的魔石","","正统优雷卡","正统优雷卡 地下1～10层",False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"",0,False
+1,1,2,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,0,0,0,0,0,"死者宫殿",174,False
+2,3,4,1,2,3,4,5,6,7,8,9,10,11,17,18,14,15,19,1,1,2,3,4,"天之御柱",540,True
+3,5,6,23,24,25,26,27,28,29,30,31,32,33,20,21,34,35,22,2,1,2,3,0,"正统优雷卡",897,False

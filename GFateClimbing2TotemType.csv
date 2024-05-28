@@ -1,7 +1,7 @@
 ﻿key,0
 #,PublicContentTextData
 int32,PublicContentTextData
-0,""
-1,"金仙人刺持有数"
-2,"银仙人刺持有数"
-3,"铜仙人刺持有数"
+0,0
+1,3000
+2,3001
+3,3002
