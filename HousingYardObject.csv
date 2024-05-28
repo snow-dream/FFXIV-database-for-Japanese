@@ -315,7 +315,10 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131397,304,17,0,0,0,,"花亭",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"厄尔庇斯庭院喷泉",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"野草草丛",False,False,True,0,0,0,False,True
+131402,309,17,0,0,0,"CmnDefHousingObject_00141","仿制魔导维修站墙",False,False,True,0,0,0,False,True
+131403,310,17,0,0,0,,"迷津葡萄路灯",False,False,True,0,0,0,False,True
 131406,269,17,0,0,0,,"特制幻光枯树",False,False,True,3,0,0,False,True
+131407,313,17,0,0,0,"CmnDefHousingObject_00141","仿制魔导维修站地台",False,False,True,0,0,0,False,True
 131408,314,17,0,0,0,,"贡贝萨鱼吊架",False,False,True,0,0,0,False,True
 131409,315,17,0,0,0,,"文鸟雕像",False,False,True,0,0,0,False,True
 131410,316,17,0,0,0,,"阿罗阿罗海岛棕榈树",False,False,True,0,0,0,False,True

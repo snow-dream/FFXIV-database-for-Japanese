@@ -608,6 +608,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197229,597,14,0,0,0,0,,"蔓德拉战队桌面台钟",False,False,0,0,0,True,False
 197230,598,15,0,0,0,0,,"星芒古菩花环",False,False,5,0,0,True,False
 197231,599,15,0,0,0,0,,"古菩挂钟",False,False,0,0,0,True,False
+197232,600,14,0,0,0,0,,"古菩桌面台钟",False,False,5,0,0,True,False
 197233,601,15,0,0,0,0,,"莫古力挂钟",False,False,0,0,0,True,False
 197234,602,12,0,0,0,0,,"仙人刺小凳",False,False,5,0,0,True,False
 197235,603,14,0,0,0,0,,"幽灵烛台",False,False,5,0,0,True,False
@@ -1364,7 +1365,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198025,1287,14,0,0,99,0,,"黄昏之剑展示台",False,False,0,0,0,True,False
 198027,1289,15,0,0,0,0,,"壁挂式吸血蝙蝠装饰",False,False,5,0,0,True,False
 198028,1290,15,0,0,0,0,,"",False,False,5,0,0,True,False
-198029,1291,12,0,0,0,0,,"ヴァレンティオン・ハートチェア",False,False,5,0,0,True,False
+198029,1291,12,0,0,0,0,,"恋人节心形椅",False,False,5,0,0,True,False
 198033,1295,15,0,0,0,0,,"特制崭新的冒险海报",False,False,3,0,0,True,False
 198034,1296,15,0,0,0,0,,"特制禁断的记忆海报",False,False,3,0,0,True,False
 198035,1297,15,0,0,0,0,,"特制天上欢庆，地下轰鸣海报",False,False,3,0,0,True,False
@@ -1373,6 +1374,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198038,1300,12,0,0,0,0,,"青龙雕像",False,False,0,0,0,True,False
 198039,1301,12,0,0,0,0,,"朱雀雕像",False,False,0,0,0,True,False
 198040,1302,15,0,0,0,0,,"水晶都壁挂雨棚",False,False,0,0,0,True,False
+198041,1303,12,0,0,0,0,,"天蓬吊帘",False,False,0,0,0,True,False
 198042,1304,12,0,0,0,0,,"隆卡壁炉",False,False,0,0,0,True,False
 198044,1306,12,0,0,0,0,,"杂志展示架",False,False,0,0,0,True,False
 198045,1307,12,0,0,0,0,,"星空屏风",False,False,0,0,0,True,False
@@ -1385,6 +1387,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198055,1317,15,0,0,0,0,,"圆形木制夹层楼板",False,False,0,0,0,True,False
 198056,1318,15,0,0,0,0,,"仙子花饰壁灯",False,False,0,0,0,True,False
 198057,1319,12,0,0,0,0,,"舷窗隔离墙",False,False,0,0,0,True,False
+198058,1320,14,0,0,0,0,,"叶小妖藓球",False,False,0,0,0,True,False
 198059,1321,14,0,0,0,0,,"蜡封信纸套装",False,False,0,0,0,True,False
 198060,1322,14,7,84,0,0,"CmnDefHousingDish_00213","雪顶莫古泡泡冰",True,False,9,4,11,True,False
 198063,1325,16,0,0,0,0,,"希望之地地毯",False,False,0,0,0,True,False
@@ -1396,6 +1399,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198070,1331,15,0,0,0,0,,"复制原画«商贸神纳尔札尔»",False,False,5,0,0,True,False
 198071,1332,15,0,0,0,0,,"复制原画«大地神诺菲卡»",False,False,5,0,0,True,False
 198072,1330,15,0,0,0,0,,"复制原画«光阴神阿尔基克»",False,False,5,0,0,True,False
+198088,1351,14,0,0,0,0,,"背世咖啡厅杯优胜奖杯",False,False,5,0,0,True,False
 198089,1196,14,0,0,0,0,,"特制鬼火灯笼",False,False,3,0,0,True,False
 198090,1170,15,0,0,0,0,,"特制降神节朱红白鹤旗",False,False,3,0,0,True,False
 198091,1204,13,0,0,0,0,,"特制恋人节心形桌台",False,False,3,0,0,True,False

@@ -3731,8 +3731,8 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3567,"设置多变复活","设置了多变复活，可以暂时发动该多变技能","ui/icon/016000/016741.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,3,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3568,"设置多变精神镖","设置了多变精神镖，可以暂时发动该多变技能","ui/icon/016000/016742.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,4,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3569,"设置多变铁壁","设置了多变铁壁，可以暂时发动该多变技能","ui/icon/016000/016743.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,5,0,False,False,0,0,True,0,False,0,False,0,0,0,False
-3570,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3571,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3570,"愤怒的神气","被愤怒的神气所支配，无法做出任何行动","ui/icon/014000/014105.tex",0,0,"所有职业",2,"dk05th_stdn0t","m0483_piyo0f",False,True,True,True,False,False,False,False,False,200,0,False,False,0,4,True,0,False,0,False,0,0,0,False
+3571,"愉悦的神气","被愉悦的神气所支配，无法做出任何行动","ui/icon/014000/014106.tex",0,0,"所有职业",2,"dk05th_stdn0t","m0483_piyo0f",False,True,True,True,False,False,False,False,False,200,0,False,False,0,4,True,0,False,0,False,0,0,0,False
 3572,"","",,0,0,"所有职业",1,"","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,20,True,0,False,0,False,0,0,0,False
 3573,"黑龙炎","身缠黑龙之炎，积攒到3档之后会受到巨大伤害","ui/icon/018000/018806.tex",0,5,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3574,"黑龙剑","阿珠达雅发生变异，与剑融为一体","ui/icon/015000/015178.tex",0,0,"所有职业",1,"","",False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
@@ -3876,7 +3876,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3710,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3711,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3712,"魔法吐息","无属性持续伤害，体力逐渐流失","ui/icon/013000/013553.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,10,0,False,False,100,0,False,0,False,5,False,0,0,0,False
-3713,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3713,"粘着","受到粘液的影响无法自由活动","ui/icon/014000/014111.tex",0,0,"所有职业",2,"dk05th_stdn0t","k5d2_stlp_neba_c0c2",True,False,True,False,False,False,False,True,False,200,0,False,False,0,4,False,0,False,0,False,0,0,0,False
 3714,"猎物","作为猎物被盯上了","ui/icon/015000/015026.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3715,"移动命令：前","被下达了移动命令，效果结束时会向前方移动","ui/icon/015000/015774.tex",0,0,"所有职业",2,"dk05th_stdn0t","o5d1_stlp_front_c0e1",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3716,"移动命令：后","被下达了移动命令，效果结束时会向后方移动","ui/icon/015000/015775.tex",0,0,"所有职业",2,"dk05th_stdn0t","o5d1_stlp_back_c0e1",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
@@ -3916,7 +3916,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3746,"气泡牢狱","被关入含有魔力的气泡之中，无法移动，随风飘荡","ui/icon/015000/015301.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,True,True,True,False,True,False,True,True,200,0,False,False,0,12,True,0,False,0,False,0,0,0,False
 3747,"选定目标：水瀑","成为目标，效果结束时会发动水瀑","ui/icon/015000/015969.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3748,"选定目标：水化弹","成为目标，效果结束时会发动水化弹","ui/icon/015000/015996.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3749,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3749,"粘着","受到粘液的影响无法自由活动","ui/icon/014000/014111.tex",0,0,"所有职业",2,"dk05th_stdn0t","k5d2_stlp_neba_c0c2",False,False,False,False,False,False,False,True,False,200,0,False,False,0,4,False,0,False,0,False,0,0,0,False
 3750,"拘束","行動できなくなった状態。","ui/icon/015000/015545.tex",0,0,"所有职业",2,"dk05th_stdn0t","kousoku02f",True,False,True,True,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3751,"针灸屏障","抵消一定伤害","ui/icon/014000/014988.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,199,0,False,False,100,0,True,0,False,0,False,0,12,0,False
 3752,"休憩之水","体力会随时间逐渐恢复","ui/icon/014000/014989.tex",137,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,198,0,False,False,100,0,True,0,False,0,False,0,0,0,False
@@ -3925,7 +3925,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3755,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3756,"伤害提高","攻击所造成的伤害大幅提高","ui/icon/015000/015519.tex",0,0,"所有职业",1,"dk05th_stup0t","o5d1_stlp_atk0_c0c2",False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3757,"受伤减轻","受到攻击的伤害大幅减少","ui/icon/015000/015021.tex",0,0,"所有职业",1,"dk05th_stup0t","o5d1_stlp_def0_c0c2",False,False,False,False,False,False,False,True,True,200,0,False,False,-90,0,False,0,False,0,False,0,0,0,False
-3758,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3758,"犎牛的热情","自身仇恨提高","ui/icon/012000/012551.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,200,0,False,0,False,0,False,0,0,0,False
 3759,"狂躁","被逼入绝境，渴望归乡的情感狂躁不已","ui/icon/014000/014115.tex",0,0,"所有职业",1,"dk05th_stup0t","m0851_stlp_c1g",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3760,"宇宙大爆炸","被爆发性扩散的暗之力所激活","ui/icon/014000/014116.tex",0,0,"所有职业",1,"dk05th_stup0t","m0851_stlp_c0g",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3761,"宇宙大反弹","无属性持续伤害，体力逐渐流失","ui/icon/014000/014117.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,10,0,False,0,False,5,False,0,0,0,False
@@ -3950,9 +3950,9 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3780,"","",,0,0,"所有职业",2,"","",False,False,True,False,False,False,False,True,True,100,0,True,False,0,0,False,0,False,0,False,0,0,0,False
 3781,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3782,"止步","无法自由移动","ui/icon/015000/015003.tex",0,0,"所有职业",2,"","dk10ht_bind0h",True,False,False,False,False,False,False,True,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3783,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3784,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3785,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3783,"犎牛的血潮","减轻所受到的伤害","ui/icon/013000/013911.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False
+3784,"狞豹的血潮","受到攻击的伤害减少并且受到物理攻击时会发动反击","ui/icon/010000/010256.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,0,False,False,-30,0,False,0,False,0,False,0,0,0,False
+3785,"猛雕的血潮","体力最大值以及自身所受体力恢复效果提高","ui/icon/010000/010254.tex",0,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,5,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3786,"成形","生长完成","ui/icon/015000/015971.tex",89,0,"所有职业",1,"dk05th_stup0t","",False,False,False,False,True,False,False,True,True,200,0,False,False,300,26,False,0,False,0,False,0,0,0,False
 3787,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3788,"气泡凝集","被含有魔力的气泡包围，效果时间结束时会陷入止步状态","ui/icon/016000/016749.tex",0,0,"所有职业",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False

@@ -393,7 +393,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 389,388,2,4,3,3,"TripleTriadCardRarity#1","",100,1,385,0,False,2,"多变迷宫 阿罗阿罗岛",,"神子使者与被遗忘之岛"
 390,389,5,2,3,6,"TripleTriadCardRarity#2","",300,8,386,0,False,2,"多变迷宫 阿罗阿罗岛",,"神子使者与被遗忘之岛"
 391,390,4,5,5,4,"TripleTriadCardRarity#2","",300,8,387,0,False,2,"多变迷宫 阿罗阿罗岛",,"神子使者与被遗忘之岛"
-392,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+392,391,5,4,3,7,"TripleTriadCardRarity#2","",300,17,389,0,False,10,"卡片兑换员","Level#5581330","曼德维尔之谜"
 393,392,5,7,5,5,"TripleTriadCardRarity#3","",500,20,388,0,False,2,"多变迷宫 阿罗阿罗岛",,"神子使者与被遗忘之岛"
 394,393,8,7,1,6,"TripleTriadCardRarity#3","",500,23,375,0,False,6,"伊莱尔","Level#10189405","十二神的秘密"
 395,394,1,8,6,7,"TripleTriadCardRarity#3","",500,23,376,0,False,6,"伊莱尔","Level#10189405","十二神的秘密"
@@ -404,7 +404,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 400,399,7,8,1,6,"TripleTriadCardRarity#3","",500,23,381,0,False,10,"卡片兑换员","Level#5581330","荣华神域塔利亚"
 401,400,7,6,6,6,"TripleTriadCardRarity#3","",500,20,382,0,False,3,"异界深渊月面地下溪谷",,"超越时空的思念"
 402,401,6,6,7,9,"TripleTriadCardRarity#4","",800,33,383,0,False,2,"荣华神域塔利亚",,"受众神眷顾之地——艾欧泽亚"
-403,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+403,402,9,7,6,5,"TripleTriadCardRarity#4","蛮神",800,35,390,0,False,3,"阿修罗歼灭战",,"曼德维尔之谜"
 404,403,9,9,1,9,"TripleTriadCardRarity#5","",1500,40,384,0,False,3,"泽罗姆斯歼灭战",,"虚无界的英雄"
 405,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
 406,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

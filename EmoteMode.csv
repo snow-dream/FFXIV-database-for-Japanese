@@ -71,7 +71,7 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 67,"声援小白","",True,False,False,False,3,False
 68,"声援小紫","",True,False,False,False,3,False
 69,"声援小绿","",True,False,False,False,3,False
-70,"","",True,False,False,False,3,False
+70,"兔兔舞","",True,False,False,False,3,False
 71,"垂头丧气","",True,False,False,False,3,False
 72,"比心","",True,False,False,False,3,True
 73,"众生离绝","",True,False,False,False,3,True

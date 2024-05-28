@@ -520,7 +520,7 @@ int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,Warp
 131534,,"z5r3_event",,,,"WarpCondition#1","","","",False,"","要前往祝福天球吗？"
 131535,,"z5e5",,,,"WarpCondition#1","","","",False,"","要前往红月吗？"
 131536,,"z5d2_event",,,,"WarpCondition#1","","","",False,"","要前往溪谷深处吗？"
-131537,,,,,,"WarpCondition#0","","","",False,"",""
+131537,,"m5f1",,,,"WarpCondition#1","","","",False,"","要前往萨维奈岛吗？"
 131538,,"r1fa_event","DefaultTalk#599417",,,"WarpCondition#1","","","",False,"","要前往呼啸眼石塔群吗？"
 131539,,"w1el","DefaultTalk#599454","DefaultTalk#599432",,"WarpCondition#65","","","",False,"","要前往金碟巨豆中心广场吗？"
 131540,,"w1eb","DefaultTalk#599455",,,"WarpCondition#1","","","",False,"","要前往奇妙广场吗？"

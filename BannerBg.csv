@@ -190,7 +190,7 @@ int32,Image,Image,BannerCondition,uint16,str
 186,"ui/icon/190000/190961.tex","ui/icon/082000/082091.tex","BannerCondition#526",2305,"友好部族任务：鲶鱼精族"
 187,"ui/icon/190000/190320.tex","ui/icon/082000/082091.tex","BannerCondition#522",2169,"青魔法师（华丽）"
 188,,,"BannerCondition#0",0,""
-189,,,"BannerCondition#0",0,""
+189,"ui/icon/190000/190717.tex","ui/icon/082000/082091.tex","BannerCondition#523",3950,"10周年纪念"
 190,"ui/icon/190000/190718.tex","ui/icon/082000/082091.tex","BannerCondition#528",2401,"多变迷宫：六根山"
 191,"ui/icon/190000/190719.tex","ui/icon/082000/082091.tex","BannerCondition#529",2342,"海钓爱好者"
 192,"ui/icon/190000/190720.tex","ui/icon/082000/082091.tex","BannerCondition#530",2343,"愿者上钩"
