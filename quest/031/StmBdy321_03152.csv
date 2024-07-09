@@ -91,7 +91,7 @@ int32,str,str
 68,"TEXT_STMBDY321_03152_TATARU_000_026","次はどなたのアラミタマを鎮めるのでっすか？"
 69,"TEXT_STMBDY321_03152_GENBU_000_027","うむ、それはな……
 っと、どうやら到着したようじゃな。"
-70,"TEXT_STMBDY321_03152_SUZAKU_000_028","(-凜々しい女性の声-)久しぶりですね、<74>FF04E7BF81FF0AE3818AE3818DE381AA</74>。"
+70,"TEXT_STMBDY321_03152_SUZAKU_000_028","(-凜々しい女性の声-)久しぶりですね、<RubyCharaters>FF04E7BF81FF0AE3818AE3818DE381AA</RubyCharaters>。"
 71,"TEXT_STMBDY321_03152_GENBU_000_029","こうして顔を合わせるのは、何百年ぶりかのう。
 相変わらず、おぬしはあの場所に囚われているようじゃな、朱雀よ。"
 72,"TEXT_STMBDY321_03152_SUZAKU_000_030","……世間話をしに来たのではありません。
@@ -105,7 +105,7 @@ int32,str,str
 75,"TEXT_STMBDY321_03152_GENBU_000_033","然り。
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>には、人智を超えた才がある。
 まるで、テンゼンの生まれ変わりのようじゃ。"
-76,"TEXT_STMBDY321_03152_SUZAKU_000_034","……<74>FF07E78FBEE59CA8FF07E38184E381BE</74>も、テンゼンは私と共に在るのです！
+76,"TEXT_STMBDY321_03152_SUZAKU_000_034","……<RubyCharaters>FF07E78FBEE59CA8FF07E38184E381BE</RubyCharaters>も、テンゼンは私と共に在るのです！
 翁よ、くれぐれも言葉に気をつけてください！"
 77,"TEXT_STMBDY321_03152_SUZAKU_000_035","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>と言いましたね？
 あなたを討つことで証明してみせましょう。
@@ -142,7 +142,7 @@ int32,str,str
 だが、歩みを止めて涙を流すばかりが弔いではない。
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>がそう教えてくれたのだ。"
 92,"TEXT_STMBDY321_03152_SUZAKU_400_053","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……不快な存在だ……！！
-四聖獣を<74>FF04E8AA91FF0AE3819FE381B6E38289</74>かし、私たちからあのヒトを奪うつもりか！"
+四聖獣を<RubyCharaters>FF04E8AA91FF0AE3819FE381B6E38289</RubyCharaters>かし、私たちからあのヒトを奪うつもりか！"
 93,"TEXT_STMBDY321_03152_BYAKKO_500_053","支離滅裂な思考や言動……
 どうやらアラミタマの影響が強くなりつつあるようだな。
 手遅れになる前に、鎮めてやってくれ。"

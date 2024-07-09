@@ -64,7 +64,7 @@ int32,str,str
 51,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_003","さて、「ヒルディブランド様誘拐事件」について捜査したところ、
 有力な情報を見つけました！"
 52,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_004","なんと、とある雑誌に、
-サベネア島で人が<74>FF16E69CAAE7A2BAE8AA8DE9A39BE8A18CE789A9E4BD93FF0455464F</74>に拐われたという記事が、
+サベネア島で人が<RubyCharaters>FF16E69CAAE7A2BAE8AA8DE9A39BE8A18CE789A9E4BD93FF0455464F</RubyCharaters>に拐われたという記事が、
 載っていたんですよ！"
 53,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_005","それって、きっとヒルディブランド様のことですよね！？
 記事によると、その人は月に連れてかれちゃったそうです～！"
@@ -111,7 +111,7 @@ int32,str,str
 76,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_034","あ～！
 『オカルトマン』の「ドリアン」さんじゃないですか～！"
 77,"TEXT_CHRHDB821_04641_DELION_000_035","雑誌『オカルトファン』編集の「デリオン」ですけど、
-あなた方はたしか、ご友人が<74>FF07E8AA98E68B90FF16E382A2E38396E38380E382AFE382B7E383A7E383B3</74>されてしまった……。"
+あなた方はたしか、ご友人が<RubyCharaters>FF07E8AA98E68B90FF16E382A2E38396E38380E382AFE382B7E383A7E383B3</RubyCharaters>されてしまった……。"
 78,"TEXT_CHRHDB821_04641_LENTESTEARSGATEKEEPER_000_036","これは、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん。
 もしかして、こちらの方はお知り合いですか？"
 79,"TEXT_CHRHDB821_04641_Q4_000_000","何と言う？"

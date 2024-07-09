@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_JOBWHM300_01079_TODO_23",""
 48,"TEXT_JOBWHM300_01079_ESUMIYAN_000_000","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、優れた幻術士であるあなたに、
 頼まれてほしいことがあります。"
-49,"TEXT_JOBWHM300_01079_ESUMIYAN_000_001","「<74>FF07E4B889E9878DFF07E381BFE38188</74>の幻術皇」をご存知ですか？
+49,"TEXT_JOBWHM300_01079_ESUMIYAN_000_001","「<RubyCharaters>FF07E4B889E9878DFF07E381BFE38188</RubyCharaters>の幻術皇」をご存知ですか？
 我がグリダニアの最高指導者ともいうべき、
 カヌ・エ・センナ様を長女とする、角尊の三姉弟……。"
 50,"TEXT_JOBWHM300_01079_ESUMIYAN_000_002","その次女ラヤ・オ・センナ様と、末弟ア・ルン・センナ様。

@@ -49,7 +49,7 @@ int32,str,str
 16,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_034","この強化方法を実証すりゃ、きっと金になる。
 そうすりゃロウェナも、借金を減らしてくれンだろ。
 とっとと必要なものを揃えて、強化を発注しやがれ！"
-17,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_035","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」で、エネミーを討伐すると、
+17,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_035","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」で、エネミーを討伐すると、
 エウレカケトルに、混合エーテルが蓄積されます。"
 18,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_036","エウレカケトルに蓄積された混合エーテルの量は、
 コンテンツ情報に表示されます。"
@@ -131,7 +131,7 @@ int32,str,str
 56,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_170","パゴス帯で魔物を倒せば、エウレカケトルに、
 魔物のエーテルと環境エーテルを混合したものが蓄積される。
 つまり、この一帯で戦ってれば勝手に溜まるってことだ。"
-57,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_171","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」で、エネミーを討伐すると、
+57,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_171","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」で、エネミーを討伐すると、
 エウレカケトルに、混合エーテルが蓄積されます。"
 58,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_172","エウレカケトルに蓄積された混合エーテルの量は、
 コンテンツ情報に表示されます。"
@@ -144,7 +144,7 @@ int32,str,str
 「<Sheet(EObj,2009555,0)/>」を起動し、エウレカケトルに蓄積された、
 混合エーテルを一定値、消費することで入手できます。"
 62,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_183","なお、「<Sheet(EObj,2009555,0)/>」は、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」のどこかに存在します。
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」のどこかに存在します。
 プレイヤー同士で情報交換をして、探してみましょう！"
 63,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_190","「<Sheet(Item,23309,0)/>」だけじゃ、
 武器の強化は、いずれ頭打ちになる。

@@ -247,7 +247,7 @@ int32,str,str
 114,"TEXT_VOICEMAN_03003_810200_RAVANA","おもしろい！
 この武神「ラーヴァナ」、お主らの挑戦を受けて立とう。"
 115,"TEXT_VOICEMAN_03003_810210_RAVANA","しかして、我が勝利したあかつきには、
-お主らの魂を奪い、我が<74>FF04E585B5FF0DE381A4E3828FE38282E381AE</74>とする！
+お主らの魂を奪い、我が<RubyCharaters>FF04E585B5FF0DE381A4E3828FE38282E381AE</RubyCharaters>とする！
 異存あるまいな？"
 116,"TEXT_VOICEMAN_03003_810220_ICEHEART","承知……！
 ならば、私からまいる！"

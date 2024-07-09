@@ -38,7 +38,7 @@ int32,str,str
 18,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_041","マギアボードのさらなる改良を行うことで、
 組み込める魔晶石の数がひとつ増えます。"
 19,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_100_041","なお、マギアボードのさらなる改良は、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」で、
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」で、
 マギアボードの改良を行っていなくとも、行うことができます。"
 20,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_050","マギアボードのさらなる改良には、
 やはりそれ相応の素材が必要でして……。

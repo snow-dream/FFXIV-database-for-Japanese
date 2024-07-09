@@ -76,7 +76,7 @@ int32,str,str
 だが、交渉しようにもピクシー族の姿はなしか……。"
 59,"TEXT_LUCKMB105_03306_THANCRED_000_051","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、悪いがお前も、
 先が渦のように丸まった草を探してくれないか？"
-60,"TEXT_LUCKMB105_03306_THANCRED_000_052","そいつは「<74>FF0AE9808FE98FA1E88D89FF16E381A8E38186E3818DE38287E38186E3819DE38186</74>」といって、
+60,"TEXT_LUCKMB105_03306_THANCRED_000_052","そいつは「<RubyCharaters>FF0AE9808FE98FA1E88D89FF16E381A8E38186E3818DE38287E38186E3819DE38186</RubyCharaters>」といって、
 ピクシー族を見つけるのに必要なものなんだ。
 必ずこの集落のそばに生えているから、注意深く見てみてくれ。"
 61,"TEXT_LUCKMB105_03306_THANCRED_000_053","それから、途中でどこからともなく声をかけられても、

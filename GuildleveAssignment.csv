@@ -37,3 +37,4 @@ int32,str,byte,GuildleveAssignmentTalk,Quest,Quest,bit&01,bit&02,bit&04,bit&08,b
 393249,"ギルドリーヴ発行",4,"GuildleveAssignmentTalk#34","ギルドリーヴ開放「クガネ」","ギルドリーヴ開放「クガネ」",False,False,False,False,True,0
 393250,"ミーン工芸館リーヴ発行",5,"GuildleveAssignmentTalk#35","ギルドリーヴ開放「クリスタリウム」","ギルドリーヴ開放「クリスタリウム」",False,False,False,False,True,0
 393251,"グリーナーリーヴ発行",7,"GuildleveAssignmentTalk#36","ギルドリーヴ開放「オールド・シャーレアン」","ギルドリーヴ開放「オールド・シャーレアン」",False,False,False,False,True,0
+393252,"トライヨラリーヴ発行",8,"GuildleveAssignmentTalk#37","ギルドリーヴ開放「トライヨラ」","ギルドリーヴ開放「トライヨラ」",False,False,False,False,True,0

@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_CTSMYCENTRANCEHARD_00706_Q1_000_000","何をする？"
-1,"TEXT_CTSMYCENTRANCEHARD_00706_MENU_CONTENT","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」に突入する"
-2,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_001","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」について詳しく聞く"
+1,"TEXT_CTSMYCENTRANCEHARD_00706_MENU_CONTENT","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」に突入する"
+2,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_001","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」について詳しく聞く"
 3,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_003","話を聞く"
 4,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_002","キャンセル"
 5,"TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_000","初稿を拝読させていただきやしたが、こいつぁ面白い！

@@ -152,7 +152,7 @@ int32,str,str
 66,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_346","よし、ならテメェの相棒と一緒に、
 せいぜい大暴れしてきやがれ！"
 67,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_349","「エウレカウェポン完成形」に対して、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」の「幻想転写器」を使い、
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」の「幻想転写器」を使い、
 再び「サブパラメータの付与」を行えるようになりました。"
 68,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_350","またもや、傑作を作っちまった。
 俺の才能は尽きることを知らないな。

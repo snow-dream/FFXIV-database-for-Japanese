@@ -86,17 +86,17 @@ int32,str,str
 『もっと高く！』と合言葉を入力しましょう。"
 57,"TEXT_BANIXA204_01507_SYSTEM_100_062","もっと高く"
 58,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_060","その合言葉ッ……メトゥリの姐御の使いかッァ！？
-ありがてえ、渡りに<74>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</74>だッァ！
+ありがてえ、渡りに<RubyCharaters>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</RubyCharaters>だッァ！
 いやァ、鬼哭隊の連中に追いまわされちまってッェ……。"
 59,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_061","頼まれていた材料は、こいつでさッァ。
 姐御が必要としてる高品質な「<Sheet(ItemHQ,　8098,0)/>」、
 <If(PlayerParameter(4))>姐さん<Else/>旦那</If>が作ってくれるんでッェ？"
 60,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_062","それなら「フォールゴウド」の製作施設に向かいなせッェ。
 「ヒルデヤード」って女に設備を借りられるって話でさッァ。
-乗りかかった<74>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</74>と思って、頼んますッゥ！"
+乗りかかった<RubyCharaters>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</RubyCharaters>と思って、頼んますッゥ！"
 61,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_063","高品質な「<Sheet(ItemHQ,　8098,0)/>」を仕上げてくだせッェ。
 フォールゴウドの「ヒルデヤード」が施設を借してやすッゥ。
-乗りかかった<74>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</74>と思って、頼んますッゥ！"
+乗りかかった<RubyCharaters>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</RubyCharaters>と思って、頼んますッゥ！"
 62,"TEXT_BANIXA204_01507_HILDEYERD_000_090","こ～んに～ちは～！
 <If(PlayerParameter(4))>お嬢ちゃん<Else/>僕ちゃん</If>、また会いましたね～っ！
 ここを使いたいなら～、持ち込んだ材料を貸してごらんっ！"

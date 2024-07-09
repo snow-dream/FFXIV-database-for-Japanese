@@ -64,7 +64,7 @@ int32,str,str
 49,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_001","いま、ゴールドソーサーでは獲得MGPが1.5倍になる、
 「ゴールドソーサー・フェスティバル」が開催されています。
 大層賑わっているそうですが、気になる噂を耳にしましてね……。"
-50,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_002","なんでも、会場に<74>FF10E69CAAE7A2BAE8AA8DE7949FE789A9FF04554D41</74>の一種とされる、
+50,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_002","なんでも、会場に<RubyCharaters>FF10E69CAAE7A2BAE8AA8DE7949FE789A9FF04554D41</RubyCharaters>の一種とされる、
 「カッパ」が現れたというのですよ。"
 51,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_003","おっと、話が唐突でしたね。
 噂や伝承で語られつつも、いまだに正体不明な存在を、

@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_GAIUSA907_00802_TYOHMOUI_000_000","あなたは、冒険者<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>ですね？
 貴方の活躍は、多方面より聞いております。"
 49,"TEXT_GAIUSA907_00802_TYOHMOUI_000_001","今後もグリダニアで活躍していただくために、
-貴方に<74>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</74>の通行を認めましょう。"
+貴方に<RubyCharaters>FF0AE799BDE78BBCE99680FF13E381AFE3818FE3828DE38186E38282E38293</RubyCharaters>の通行を認めましょう。"
 50,"TEXT_GAIUSA907_00802_TYOHMOUI_000_002","こちらの「<Sheet(EventItem,2000791,0)/>」をお持ちなさい。
 これを白狼門の「フランシュモンティオ」に渡せば、
 通行許可が下りるでしょう。"

@@ -128,7 +128,7 @@ int32,str,str
 私も信じて伝えたんです……生きていたいと。"
 75,"TEXT_VOICEMAN_06500_000720_RYNE","この命がある限り、どこの空の下にいても、私はきっと大丈夫。"
 76,"TEXT_VOICEMAN_06500_000730_RYNE","そう思えることが、私の一番の……
-独りで願っていただけじゃ辿りつけなかった、<74>FF07E7B590E69CABFF0DE38197E38182E3828FE3819B</74>です。"
+独りで願っていただけじゃ辿りつけなかった、<RubyCharaters>FF07E7B590E69CABFF0DE38197E38182E3828FE3819B</RubyCharaters>です。"
 77,"TEXT_VOICEMAN_06500_000740_MYSTERIOUSPERSON","信じ、伝えること……自分から手を差し出すこと……。"
 78,"TEXT_VOICEMAN_06500_000750_MYSTERIOUSPERSON","……覚えておこう。
 独りで足掻くのには限度があると、
@@ -279,7 +279,7 @@ int32,str,str
 すべてを救うには、到底足りぬ。"
 163,"TEXT_VOICEMAN_06500_001550_BLACKKNIGHT","私は長きにわたり、雌伏して時を待った。
 そしてやっと、やっと待望の力を掴んだのだ！"
-164,"TEXT_VOICEMAN_06500_001560_BLACKKNIGHT","すなわち、月に眠りし闇の権化の<74>FF04E9AAB8FF0AE38280E3818FE3828D</74>……
+164,"TEXT_VOICEMAN_06500_001560_BLACKKNIGHT","すなわち、月に眠りし闇の権化の<RubyCharaters>FF04E9AAB8FF0AE38280E3818FE3828D</RubyCharaters>……
 アシエンすら引き揚げるに能わなかったそれが、
 エーテルへと還ったのだ！"
 165,"TEXT_VOICEMAN_06500_001570_BLACKKNIGHT","そこより生まれ出でし大妖異ゼロムスは、間もなく覚醒する。
@@ -388,7 +388,7 @@ int32,str,str
 だから、ともに歩んでくれる仲間が必要なんだ。"
 229,"TEXT_VOICEMAN_06500_002180_BLACKKNIGHT","光……？
 妖異であるお前が、なぜ……。"
-230,"TEXT_VOICEMAN_06500_002190_MYSTERIOUSPERSON","これは、私が<74>FF07E4BB96E4BABAFF07E381B2E381A8</74>を信じた証。
+230,"TEXT_VOICEMAN_06500_002190_MYSTERIOUSPERSON","これは、私が<RubyCharaters>FF07E4BB96E4BABAFF07E381B2E381A8</RubyCharaters>を信じた証。
 相手がそれに応えてくれて、闇の中に光が差した。"
 231,"TEXT_VOICEMAN_06500_002200_MYSTERIOUSPERSON","暗く果てしない絶望の中を往くとき、
 この光が……結んだ繋がりが力をくれる。"

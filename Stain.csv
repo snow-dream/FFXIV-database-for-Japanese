@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
-#,Color,Shade,SubOrder,Name,,,
+#,Color,Shade,SubOrder,Name,Name2,,
 int32,Color,byte,byte,str,str,bit&01,bit&02
-0,"Color [A=255, R=0, G=0, B=0]",2,1,"","",False,True
+0,"Color [A=255, R=0, G=0, B=0]",2,1,"","染色無し",False,True
 1,"Color [A=255, R=228, G=223, B=208]",2,2,"スノウホワイト","スノウホワイト",False,True
 2,"Color [A=255, R=172, G=168, B=162]",2,3,"アッシュグレイ","アッシュグレイ",False,True
 3,"Color [A=255, R=137, G=135, B=132]",2,4,"グゥーブーグレイ","グゥーブーグレイ",False,True

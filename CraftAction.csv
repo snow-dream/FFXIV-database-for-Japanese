@@ -757,67 +757,67 @@ CPが15回復し、「仕事唄」のスタック数が1つ減少する。
 100235,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001536.tex","木工師","木工師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001536.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100236,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001585.tex","鍛冶師","鍛冶師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001585.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100237,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001636.tex","甲冑師","甲冑師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001636.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100238,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001687.tex","彫金師","彫金師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001687.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100239,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001735.tex","革細工師","革細工師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001735.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100240,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001785.tex","裁縫師","裁縫師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001785.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100241,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001836.tex","錬金術師","錬金術師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001836.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100242,"注視作業","耐久を消費して、作業を進める。
 効率：200
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001887.tex","調理師","調理師",67,,False,0,5,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001887.tex",,"",1,,False,0,0,"注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業","注視作業"
 100243,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001537.tex","木工師","木工師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001537.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100244,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001586.tex","鍛冶師","鍛冶師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001586.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100245,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001637.tex","甲冑師","甲冑師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001637.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100246,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001688.tex","彫金師","彫金師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001688.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100247,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001736.tex","革細工師","革細工師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001736.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100248,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001786.tex","裁縫師","裁縫師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001786.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100249,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001837.tex","錬金術師","錬金術師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001837.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100250,"注視加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：50％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001888.tex","調理師","調理師",68,,False,0,18,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時成功率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001888.tex",,"",1,,False,0,0,"注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工","注視加工"
 100251,"初手仕込","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 一定確率でCPの消費量が軽減される「初手仕込」状態を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マイスター時：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「初手仕込」の効果を終了させる代わりに、「マイスターの切札」が一度、使用できる。","craft/buff","craft/buff_sub","ui/icon/001000/001965.tex",,"",1,,False,0,0,"初手仕込","初手仕込","初手仕込","初手仕込","初手仕込","初手仕込","初手仕込","初手仕込"
@@ -947,42 +947,42 @@ CPが15回復し、「仕事唄」のスタック数が1つ減少する。
 最大品質の30％～100％品質が上昇する。
 成功率：100%","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001980.tex",,"",1,,False,0,0,"匠の荒業","匠の荒業","匠の荒業","匠の荒業","匠の荒業","匠の荒業","匠の荒業","匠の荒業"
 100299,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001507.tex","木工師","木工師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100300,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001557.tex","鍛冶師","鍛冶師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100301,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001607.tex","甲冑師","甲冑師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100302,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001657.tex","彫金師","彫金師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100303,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001707.tex","革細工師","革細工師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100304,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001757.tex","裁縫師","裁縫師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100305,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001807.tex","錬金術師","錬金術師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
 100306,"下地加工","耐久を大きく消費して、品質を上げる。
-追加効果：「インナークワイエット」のスタック+1（最大10）
+追加効果：「インナークワイエット」のスタック数+1（最大10）
 効率：200
 成功率：100%
 耐久消費：20","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001857.tex","調理師","調理師",71,,False,0,40,"下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工","下地加工"
@@ -1059,28 +1059,36 @@ CPが15回復し、「仕事唄」のスタック数が1つ減少する。
 効率：400
 成功率：100%","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001863.tex","調理師","調理師",78,,False,0,6,"集中作業","集中作業","集中作業","集中作業","集中作業","集中作業","集中作業","集中作業"
 100323,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),8))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001503.tex","木工師","木工師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100324,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),9))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001553.tex","鍛冶師","鍛冶師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100325,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),10))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001603.tex","甲冑師","甲冑師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100326,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),11))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001653.tex","彫金師","彫金師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100327,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),12))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001703.tex","革細工師","革細工師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100328,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),13))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001753.tex","裁縫師","裁縫師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100329,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),14))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001803.tex","錬金術師","錬金術師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100330,"精密作業","耐久を消費して、作業を進めると同時に品質を上げる。
-効率：100
+<If(Equal(PlayerParameter(68),15))><If(GreaterThanOrEqualTo(PlayerParameter(69),94))>作業効率：150
+加工効率：100<Else/>効率：100</If><Else/>効率：100</If>
 成功率：100%","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001853.tex","調理師","調理師",76,,False,0,32,"精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業","精密作業"
 100331,"ブランド・オブ・エレメンタル","耐久を消費して、作業を進める。
 効率：100
@@ -1164,28 +1172,44 @@ CPが15回復し、「仕事唄」のスタック数が1つ減少する。
 100354,"","","","",,"すっぴん士","",0,,False,0,0,,,,,,,,
 100355,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","木工師","木工師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),8))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","木工師","木工師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100356,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","鍛冶師","鍛冶師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),9))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","鍛冶師","鍛冶師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100357,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","甲冑師","甲冑師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),10))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","甲冑師","甲冑師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100358,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","彫金師","彫金師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),11))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","彫金師","彫金師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100359,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","革細工師","革細工師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),12))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","革細工師","革細工師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100360,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","裁縫師","裁縫師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),13))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","裁縫師","裁縫師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100361,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","錬金術師","錬金術師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),14))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","錬金術師","錬金術師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100362,"ヘイスティタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
 効率：100
-成功率：60％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","調理師","調理師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
+成功率：60％<If(Equal(PlayerParameter(68),15))><If(GreaterThanOrEqualTo(PlayerParameter(69),96))>
+追加効果：自身に「匠の好機」を付与する。
+効果時間：1ターン<Else/></If><Else/></If>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001989.tex","調理師","調理師",9,,False,0,0,"ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ","ヘイスティタッチ"
 100363,"突貫作業","耐久を消費して、作業を進める。
 効率：<If(Equal(PlayerParameter(68),8))><If(GreaterThanOrEqualTo(PlayerParameter(69),63))>500<Else/>250</If><Else/>250</If>
 成功率：50％","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001988.tex","木工師","木工師",9,,False,0,0,"突貫作業","突貫作業","突貫作業","突貫作業","突貫作業","突貫作業","突貫作業","突貫作業"
@@ -1268,43 +1292,43 @@ CPが20回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001990.tex
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001994.tex","調理師","調理師",54,,False,0,6,"確信","確信","確信","確信","確信","確信","確信","確信"
 100387,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","木工師","木工師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100388,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","鍛冶師","鍛冶師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100389,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","甲冑師","甲冑師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100390,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","彫金師","彫金師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100391,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","革細工師","革細工師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100392,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","裁縫師","裁縫師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100393,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","錬金術師","錬金術師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100394,"真価","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>1ターン目のみ使用可能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 耐久を消費して、品質を上げる。
-追加効果：インナークワイエットのスタック+1（最大10）
-効率：100
+追加効果：「インナークワイエット」のスタック数+1（最大10）
+効率：300
 成功率：100％","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001982.tex","調理師","調理師",69,,False,0,6,"真価","真価","真価","真価","真価","真価","真価","真価"
 100395,"設計変更","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 状態を１ターンぶん進行させる。
@@ -1389,35 +1413,35 @@ CPが20回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001990.tex
 100411,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001519.tex","木工師","木工師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001519.tex","木工師","木工師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100412,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001569.tex","鍛冶師","鍛冶師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001569.tex","鍛冶師","鍛冶師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100413,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001620.tex","甲冑師","甲冑師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001620.tex","甲冑師","甲冑師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100414,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001669.tex","彫金師","彫金師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001669.tex","彫金師","彫金師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100415,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001719.tex","革細工師","革細工師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001719.tex","革細工師","革細工師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100416,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001769.tex","裁縫師","裁縫師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001769.tex","裁縫師","裁縫師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100417,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001820.tex","錬金術師","錬金術師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001820.tex","錬金術師","錬金術師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100418,"上級加工","耐久を消費して、品質を上げる。
 効率：150
 成功率：100％
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001869.tex","調理師","調理師",84,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中級加工または経過観察　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消費CPが18になる","craft/action_normal","craft/action_normal_sub","ui/icon/001000/001869.tex","調理師","調理師",68,,False,0,46,"上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工","上級加工"
 100419,"一心不乱","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 「集中加工」「集中作業」「秘訣」が、状態に関わらず使用可能になる。
 「高品質」「最高品質」以外の状態で「集中加工」「集中作業」「秘訣」を使用すると、効果が終了する。
@@ -1530,3 +1554,155 @@ CPが20回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001990.tex
 耐久を消費せず、品質を上げる。
 効率：100
 成功率：100％","craft/action_godswork","craft/action_godswork_sub","ui/icon/001000/001997.tex","調理師","調理師",90,,False,0,32,"匠の神業","匠の神業","匠の神業","匠の神業","匠の神業","匠の神業","匠の神業","匠の神業"
+100443,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001522.tex","木工師","木工師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100444,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001572.tex","鍛冶師","鍛冶師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100445,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001623.tex","甲冑師","甲冑師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100446,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001674.tex","彫金師","彫金師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100447,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001722.tex","革細工師","革細工師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100448,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001772.tex","裁縫師","裁縫師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100449,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001823.tex","錬金術師","錬金術師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100450,"洗練加工","耐久を消費して、品質を上げる。
+効率：100
+成功率：100％
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加工　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>「インナークワイエット」のスタック数+1（最大10）","craft/action_carefully","craft/action_carefully_sub","ui/icon/001000/001873.tex","調理師","調理師",92,,False,0,24,"洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工","洗練加工"
+100451,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","木工師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100452,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","鍛冶師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100453,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","甲冑師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100454,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","彫金師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100455,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","革細工師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100456,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","裁縫師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100457,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","錬金術師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100458,"デアリングタッチ","耐久を消費して、品質を上げる。CPを消費しないが成功率が低い。
+効率：150
+成功率：60％
+使用条件：「匠の好機」効果中
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/action_fearlessly","craft/action_fearlessly_sub","ui/icon/001000/001998.tex","すっぴん士","調理師",96,,False,0,0,"デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ","デアリングタッチ"
+100459,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","木工師","木工師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100460,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","鍛冶師","鍛冶師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100461,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","甲冑師","甲冑師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100462,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","彫金師","彫金師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100463,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","革細工師","革細工師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100464,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","裁縫師","裁縫師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100465,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","錬金術師","錬金術師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100466,"クイックイノベーション","<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>[マイスター専用アクション]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「イノベーション」の効果中は使用不可。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身に「イノベーション」を付与する。
+効果時間：1ターン
+使用時にアイテム「クラフターの製図用紙」を消費する。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[このアクションは使用してもターンが経過しない]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/item","craft/item_sub","ui/icon/001000/001999.tex","調理師","調理師",96,"職人の高みを目指して",True,2189,0,"クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション","クイックイノベーション"
+100467,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","木工師","木工師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100468,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","鍛冶師","鍛冶師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100469,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","甲冑師","甲冑師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100470,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","彫金師","彫金師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100471,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","革細工師","革細工師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100472,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","裁縫師","裁縫師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100473,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","錬金術師","錬金術師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100474,"パーフェクトメンド","耐久を全回復する。","craft/buff","craft/buff_sub","ui/icon/001000/001950.tex","調理師","調理師",98,,False,0,112,"パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド","パーフェクトメンド"
+100475,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","木工師","木工師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100476,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","鍛冶師","鍛冶師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100477,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","甲冑師","甲冑師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100478,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","彫金師","彫金師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100479,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","革細工師","革細工師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100480,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","裁縫師","裁縫師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100481,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","錬金術師","錬金術師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"
+100482,"匠の絶技","一度だけ、アクションによる耐久の消費が0になる。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[一回の製作/製作練習につき1回まで使用可能]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","craft/buff","craft/buff_sub","ui/icon/001000/001926.tex","調理師","調理師",100,,False,0,0,"匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技","匠の絶技"

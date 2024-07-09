@@ -41,7 +41,7 @@ int32,str,str
 14,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_033","あと、複数のロゴスシャードを投入することで、
 抽出可能な記憶に、思わぬ変化が出る可能性があります。
 いろいろと試してみてください。"
-15,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」以降のゾーンでは、
+15,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」以降のゾーンでは、
 「未鑑定ロゴスシャード」というアイテムを、
 入手することがあります。"
 16,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_033","「未鑑定ロゴスシャード」は、
@@ -215,7 +215,7 @@ int32,str,str
 宿っている記憶が大まかにしか判明していないため、
 「ロゴスミキサー」にセットできません。"
 87,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_511","なお、「未鑑定ロゴスシャード」は、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」以降のゾーンで、
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」以降のゾーンで、
 入手することができます。"
 88,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520","探索中に「ロゴスシャード」を発見したら、
 まずは私に見せてください。

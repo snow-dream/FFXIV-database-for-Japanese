@@ -147,7 +147,7 @@ int32,str,str
 96,"TEXT_JOBAST501_02019_LEVEVA_000_070","さあ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>よ。
 鋭く冷厳に輝く「氷天座」を知り、
 その門を開くが良い！"
-97,"TEXT_JOBAST501_02019_LEVEVA_000_071","氷の天界である、<74>FF07E6B0B7E5A4A9FF10E381B2E38287E38186E381A6E38293</74>には、
+97,"TEXT_JOBAST501_02019_LEVEVA_000_071","氷の天界である、<RubyCharaters>FF07E6B0B7E5A4A9FF10E381B2E38287E38186E381A6E38293</RubyCharaters>には、
 月神メネフィナが、月光で凍らせた氷塊を、
 戦神ハルオーネが槍にて削り、荘厳な宮殿を築いたという。"
 98,"TEXT_JOBAST501_02019_LEVEVA_000_072","ゆえに、氷天座の祝福を暗示するアルカナを「槍」と呼ぶ。

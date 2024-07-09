@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGYOK6ROPLI_00896_ROPLI_000","ここはワチュメキメキ万貨街だ。
+地域のためのマーケットといったところだね。
+きみも見てまわるといい、ここらの品に興味があるのならば。"
+1,"TEXT_REGYOK6ROPLI_00896_ROPLI_010","ワチュメキメキ万貨街は、多様なものが連なるネックレス。
+買って嬉しい、売れて嬉しいと、お客も経営者も幸せになって、
+万貨街全体が輝いてほしいものだよ。"
+2,"TEXT_REGYOK6ROPLI_00896_ROPLI_011","信じているよ、きみの協力があればそれが叶うと。
+<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、よろしくね。"
+3,"TEXT_REGYOK6ROPLI_00896_ROPLI_020","困った店を万事解決へと導くとは、
+きみは素晴らしいよ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>。
+うちのマーケットに、職人としてずっと居てほしいくらいだね。"

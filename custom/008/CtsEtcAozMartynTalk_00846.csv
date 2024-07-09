@@ -43,7 +43,7 @@ int32,str,str
 世界は広い、まだまだ未知の領域が君を待っている。"
 14,"TEXT_CTSETCAOZMARTYNTALK_00846_MARTYN_000_111","さあ、どこまでもゆくのだ、
 我らが二代目マスク・ザ・ブルーよ……！！"
-15,"TEXT_CTSETCAOZMARTYNTALK_00846_MARTYN_000_120","まさか、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>にされるなんてね。
+15,"TEXT_CTSETCAOZMARTYNTALK_00846_MARTYN_000_120","まさか、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>にされるなんてね。
 この私に悪の要素など微塵もないと思うのだが、
 君もそう思わないか……？"
 16,"TEXT_CTSETCAOZMARTYNTALK_00846_MARTYN_000_130","やあ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>君……

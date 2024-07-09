@@ -55,14 +55,14 @@ int32,str,str
 君もレースに出走希望の人かな。
 うふふ、新たな挑戦者の誕生だね！"
 50,"TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_002","君には、競走羽の主人……
-すなわち「<74>FF07E7BEBDE4B8BBFF0AE381B0E381ACE38197</74>」となって、
+すなわち「<RubyCharaters>FF07E7BEBDE4B8BBFF0AE381B0E381ACE38197</RubyCharaters>」となって、
 最速の称号を目指し、レースに挑んでもらうよっ！"
 51,"TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_003","……さて、さっそくレースと行きたいところだけど、
 「チョコボレース」には、レース専用に育てられた、
-「<74>FF0AE7ABB6E8B5B0E7BEBDFF13E3818DE38287E38186E3819DE38186E381B0</74>」っていうチョコボが必要なんだ！"
+「<RubyCharaters>FF0AE7ABB6E8B5B0E7BEBDFF13E3818DE38287E38186E3819DE38186E381B0</RubyCharaters>」っていうチョコボが必要なんだ！"
 52,"TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_004","君は、羽主になりたてだから、
 まずは、レースに出走するために、競走羽見習いチョコボ……
-「<74>FF07E696B0E7BEBDFF0AE38197E38293E381B0</74>チョコボ」を手に入れなくちゃ。"
+「<RubyCharaters>FF07E696B0E7BEBDFF0AE38197E38293E381B0</RubyCharaters>チョコボ」を手に入れなくちゃ。"
 53,"TEXT_SUBGSC101_00436_CHOCOBORACE00436_100_004","このゴールドソーサーでは、レース用のチョコボを、
 「登録証」という形で管理しているんだ。
 君の「新羽チョコボ」も「登録証」が必要になるよ。"

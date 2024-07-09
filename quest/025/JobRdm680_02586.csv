@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_JOBRDM680_02586_TODO_23",""
 48,"TEXT_JOBRDM680_02586_ARYA_000_000","いろんなことがいっぺんにわかって、びっくりしましたけど、
 でも、希望も見えてきました……！"
-49,"TEXT_JOBRDM680_02586_ARYA_000_001","次は、リリスを封じたという<74>FF04E58CA3FF07E381AFE38193</74>を、
+49,"TEXT_JOBRDM680_02586_ARYA_000_001","次は、リリスを封じたという<RubyCharaters>FF04E58CA3FF07E381AFE38193</RubyCharaters>を、
 見つければいいんですよね……！"
 50,"TEXT_JOBRDM680_02586_XRHUNTIA_000_030","実はな、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……
 アリアが何とも不思議な夢を見たらしい。
@@ -62,7 +62,7 @@ int32,str,str
 「<Sheet(EventItem,2002194,0)/>」を書いた人が、
 つかまったときのことみたいなんです。"
 52,"TEXT_JOBRDM680_02586_ARYA_000_032","その人は隠れ家に、黒地に紫の模様が入った、
-棺桶みたいな<74>FF04E58CA3FF07E381AFE38193</74>を、大事にしまってました。"
+棺桶みたいな<RubyCharaters>FF04E58CA3FF07E381AFE38193</RubyCharaters>を、大事にしまってました。"
 53,"TEXT_JOBRDM680_02586_ARYA_000_033","だけどある日、異端審問官が押し入って、
 神聖裁判所というところへ、連れていかれたんです……。
 隠していた匣も、そのとき没収されたようです。"
@@ -170,10 +170,10 @@ int32,str,str
 覚悟しておけ！"
 101,"TEXT_JOBRDM680_02586_XRHUNTIA_000_300","大妖異…………リリス！"
 102,"TEXT_JOBRDM680_02586_LILITH_000_301","くっくっく……待ちわびておったぞ。
-忌まわしき<74>FF04E58CA3FF07E381AFE38193</74>より我が身を解き放つ、この時を……！"
+忌まわしき<RubyCharaters>FF04E58CA3FF07E381AFE38193</RubyCharaters>より我が身を解き放つ、この時を……！"
 103,"TEXT_JOBRDM680_02586_LILITH_000_302","ついに、1000年を超す大計が成る……！
 人の子よ、その身体を差しだせ。
-そして、新たなる魂の器……我が<74>FF07E4BE9DE4BBA3FF0DE38288E3828AE38197E3828D</74>となれ！"
+そして、新たなる魂の器……我が<RubyCharaters>FF07E4BE9DE4BBA3FF0DE38288E3828AE38197E3828D</RubyCharaters>となれ！"
 104,"TEXT_JOBRDM680_02586_XRHUNTIA_000_303","……依代だと？
 アリアの身体を、乗っ取るつもりか！"
 105,"TEXT_JOBRDM680_02586_LILITH_000_304","然り……すべては、我の導いためぐりあわせ。

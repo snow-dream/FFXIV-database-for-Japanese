@@ -58,3 +58,7 @@ int32,str,str,uint32,str
 54,"Pugilist","LYSE",0,"格闘士"
 55,"Champion Gladiator","RAUBAHN",0,"剣闘士"
 56,"Lancer","J'MOLDVA",0,"槍術士"
+57,"Intrepid","WUK LAMAT",8205048,"勇士"
+58,"Viper","ZORAAL JA",8205115,"ヴァイパー"
+59,"Innovator","KOANA",8205098,"革新者"
+60,"Pictomancer","KRILE",8205029,"ピクトマンサー"

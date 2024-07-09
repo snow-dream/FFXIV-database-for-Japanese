@@ -196,7 +196,7 @@ int32,str,str
 このパンデモニウムも、やつの魔力によって存在していた。
 それが途絶えたことで崩壊を始めたのだ……。"
 117,"TEXT_AKTKRA304_04759_LAHABREA_000_440","我らはともかく、ここを<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の、
-終の<74>FF04E8A4A5FF0AE38197E381A8E381AD</74>とするわけにはゆくまい。"
+終の<RubyCharaters>FF04E8A4A5FF0AE38197E381A8E381AD</RubyCharaters>とするわけにはゆくまい。"
 118,"TEXT_AKTKRA304_04759_ATHENA_000_441","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>でもラハブレアでもなく、
 まさか、エリクトニオスにしてやられるなんて……。
 これが一番の誤算だったかもしれないわね。"

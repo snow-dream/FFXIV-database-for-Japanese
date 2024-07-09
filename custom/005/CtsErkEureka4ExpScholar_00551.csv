@@ -165,7 +165,7 @@ int32,str,str
 そのため特定の天候で発生する地脈の乱れを利用し、
 外部から転移するしか、突入方法がありません！"
 60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","「バルデシオンアーセナル」への突入は、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」に出現する、
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」に出現する、
 「エーテリアルノード」を利用する必要があります。"
 61,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_232","なお、「バルデシオンアーセナル」への突入には、
 「エレメンタルレベル」が「60」かつ、

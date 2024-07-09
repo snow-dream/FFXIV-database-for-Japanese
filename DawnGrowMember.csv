@@ -1,18 +1,19 @@
-﻿key,0,1,2,3,4,5,6
-#,SelectImage[0],SelectImage[1],SelectImage[2],PortraitImage[0],PortraitImage[1],PortraitImage[2],Class
-int32,Image,Image,Image,Image,Image,Image,DawnMemberUIParam
-0,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","Academician"
-1,"ui/icon/072000/072622.tex","ui/icon/072000/072631.tex","ui/icon/072000/072639.tex","ui/icon/072000/072682.tex","ui/icon/072000/072691.tex","ui/icon/072000/072699.tex","Red Mage"
-2,"ui/icon/072000/072623.tex","ui/icon/072000/072632.tex","ui/icon/072000/072640.tex","ui/icon/072000/072683.tex","ui/icon/072000/072692.tex","ui/icon/072000/072700.tex","Gunbreaker"
-3,"ui/icon/072000/072625.tex","ui/icon/072000/072633.tex","ui/icon/072000/072641.tex","ui/icon/072000/072685.tex","ui/icon/072000/072693.tex","ui/icon/072000/072701.tex","Astrologian"
-4,"ui/icon/072000/072626.tex","ui/icon/072000/072634.tex","ui/icon/072000/072642.tex","ui/icon/072000/072686.tex","ui/icon/072000/072694.tex","ui/icon/072000/072702.tex","Sorceress"
-5,"ui/icon/072000/072627.tex","ui/icon/072000/072635.tex",,"ui/icon/072000/072687.tex","ui/icon/072000/072695.tex",,"Oracle of Light"
-6,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","Sage"
-7,"ui/icon/072000/072644.tex","ui/icon/072000/072645.tex","ui/icon/072000/072646.tex","ui/icon/072000/072704.tex","ui/icon/072000/072705.tex","ui/icon/072000/072706.tex","Dragoon"
-8,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-9,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-10,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-100,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-101,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-102,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","All-Rounder"
-103,"ui/icon/072000/072651.tex",,,"ui/icon/072000/072711.tex",,,"Memoriate"
+﻿key,0,1,2,3,4,5,6,7,8
+#,SelectImage[0],SelectImage[1],SelectImage[2],SelectImage[3],PortraitImage[0],PortraitImage[1],PortraitImage[2],PortraitImage[3],Class
+int32,Image,Image,Image,Image,Image,Image,Image,Image,DawnMemberUIParam
+0,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072652.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","ui/icon/072000/072712.tex","Academician"
+1,"ui/icon/072000/072622.tex","ui/icon/072000/072631.tex","ui/icon/072000/072639.tex","ui/icon/072000/072653.tex","ui/icon/072000/072682.tex","ui/icon/072000/072691.tex","ui/icon/072000/072699.tex","ui/icon/072000/072713.tex","Red Mage"
+2,"ui/icon/072000/072623.tex","ui/icon/072000/072632.tex","ui/icon/072000/072640.tex","ui/icon/072000/072654.tex","ui/icon/072000/072683.tex","ui/icon/072000/072692.tex","ui/icon/072000/072700.tex","ui/icon/072000/072714.tex","Gunbreaker"
+3,"ui/icon/072000/072625.tex","ui/icon/072000/072633.tex","ui/icon/072000/072641.tex","ui/icon/072000/072655.tex","ui/icon/072000/072685.tex","ui/icon/072000/072693.tex","ui/icon/072000/072701.tex","ui/icon/072000/072715.tex","Astrologian"
+4,"ui/icon/072000/072626.tex","ui/icon/072000/072634.tex","ui/icon/072000/072642.tex","ui/icon/072000/072656.tex","ui/icon/072000/072686.tex","ui/icon/072000/072694.tex","ui/icon/072000/072702.tex","ui/icon/072000/072716.tex","Sorceress"
+5,"ui/icon/072000/072627.tex","ui/icon/072000/072635.tex",,,"ui/icon/072000/072687.tex","ui/icon/072000/072695.tex",,,"Oracle of Light"
+6,"ui/icon/072000/072621.tex","ui/icon/072000/072630.tex","ui/icon/072000/072638.tex","ui/icon/072000/072652.tex","ui/icon/072000/072681.tex","ui/icon/072000/072690.tex","ui/icon/072000/072698.tex","ui/icon/072000/072712.tex","Sage"
+7,"ui/icon/072000/072644.tex","ui/icon/072000/072645.tex","ui/icon/072000/072646.tex","ui/icon/072000/072657.tex","ui/icon/072000/072704.tex","ui/icon/072000/072705.tex","ui/icon/072000/072706.tex","ui/icon/072000/072717.tex","Dragoon"
+8,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+9,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+10,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+11,"ui/icon/072000/072659.tex",,,"ui/icon/072000/072660.tex","ui/icon/072000/072719.tex",,,"ui/icon/072000/072720.tex","Pictomancer"
+100,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+101,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+102,"ui/icon/072000/072637.tex","ui/icon/072000/072629.tex","ui/icon/072000/072643.tex","ui/icon/072000/072658.tex","ui/icon/072000/072697.tex","ui/icon/072000/072689.tex","ui/icon/072000/072703.tex","ui/icon/072000/072718.tex","All-Rounder"
+103,"ui/icon/072000/072651.tex",,,,"ui/icon/072000/072711.tex",,,,"Memoriate"

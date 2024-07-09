@@ -78,10 +78,10 @@ int32,str,str
 惰眠をむさぼってる間に、腕が鈍ったのかしらァ？"
 58,"TEXT_HEAVNY231_02332_SERVANTTHREE_000_105","無駄口はいらんぞ！
 時は充分に稼いだ……引き揚げるッ！"
-59,"TEXT_HEAVNY231_02332_SERVANTONE_000_106","『女神は死なず、天空の<74>FF04E7B9ADFF07E381BEE38286</74>より再誕す。
+59,"TEXT_HEAVNY231_02332_SERVANTONE_000_106","『女神は死なず、天空の<RubyCharaters>FF04E7B9ADFF07E381BEE38286</RubyCharaters>より再誕す。
 　暴虐なる龍王を傍らに、天の秤もて神罰を下さん……』"
 60,"TEXT_HEAVNY231_02332_SERVANTONE_000_107","我らが女神は、すでに目覚めた！
-貴様らアラグの民が造りし<74>FF07E68FBAE7B183FF0DE38288E38186E38289E38293</74>が、
+貴様らアラグの民が造りし<RubyCharaters>FF07E68FBAE7B183FF0DE38288E38186E38289E38293</RubyCharaters>が、
 貴様ら自身の滅びを招く……覚えておけ！"
 61,"TEXT_HEAVNY231_02332_YSHTOLA_000_108","ありがとう、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>。
 助けにきてくれたのね？"
@@ -106,10 +106,10 @@ int32,str,str
 ……これ以上の妨害を、許すつもりはない。"
 70,"TEXT_HEAVNY231_02332_UNUKALHAI_000_117","……クルル殿。
 襲撃者が最後に何と言っていたか、覚えていますか？"
-71,"TEXT_HEAVNY231_02332_KRILE_000_118","『女神は死なず、天空の<74>FF04E7B9ADFF07E381BEE38286</74>より再誕す。
+71,"TEXT_HEAVNY231_02332_KRILE_000_118","『女神は死なず、天空の<RubyCharaters>FF04E7B9ADFF07E381BEE38286</RubyCharaters>より再誕す。
 　暴虐なる龍王を傍らに、天の秤もて神罰を下さん……』
 繭、天の秤、そして龍王……気になる言葉ね。"
-72,"TEXT_HEAVNY231_02332_UNUKALHAI_000_120","『女神は死なず、天空の<74>FF04E7B9ADFF07E381BEE38286</74>より再誕す。
+72,"TEXT_HEAVNY231_02332_UNUKALHAI_000_120","『女神は死なず、天空の<RubyCharaters>FF04E7B9ADFF07E381BEE38286</RubyCharaters>より再誕す。
 　暴虐なる龍王を傍らに、天の秤もて神罰を下さん……』
 いったい、何を暗示した言葉なのでしょうか？"
 73,"TEXT_HEAVNY231_02332_YSHTOLA_000_130","ごくろうさま……その様子だと、上首尾だったようね！
@@ -142,7 +142,7 @@ int32,str,str
 イシュガルド教皇とガレマール帝国が侵入することがなければ、
 歴史の闇に葬られ、陽の目をみることもなかったはず。"
 84,"TEXT_HEAVNY231_02332_KRILE_000_141","……女神の従者たちは、こんな予言を口にしていたわ。
-『女神は死なず、天空の<74>FF04E7B9ADFF07E381BEE38286</74>より再誕す。
+『女神は死なず、天空の<RubyCharaters>FF04E7B9ADFF07E381BEE38286</RubyCharaters>より再誕す。
 　暴虐なる龍王を傍らに、天の秤もて神罰を下さん……』"
 85,"TEXT_HEAVNY231_02332_URIANGER_000_142","「繭」が示すは、女神の拘束具……。
 再び現れし女神が「龍王」……つまり、バハムートをも解き放ち、

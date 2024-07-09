@@ -98,7 +98,7 @@ int32,str,str
 私に声をかけてくださいねっ！"
 62,"TEXT_BANIXA304_01517_ROZOLCATTLAN_000_130","依頼していた「<Sheet(ItemHQ,　8103,0)/>」、仕上がりましたかいッィ？"
 63,"TEXT_BANIXA304_01517_ROZOLCATTLAN_000_131","フムッゥ……<If(PlayerParameter(4))>姐さん<Else/>あんさん</If>、さすがですなッァ。
-これで計器を作れば、<74>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</74>が雲に突っ込んでも、
+これで計器を作れば、<RubyCharaters>FF0AE9A39BE7A9BAE88987FF07E38395E3838D</RubyCharaters>が雲に突っ込んでも、
 周囲の状況が手に取るようにわかるというもんですわッァ！"
 64,"TEXT_BANIXA304_01517_ROZOLCATTLAN_000_132","セズルの旦那に拾われて、ン十年……。
 手配と勘定しかできない私ですが、せめて職人サンたちの、

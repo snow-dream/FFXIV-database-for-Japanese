@@ -59,7 +59,7 @@ int32,str,str
 50,"TEXT_JOBAOZ750_04775_PYANDIH_000_000","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、
 青魔道士としてまたも腕を上げられたようで、
 青魔法「スキルトロン」もラーニングしてきてくれたんですね！"
-51,"TEXT_JOBAOZ750_04775_PYANDIH_000_001","新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>探しの旅に出ている先生から、
+51,"TEXT_JOBAOZ750_04775_PYANDIH_000_001","新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>探しの旅に出ている先生から、
 ちょうど連絡が届いたところですよ。"
 52,"TEXT_JOBAOZ750_04775_PYANDIH_000_002","今度は、グリダニアへ向かったようで、
 あなたに「カーラインカフェ」まで来てほしいそうです。
@@ -80,7 +80,7 @@ int32,str,str
 59,"TEXT_JOBAOZ750_04775_MARTYN_000_025","鬼哭隊が討伐に向かったが、返り討ちに遭い、
 雇われた冒険者たちも、ことごとくやられてしまったという。"
 60,"TEXT_JOBAOZ750_04775_MARTYN_000_026","驚くべきことは、野盗は単独だということ。
-それだけ強いのなら、新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>として、
+それだけ強いのなら、新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>として、
 申し分ないと思わないか？"
 61,"TEXT_JOBAOZ750_04775_Q1_000_000","何と言う？"
 62,"TEXT_JOBAOZ750_04775_A1_000_001","犯罪者をスカウトするのか！？"
@@ -135,7 +135,7 @@ int32,str,str
 88,"TEXT_JOBAOZ750_04775_MARTYN_000_073","君には、ウルダハのペ・ヤンディに報告を頼みたい。
 進展があるまで待っていてくれ。"
 89,"TEXT_JOBAOZ750_04775_PYANDIH_000_080","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、お疲れさまです！
-新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>は見つかりました？"
+新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>は見つかりました？"
 90,"TEXT_JOBAOZ750_04775_PYANDIH_000_081","なるほど、グリダニアでもダメでしたか……。
 ロイスさんにも報告しておきますね。"
 91,"TEXT_JOBAOZ750_04775_PYANDIH_000_082","今回も、ご協力いただき、

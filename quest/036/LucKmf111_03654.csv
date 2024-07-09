@@ -295,7 +295,7 @@ int32,str,str
 158,"TEXT_LUCKMF111_03654_ELIDIBUS_000_904","<UIForeground>F20223</UIForeground>彼に世界の真実を告げたことが、
 果たしていかなる展望を招くのか……
 もはや、私にも想像がつかない。<UIForeground>01</UIForeground>"
-159,"TEXT_LUCKMF111_03654_ELIDIBUS_000_905","<UIForeground>F20223</UIForeground>まったく……<74>FF0AE8AABFE5819CE88085FF13E382A8E383AAE38387E382A3E38396E382B9</74>が聞いて呆れる……。
+159,"TEXT_LUCKMF111_03654_ELIDIBUS_000_905","<UIForeground>F20223</UIForeground>まったく……<RubyCharaters>FF0AE8AABFE5819CE88085FF13E382A8E383AAE38387E382A3E38396E382B9</RubyCharaters>が聞いて呆れる……。
 歴史の流れはもはや、私の正せぬ濁流となったのか……。<UIForeground>01</UIForeground>"
 160,"TEXT_LUCKMF111_03654_ELIDIBUS_000_906","<UIForeground>F20223</UIForeground>ハイデリンよ、すべてはお前の望みどおりだ。
 その星は今、新しき者たちに奪われようとしている。<UIForeground>01</UIForeground>"

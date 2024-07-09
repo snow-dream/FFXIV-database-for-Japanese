@@ -54,7 +54,7 @@ int32,str,str
 48,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_001","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、
 お伝えしたい情報がございます。"
 49,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_002","実はリムサ・ロミンサ船籍の商船が、
-<74>FF0AE6B5B7E598AFE6B4BEFF13E3818BE38184E38197E38287E38186E381AF</74>に襲撃されるという事件が発生したのです。"
+<RubyCharaters>FF0AE6B5B7E598AFE6B4BEFF13E3818BE38184E38197E38287E38186E381AF</RubyCharaters>に襲撃されるという事件が発生したのです。"
 50,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_003","しかも、くだんの商船は、コボルド族から預かった、
 オ・ゴモロ産のクリスタルを積載していまして……"
 51,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_004","海嘯派の狙いが神降ろしであると考えた提督は、
@@ -110,7 +110,7 @@ int32,str,str
 まず私が、元副団長であるヴェイスケートに接触してみよう。"
 76,"TEXT_AKTKBA321_04116_MERLWYB_000_069","君は「溺れた海豚亭」で続報を待っていてくれ。
 必ずや、彼らを口説き落としてみせよう。"
-77,"TEXT_AKTKBA321_04116_MERLWYB_000_070","<74>FF07E69C9BE6BDAEFF10E38197E3818AE381BEE381ADE3818D</74>のノォル殿は、
+77,"TEXT_AKTKBA321_04116_MERLWYB_000_070","<RubyCharaters>FF07E69C9BE6BDAEFF10E38197E3818AE381BEE381ADE3818D</RubyCharaters>のノォル殿は、
 引き続き偽神獣の捜索に力を貸していただけるだろうか？"
 78,"TEXT_AKTKBA321_04116_NOLL_000_071","フスィーッ……承知。
 海嘯派の動向を含めて、何かあれば連絡を入れましょう。"

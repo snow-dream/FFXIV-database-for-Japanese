@@ -40,7 +40,7 @@ int32,Item,byte,MJIGatheringTool,int16,int16,uint16,byte
 36,"無人島の極彩色の花",130,"MJIGatheringTool#0",194,-384,75,0
 37,"無人島の石炭",151,"MJIGatheringTool#2",405,-238,80,1
 38,"無人島の堆積岩",155,"MJIGatheringTool#8",405,-238,80,1
-39,"無人島のトモシビタケ",150,"MJIGatheringTool#0",458,-370,80,1
+39,"無人島のトモシビダケ",150,"MJIGatheringTool#0",458,-370,80,1
 40,"無人島の大理石",153,"MJIGatheringTool#8",-22,-46,80,0
 41,"無人島の霊銀鉱",154,"MJIGatheringTool#8",619,213,80,0
 42,"無人島のソーダ水",152,"MJIGatheringTool#2",304,-269,80,1

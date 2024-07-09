@@ -57,7 +57,7 @@ int32,str,str
 51,"TEXT_JOBAOZ801_04778_ROYSE_000_002","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、素晴らしい戦いだったわ！
 客席も満員御礼で大盛り上がりよ！"
 52,"TEXT_JOBAOZ801_04778_ROYSE_000_003","そして、マーティン。
-これは、魅力的な<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>を演じてくれた、
+これは、魅力的な<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>を演じてくれた、
 あなたの功績でもあるわ……負けてしまったのは残念だったけど。"
 53,"TEXT_JOBAOZ801_04778_MARTYN_000_004","まあ、私が最も得意とする青魔法を封印していましたからね。
 いわば、利き腕を使わずに戦っていたようなもの、
@@ -66,12 +66,12 @@ int32,str,str
 そのうえ、魔法人形や魔物も投入したのに負けたんだから、
 どう考えても完敗ですよ。"
 55,"TEXT_JOBAOZ801_04778_MARTYN_000_006","ときに、ロイスさん。
-結局、私自身が<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>になったわけですが、
-<74>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</74>の資格の件はどうなるのでしょう？"
-56,"TEXT_JOBAOZ801_04778_MARTYN_000_007","その資格があれば、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>が出場した際の興行収入の、
+結局、私自身が<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>になったわけですが、
+<RubyCharaters>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</RubyCharaters>の資格の件はどうなるのでしょう？"
+56,"TEXT_JOBAOZ801_04778_MARTYN_000_007","その資格があれば、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>が出場した際の興行収入の、
 3.5％が支払われるという約束でしたよね？"
 57,"TEXT_JOBAOZ801_04778_ROYSE_000_008","あら、自分が出場しているわけだから、
-あなたに<74>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</74>の資格はあげられないわ。
+あなたに<RubyCharaters>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</RubyCharaters>の資格はあげられないわ。
 支払われるのは、ゴールドルとしてのギャラだけよ。"
 58,"TEXT_JOBAOZ801_04778_MARTYN_000_009","なんか、損した気がするぞ……。"
 59,"TEXT_JOBAOZ801_04778_ROYSE_000_010","でも、ゴールドルの発想は、あなたの個性がもとだった。
@@ -84,18 +84,18 @@ int32,str,str
 64,"TEXT_JOBAOZ801_04778_ROYSE_000_015","わかったわ、1.5％ならどう！？"
 65,"TEXT_JOBAOZ801_04778_ROYSE_000_016","おかげで、低下していた興行成績も持ち直したわ。
 これからも、皆でマスクカーニバルを盛り上げていきましょう！"
-66,"TEXT_JOBAOZ801_04778_PYANDIH_100_016","<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>になっても、先生の詰めの甘さは変わりませんねー。"
+66,"TEXT_JOBAOZ801_04778_PYANDIH_100_016","<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>になっても、先生の詰めの甘さは変わりませんねー。"
 67,"TEXT_JOBAOZ801_04778_MARTYN_100_017","むむ、何の話だ……？"
 68,"TEXT_JOBAOZ801_04778_PYANDIH_000_017","いえ、何でもありません！
 それじゃあ、今度は私が打倒ゴールドルを目指して、
 青魔道士の修業に励もうと思います……！"
 69,"TEXT_JOBAOZ801_04778_MARTYN_000_018","やれやれ、私はゴールドルとしても腕を上げねばならんようだ。
 弟子たちに連敗を喫すのは避けたいからな。"
-70,"TEXT_JOBAOZ801_04778_MARTYN_000_019","しかし、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>というものも、
+70,"TEXT_JOBAOZ801_04778_MARTYN_000_019","しかし、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>というものも、
 演じてみると案外、楽しいものだったぞ。"
 71,"TEXT_JOBAOZ801_04778_MARTYN_000_020","普段、言えないこと、できないことを、
 思い切り発散できるからな。
-君も機会があれば、いつか<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>をやってみるといい。"
+君も機会があれば、いつか<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>をやってみるといい。"
 72,"TEXT_JOBAOZ801_04778_MARTYN_000_021","そのときは……"
 73,"TEXT_JOBAOZ801_04778_MARTYN_000_022","この私、三代目マスク・ザ・ブルーが、
 華麗に撃退してやるからな！"

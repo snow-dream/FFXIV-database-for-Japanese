@@ -239,7 +239,7 @@ int32,str,str
 131,"TEXT_JOBDRK601_02915_MYSTE_000_200","ごめん……。
 やっぱり、ほどけちゃった……。"
 132,"TEXT_JOBDRK601_02915_MYSTE_000_201","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>……あのね……
-あの<74>FF04E99D84FF07E38282E38284</74>が、イニアセル、だったもの、だよ。"
+あの<RubyCharaters>FF04E99D84FF07E38282E38284</RubyCharaters>が、イニアセル、だったもの、だよ。"
 133,"TEXT_JOBDRK601_02915_MYSTE_000_202","ぼくの「ちから」は、
 だれかの想いの中にいるひとを、実体化させるの。
 想いがとどかなくなると、ただのエーテルにもどる、けど……。"

@@ -166,52 +166,49 @@ int32,str,str
 99,"TEXT_CLSPGL300_00567_HAMON_000_107","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>もじゃ！
 お主の連続攻撃は、非常に素晴らしかった！
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の未来にはワシ、超期待しちゃうぞい？"
-100,"TEXT_CLSPGL300_00567_HAMON_000_108","そうじゃ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の強さを認め、
-「拳聖のハモン」直伝の技を教えようかのう。"
-101,"TEXT_CLSPGL300_00567_HAMON_000_109","その技「破砕拳」。
-参の型から打ち出す、必殺の技。
-敵を圧倒して粉砕する、拳と蹴りの攻め手よ。"
-102,"TEXT_CLSPGL300_00567_HAMON_000_110","しかし、いくらお主が強くなったとはいえ、
+100,"TEXT_CLSPGL300_00567_HAMON_000_110","しかし、いくらお主が強くなったとはいえ、
 お主の格闘士としての道が、平易になったわけではない。
 新たな敵や、困難が待ち受けるじゃろう。"
-103,"TEXT_CLSPGL300_00567_HAMON_000_112","じゃが、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>なら大丈夫じゃ。
+101,"TEXT_CLSPGL300_00567_HAMON_000_112","じゃが、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>なら大丈夫じゃ。
 すべての困難を打ち砕くことができる、
 最高の連続攻撃が、お主にはもうあるからのう。"
-104,"TEXT_CLSPGL300_00567_HAMON_000_113","妬むな、恨むな、卑下するな！
+102,"TEXT_CLSPGL300_00567_HAMON_000_113","妬むな、恨むな、卑下するな！
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>はただ、主の闘魂を信じ、
 スタミナの限り、ひたすら前に進むが良い。"
-105,"TEXT_CLSPGL300_00567_HAMON_000_114","その結果、お主が新たな「拳聖」として、
+103,"TEXT_CLSPGL300_00567_HAMON_000_114","その結果、お主が新たな「拳聖」として、
 世に名を知られる存在になることを、
 ワシは楽しみにしておるぞ。"
-106,"TEXT_CLSPGL300_00567_QIB_001_TODO_1","ハモンに崩拳を3回叩き込め！"
-107,"TEXT_CLSPGL300_00567_QIB_001_TODO_2","ハモンを倒せ！"
-108,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_5CEC","さあ！　ワシをどーんと殴るんじゃ！"
-109,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_8CEC","遠慮はいらぬ！　存分に崩拳を打ち込むが良い！"
-110,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK1","はうっ！　痛い！　だが、もっと……もっとじゃ！"
-111,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK2","これじゃ！　この痛み……何かを思い出しそうっ！"
-112,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK3","この感覚……この闘魂……！　これじゃーーー！！"
-113,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_5CEC","ヒョヒョヒョー！　ワシ、まだまだ成長期！！"
-114,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_8CEC","今度は試合じゃ、手合わせじゃ！　次は、勝つぞい！！"
-115,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_HP50","……まだじゃ！　ワシはまだ倒れぬぞ！！"
-116,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_HP0","イタタタタ……次は……次こそは、勝ぁつ！！"
-117,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_5CEC","ヒョッヒョッヒョ！　何度でもワシは、立ち上がるぞい！"
-118,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP50","今度こそは本当に……お主に勝ちにいくぞい！！"
-119,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP25","拳聖のハモンの粘りは、ここからじゃーい！！"
-120,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP0","はぁはぁ……わ、わかった……わかったぞい！"
-121,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_TITLE","クエスト「ClsPgl300」のバトルを開始しますか？"
-122,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_YES","はい"
-123,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_NO","いいえ"
-124,"TEXT_CLSPGL300_00567_QIB_TODO_1","大斧のヴェッグファルたちを倒せ！"
-125,"TEXT_CLSPGL300_00567_QIB_02_01_WEGGFARR_01","ぎゃっはっはっはっは！　殺す！　全員殺す！！！"
-126,"TEXT_CLSPGL300_00567_QIB_02_01_HAMON_01","ヴェッグファルは、ワシに任せるのじゃ！"
-127,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_01","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、俺たちは雑魚を片付けよう。"
-128,"TEXT_CLSPGL300_00567_QIB_02_01_CHUCHUTO_01","サポートは私に任せてっ！"
-129,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_02","ヴェッグファル……こいつ仲間まで殺すなんて……！"
-130,"TEXT_CLSPGL300_00567_QIB_02_02_CHUCHUTO_01","完っ全にイカれてるわね！"
-131,"TEXT_CLSPGL300_00567_QIB_02_02_CHUCHUTO_02","ヴェッグファルに近づくと危険だわ、離れて戦いましょう！"
-132,"TEXT_CLSPGL300_00567_QIB_02_03_WEGGFARR_01","ギャッハッハッハッハ！
+104,"TEXT_CLSPGL300_00567_QIB_001_TODO_1","ハモンに崩拳を3回叩き込め！"
+105,"TEXT_CLSPGL300_00567_QIB_001_TODO_2","ハモンを倒せ！"
+106,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_5CEC","さあ！　ワシをどーんと殴るんじゃ！"
+107,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_8CEC","遠慮はいらぬ！　存分に崩拳を打ち込むが良い！"
+108,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK1","はうっ！　痛い！　だが、もっと……もっとじゃ！"
+109,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK2","これじゃ！　この痛み……何かを思い出しそうっ！"
+110,"TEXT_CLSPGL300_00567_QIB_001_HAMON1_ACT_OK3","この感覚……この闘魂……！　これじゃーーー！！"
+111,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_5CEC","ヒョヒョヒョー！　ワシ、まだまだ成長期！！"
+112,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_8CEC","今度は試合じゃ、手合わせじゃ！　次は、勝つぞい！！"
+113,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_HP50","……まだじゃ！　ワシはまだ倒れぬぞ！！"
+114,"TEXT_CLSPGL300_00567_QIB_001_HAMON2_HP0","イタタタタ……次は……次こそは、勝ぁつ！！"
+115,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_5CEC","ヒョッヒョッヒョ！　何度でもワシは、立ち上がるぞい！"
+116,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP50","今度こそは本当に……お主に勝ちにいくぞい！！"
+117,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP25","拳聖のハモンの粘りは、ここからじゃーい！！"
+118,"TEXT_CLSPGL300_00567_QIB_001_HAMON3_HP0","はぁはぁ……わ、わかった……わかったぞい！"
+119,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_TITLE","クエスト「ClsPgl300」のバトルを開始しますか？"
+120,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_YES","はい"
+121,"TEXT_CLSPGL300_00567_INSTANCE_BATTLE_YESNO_NO","いいえ"
+122,"TEXT_CLSPGL300_00567_QIB_TODO_1","大斧のヴェッグファルたちを倒せ！"
+123,"TEXT_CLSPGL300_00567_QIB_02_01_WEGGFARR_01","ぎゃっはっはっはっは！　殺す！　全員殺す！！！"
+124,"TEXT_CLSPGL300_00567_QIB_02_01_HAMON_01","ヴェッグファルは、ワシに任せるのじゃ！"
+125,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_01","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、俺たちは雑魚を片付けよう。"
+126,"TEXT_CLSPGL300_00567_QIB_02_01_CHUCHUTO_01","サポートは私に任せてっ！"
+127,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_02","ヴェッグファル……こいつ仲間まで殺すなんて……！"
+128,"TEXT_CLSPGL300_00567_QIB_02_02_CHUCHUTO_01","完っ全にイカれてるわね！"
+129,"TEXT_CLSPGL300_00567_QIB_02_02_CHUCHUTO_02","ヴェッグファルに近づくと危険だわ、離れて戦いましょう！"
+130,"TEXT_CLSPGL300_00567_QIB_02_03_WEGGFARR_01","ギャッハッハッハッハ！
 老いぼれの分際で、しぶてぇジジイだなぁあ！！"
-133,"TEXT_CLSPGL300_00567_QIB_02_03_WEGGFARR_02","だが、テメェの大事な弟子を殺しちまったらどうだ！？
+131,"TEXT_CLSPGL300_00567_QIB_02_03_WEGGFARR_02","だが、テメェの大事な弟子を殺しちまったらどうだ！？
 俺ぁちょうど、癇に障る小蝿が気になっててねぇ！！！"
-134,"TEXT_CLSPGL300_00567_QIB_02_03_HAMON_01","ヴェッグファルよ、お主の敵はワシじゃろう！！！"
-135,"TEXT_CLSPGL300_00567_QIB_02_03_CHUCHUTO_01","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>！　ヴェッグファルが来るわ！　注意して！"
+132,"TEXT_CLSPGL300_00567_QIB_02_03_HAMON_01","ヴェッグファルよ、お主の敵はワシじゃろう！！！"
+133,"TEXT_CLSPGL300_00567_QIB_02_03_CHUCHUTO_01","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>！　ヴェッグファルが来るわ！　注意して！"
+134,"TEXT_CLSPGL300_00567_HAMON_000_108","（★未使用／削除予定★）"
+135,"TEXT_CLSPGL300_00567_HAMON_000_109","（★未使用／削除予定★）"

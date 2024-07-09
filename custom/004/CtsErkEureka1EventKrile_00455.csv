@@ -254,10 +254,10 @@ int32,str,str
 91,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_198","「禁断の地 エウレカ：アネモス編」の、
 ストーリーをコンプリートしました！
 次の進行は、アップデートをお待ちください。"
-92,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_100_198","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」の、
+92,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_100_198","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」の、
 ストーリーをコンプリートしました！"
 93,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_110_198","クガネにいる「ロドニー」と話すことで、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」を開放できます。"
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」を開放できます。"
 94,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_199","「アネモス帯」内において、
 マウントに騎乗できるようになりました！"
 95,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_KRILE_000_200","中継エーテライトの調整は、順調に進んでるわ。
@@ -265,8 +265,8 @@ int32,str,str
 96,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_201","「禁断の地 エウレカ：アネモス編」の、
 ストーリーはコンプリート済です。
 次の進行は、アップデートをお待ちください。"
-97,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_210","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」の、
+97,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_210","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」の、
 ストーリーはコンプリート済です。"
 98,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_SYSTEM_000_211","クガネにいる「ロドニー」と話すことで、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」を開放できます。"
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」を開放できます。"
 99,"TEXT_CTSERKEUREKA1EVENTKRILE_00455_KRILE_000_102","（★未使用／削除予定★）"

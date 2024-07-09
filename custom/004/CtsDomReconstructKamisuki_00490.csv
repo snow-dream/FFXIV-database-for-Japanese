@@ -131,7 +131,7 @@ int32,str,str
 相当な目利きとして有名なんだってねぇ。
 上等だ、彼女が絶対に買いたくなる紙をつくってみせますよ。"
 55,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_110","見えるかい、新しくできた大きな風呂みたいなのが漉き船だ。
-そこに紙の材料を入れ、<74>FF07E7B080E6A181FF0AE38199E38191E3819F</74>で漉くって成形する……
+そこに紙の材料を入れ、<RubyCharaters>FF07E7B080E6A181FF0AE38199E38191E3819F</RubyCharaters>で漉くって成形する……
 紙づくりの中でも、大事な工程のひとつさ。"
 56,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_120","待ってたよ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>さん。
 あんたに、礼が言いたくてね。
@@ -139,7 +139,7 @@ int32,str,str
 57,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_121","紙づくりには、いくつかの工程があるが、
 あそこでやってるのが、代表たる紙漉き作業さ。"
 58,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_122","漉き船に、紙の材料を入れて、
-<74>FF07E7B080E6A181FF0AE38199E38191E3819F</74>で漉くって成形する……
+<RubyCharaters>FF07E7B080E6A181FF0AE38199E38191E3819F</RubyCharaters>で漉くって成形する……
 手作業ではあるが、日に何千という紙を作り出すんだよ。"
 59,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_123","それを圧搾して、乾燥させて、いい大きさに断ち切って……
 そのまま売りに出す紙もあれば、工芸品の材料になる紙もある。"

@@ -119,7 +119,7 @@ int32,str,str
 船としての月を繰る者は、また別に存在している。<UIForeground>01</UIForeground>"
 55,"TEXT_VOICEMAN_06002_000530_WATCHEROFMOON","<UIForeground>F20223</UIForeground>最後の仕事として、貴殿らを彼らと引き合わせよう。<UIForeground>01</UIForeground>"
 56,"TEXT_VOICEMAN_06002_000540_THANCRED","静かだな……。
-監視者の言ってた「月の<74>FF07E888B9E593A1FF0AE382AFE383ABE383BC</74>」とやらはどこだ？"
+監視者の言ってた「月の<RubyCharaters>FF07E888B9E593A1FF0AE382AFE383ABE383BC</RubyCharaters>」とやらはどこだ？"
 57,"TEXT_VOICEMAN_06002_000550_LIVINGWAY","(-？？？？-)親愛なるレポリットの皆様、ごきげんよう！"
 58,"TEXT_VOICEMAN_06002_000560_LIVINGWAY","(-？？？？-)1243回目の定期点検には少し早いですが、
 ご存知のとおり、ゾディアークの消滅が確認されました。"

@@ -417,10 +417,10 @@ int32,str,str
 161,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_665","「禁断の地 エウレカ：ピューロス編」の、
 ストーリーをコンプリートしました！
 次の進行は、アップデートをお待ちください。"
-162,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_100_665","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」の、
+162,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_100_665","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」の、
 ストーリーをコンプリートしました！"
 163,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_150_665","クガネにいる「ロドニー」と話すことで、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」を開放できます。"
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」を開放できます。"
 164,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_666","「ピューロス帯」内において、
 マウントに騎乗できるようになりました！"
 165,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_670","封印術の修復作業は、順調に進んでいるわ。
@@ -429,10 +429,10 @@ int32,str,str
 166,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_671","「禁断の地 エウレカ：ピューロス編」の、
 ストーリーはコンプリート済です。
 次の進行は、アップデートをお待ちください。"
-167,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_680","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」の、
+167,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_680","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」の、
 ストーリーはコンプリート済です。"
 168,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_681","クガネにいる「ロドニー」と話すことで、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」を開放できます。"
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」を開放できます。"
 169,"TEXT_CTSERKEUREKA3KRILE1_00512_TALK_ACTOR","（★未使用／削除予定★）"
 170,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_600","（★未使用／削除予定★）"
 171,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_601","（★未使用／削除予定★）"

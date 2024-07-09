@@ -1,17 +1,33 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,,,,,,,,,,,,,
-int32,byte,uint32,uint32,uint32,uint32,uint32,bit&01,bit&02,uint32,uint32,uint32,uint32,uint32
-0,0,0,0,0,0,0,False,False,0,0,0,0,0
-1,2,15938,15916,15922,0,0,False,False,0,0,0,0,4
-2,4,15938,15916,15922,0,0,False,False,0,0,0,0,56
-3,5,15938,15916,15922,0,0,False,False,70058,0,0,0,0
-4,6,15938,15916,15923,15934,0,False,True,66641,66640,66642,0,0
-5,21,15905,15939,15931,0,0,False,False,67092,0,0,0,0
-6,31,15905,15939,15925,0,112383,False,False,69379,0,0,0,0
-7,32,15905,15939,15928,0,111044,False,False,65973,0,0,0,0
-8,9,15905,15939,15937,0,111042,False,False,66747,0,0,0,0
-9,33,15905,15939,15929,0,111041,False,False,0,0,0,99,0
-10,34,15905,15939,15930,0,111043,False,False,66643,0,0,0,0
-11,35,15905,15939,15924,15935,111046,True,False,65970,0,0,0,0
-12,8,15905,15939,15927,0,111045,False,False,0,0,0,0,0
-13,0,0,0,0,0,0,False,False,0,0,0,0,0
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,ContentType,Text[0],Text[1],Text[2],Text[3],Image,,UnlockQuest,,
+int32,ContentType,Addon,Addon,Addon,Addon,Image,bit&01,Quest,uint32,uint32
+0,"","","","","",,False,,0,0
+1,"ダンジョン","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<Sheet(InstanceContent,IntegerParameter(5),3)/>を攻略する。","",,False,,0,0
+2,"討伐・討滅戦","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<Sheet(InstanceContent,IntegerParameter(5),3)/>を攻略する。","",,False,,0,0
+3,"レイド","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<Sheet(InstanceContent,IntegerParameter(5),3)/>を攻略する。","",,False,,0,0
+4,"PvP","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<Sheet(InstanceContent,IntegerParameter(5),3)/>に参戦する。","勝敗により、報酬の量が変わります。",,False,,0,0
+5,"ディープダンジョン","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(ContentFinderCondition,<Sheet(InstanceContent,IntegerParameter(5),8)/>,1)/>,5)/>,0)/>の<If(Equal(IntegerParameter(14),0))>B<Value>IntegerParameter(12)</Value><Else/><Value>IntegerParameter(12)</Value>層</If>を攻略する。","",,False,,0,0
+6,"オーシャンフィッシング","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(ContentType,IntegerParameter(2),0)/>1回の航海で合計釣果<If(GreaterThan(IntegerParameter(7),0))><Value>IntegerParameter(7)</Value><Else/><Value>IntegerParameter(8)</Value></If>ポイント以上を記録する。","","ui/icon/112000/112383.tex",False,"魅惑の「オーシャンフィッシング」",0,0
+7,"トリプルトライアド","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(ContentType,IntegerParameter(2),0)/>で<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(Level,IntegerParameter(10),9)/>,5)/>,0)/>の<Sheet(ENpcResident,IntegerParameter(5),0)/>に勝利する。","","ui/icon/111000/111044.tex",False,"「トリプルトライアド」の手引き",0,0
+8,"トレジャーハント","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","いずれかの古ぼけた地図を解読し、宝箱を開ける。","","ui/icon/111000/111042.tex",False,"お宝浪漫！ トレジャーハンター！",0,0
+9,"モブハント","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(EventItem,<Sheet(MobHuntOrderType,IntegerParameter(5),2)/>,0)/>をコンプリートする。","","ui/icon/111000/111041.tex",False,,99,0
+10,"釣り","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<Sheet(Item,<Sheet(FishParameter,IntegerParameter(5),4)/>,0)/>を釣り上げる。","","ui/icon/111000/111043.tex",False,"網元代行シシプ",0,0
+11,"G.A.T.E.","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","いずれかの<Sheet(ContentType,IntegerParameter(2),0)/>でMGPを入手する。","G.A.T.E.の種類により、報酬の量が異なります。
+「報酬詳細確認」から確認できます。","ui/icon/111000/111046.tex",True,"いざ、魅惑の遊技場へ",0,0
+12,"F.A.T.E.","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+Lv<Value>IntegerParameter(7)</Value>","<If(Equal(IntegerParameter(4),2))><Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>または<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(6),5)/>,0)/>の<Sheet(ContentType,IntegerParameter(2),0)/>を<Value>IntegerParameter(8)</Value>回コンプリートする。<Else/><Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>の<Sheet(ContentType,IntegerParameter(2),0)/>を<Value>IntegerParameter(8)</Value>回コンプリートする。</If>","","ui/icon/111000/111045.tex",False,,0,0
+13,"","","","","",,False,,0,0
+14,"トレジャーハント","トレジャーハント：宝物庫","トレジャーハント：宝物庫
+Lv<Value>IntegerParameter(7)</Value>","トレジャーハントの転送魔紋から突入できる宝物庫に<Value>IntegerParameter(8)</Value>回挑戦する
+※コンテンツを途中退出した場合はカウント対象になりません","","ui/icon/111000/111047.tex",False,,0,179

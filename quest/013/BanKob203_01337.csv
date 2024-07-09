@@ -65,7 +65,7 @@ int32,str,str
 「<Sheet(BNpcName,2696,0)/>」から　手に入るんだけーど……
 呼び寄せるのが　結構大変なのーよ……ククク。"
 54,"TEXT_BANKOB203_01337_BAGO_000_012","ボクちゃん　ヒトのガラクタ使って
-ちょっとしーた　「<74>FF04E7AF9DFF0AE3818BE3818CE3828A</74>」を作ったのーよ。"
+ちょっとしーた　「<RubyCharaters>FF04E7AF9DFF0AE3818BE3818CE3828A</RubyCharaters>」を作ったのーよ。"
 55,"TEXT_BANKOB203_01337_BAGO_000_013","「アイアンレイク」に　置いてあるかーら
 「<Sheet(EObj,2003685,0)/>」に　この「<Sheet(EventItem,2001226,0)/>」で着火してーね。
 そうすれーば　「<Sheet(BNpcName,2695,0)/>」が集まるーよ。"

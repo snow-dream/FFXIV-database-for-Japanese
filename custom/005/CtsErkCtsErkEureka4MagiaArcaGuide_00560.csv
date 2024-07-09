@@ -64,7 +64,7 @@ int32,str,str
 宿っている記憶が大まかにしか判明していないため、
 「ロゴスミキサー」にセットできません。"
 34,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_100_511","なお、「未鑑定ロゴスシャード」は、
-「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」以降のゾーンで、
+「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」以降のゾーンで、
 入手することができます。"
 35,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_DRAKE_000_520","探索中に「ロゴスシャード」を発見したら、
 まずは私に見せてください。

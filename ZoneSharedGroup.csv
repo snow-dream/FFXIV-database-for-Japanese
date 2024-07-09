@@ -255,3 +255,31 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 50.13,9342606,1," 忘れられた大地の味",0,False,1," ここで記憶する宇宙の味",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.14,8961773,1,"電脳夢想 スティグマ・フォー",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.15,9385708,2," 忘れられた大地の味",1,False,2," 忘れられた大地の味",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.0,10628680,2,"コザマル・カ",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.1,10628605,2,"みんなのために",3,False,2,"みんなのために",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.2,10632805,2,"黄金のレガシー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.3,10757216,2,"大地が鳴いた日",255,False,2,"ドーンブレイザー",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.4,10638074,2,"大地が鳴いた日",255,False,2,"護る者、壊す者",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.5,10653871,2,"大地が鳴いた日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+52.0,10570830,2,"祭司長グーフールー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.0,9867101,2,"イヒーハナ祭",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.1,10562741,2,"ハヌハヌ族を知る",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.2,10562742,2,"ハヌハヌ族を知る",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.3,10613522,2,"ハヌハヌ族を知る",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.4,10429375,2,"兄として",255,False,2,"ウクラマトを救え",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+54.0,10614014,2,"ティーンベク洞道を抜けて",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.0,10399297,2,"護る者、壊す者",3,False,2,"黄金のレガシー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.1,10558455,1,"黄金のレガシー",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.0,10511646,2,"大地が鳴いた日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.1,9872339,2,"大地が鳴いた日",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.2,10746983,2,"荒野に落ちる影",2,False,2,"護る者、壊す者",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.3,10510357,2,"トライヨラが好きだから",255,False,2,"ドーンブレイザー",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.4,10515675,2,"ドーンブレイザー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+57.0,10617550,2,"ソリューション・ナイン",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.0,10591852,2,"優しくて残酷な世界",9,False,2,"優しくて残酷な世界",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.1,10591856,2,"アレクサンドリアの王国騎士",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.2,10613110,2,"三つ葉の耳飾り",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.3,10613109,2,"終わらない旅路を",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.4,10596151,2,"黄金のレガシー",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.5,10109854,2,"アレクサンドリアの王国騎士",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

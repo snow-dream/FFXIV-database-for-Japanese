@@ -154,7 +154,7 @@ int32,str,str
 お前が見てこいって言うもんだからよ……。"
 77,"TEXT_VOICEMAN_06001_000730_SICARD","そこで駄々をこねちゃ、いよいよ断罪党の恥さらしだろ。
 オレは海賊だ、だからこそ乗った船に命を預けなきゃならねぇ。"
-78,"TEXT_VOICEMAN_06001_000740_SICARD","今回は帝国から奪うのもナシにして、<74>FF07E68F90E79DA3FF10E3819BE38293E381A1E38287E38186</74>の言う、
+78,"TEXT_VOICEMAN_06001_000740_SICARD","今回は帝国から奪うのもナシにして、<RubyCharaters>FF07E68F90E79DA3FF10E3819BE38293E381A1E38287E38186</RubyCharaters>の言う、
 リムサ・ロミンサの新しい航海術に賭けてやるよ……！"
 79,"TEXT_VOICEMAN_06001_000750_SICARD","ってわけで、鍛冶師と甲冑師を預かってきた。
 ガレマルドなら、どんな状態になってても鉄はあるだろ。
@@ -1145,7 +1145,7 @@ int32,str,str
 606,"TEXT_VOICEMAN_06001_005780_AMON","その切なる願いを、
 ヴァリス殿下の身体に降ろしてさしあげたのです！"
 607,"TEXT_VOICEMAN_06001_005790_AMON","そうして顕現せしものは、
-まさしくガレマールの「<74>FF04E9AD82FF0AE382A2E3838BE3839E</74>」と呼ぶにふさわしい！"
+まさしくガレマールの「<RubyCharaters>FF04E9AD82FF0AE382A2E3838BE3839E</RubyCharaters>」と呼ぶにふさわしい！"
 608,"TEXT_VOICEMAN_06001_005800_AMON","皇帝とは、民草を服従させるもの。
 広域にエーテル放射を行う力は、まさにその顕れです。"
 609,"TEXT_VOICEMAN_06001_005810_AMON","それによって、帝都に富と権力が集まってくる……
@@ -1249,7 +1249,7 @@ int32,str,str
 660,"TEXT_VOICEMAN_06001_006290_AMON","なにせ時間稼ぎをしたかったもので。
 多勢に無勢のこの状況で、どうしたものかと悩んだんですよ？"
 661,"TEXT_VOICEMAN_06001_006300_AMON","とりあえずテンパードの兵士たちを配備して……
-それから、見逃しておいた<74>FF0DE7949FE3818DE6AE8BE3828AFF0AE3838DE382BAE3839F</74>たちの巣から、
+それから、見逃しておいた<RubyCharaters>FF0DE7949FE3818DE6AE8BE3828AFF0AE3838DE382BAE3839F</RubyCharaters>たちの巣から、
 青燐水を少々盗んでみたりして。"
 662,"TEXT_VOICEMAN_06001_006310_AMON","いやぁ、効果てきめんでしたね！
 慈善活動おつかれさまです、
@@ -1446,7 +1446,7 @@ int32,str,str
 771,"TEXT_VOICEMAN_06001_007270_HYTHLODAEUS","<UIForeground>F20223</UIForeground>でも本当に、ずいぶん時が経ったんだね。
 彼が、失くすことを、そんな風に悼むようになるなんて。<UIForeground>01</UIForeground>"
 772,"TEXT_VOICEMAN_06001_007280_HYTHLODAEUS","<UIForeground>F20223</UIForeground>残念ながら、ワタシはキミが出会った幻影とは別物だよ。
-別物というか……<74>FF07E69CACE789A9FF10E382AAE383AAE382B8E3838AE383AB</74>というか……。<UIForeground>01</UIForeground>"
+別物というか……<RubyCharaters>FF07E69CACE789A9FF10E382AAE383AAE382B8E3838AE383AB</RubyCharaters>というか……。<UIForeground>01</UIForeground>"
 773,"TEXT_VOICEMAN_06001_007290_HYTHLODAEUS","<UIForeground>F20223</UIForeground>ゾディアークを成す、贄となった魂のひとつなのさ。<UIForeground>01</UIForeground>"
 774,"TEXT_VOICEMAN_06001_007300_HYTHLODAEUS","<UIForeground>F20223</UIForeground>「ワタシたち」は、
 ハイデリンに封印されるまでのことは、

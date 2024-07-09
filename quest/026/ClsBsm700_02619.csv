@@ -164,7 +164,7 @@ int32,str,str
 91,"TEXT_CLSBSM700_02619_SHINTOU_000_200","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、素晴らしい刀だ……。
 この輝き、混迷の浮世に巣食う闇を切り払うだけの、
 相当な切れ味を有しているに違いなかろう。"
-92,"TEXT_CLSBSM700_02619_SHINTOU_000_201","鞘や<74>FF04E69F84FF07E381A4E3818B</74>の拵えも申し分ない出来。
+92,"TEXT_CLSBSM700_02619_SHINTOU_000_201","鞘や<RubyCharaters>FF04E69F84FF07E381A4E3818B</RubyCharaters>の拵えも申し分ない出来。
 お武家様に献上するに相応しき一振りと言って、
 差し支えないな。"
 93,"TEXT_CLSBSM700_02619_SHINTOU_000_202","さて、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の刀に対し……

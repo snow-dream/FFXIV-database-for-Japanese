@@ -63,8 +63,8 @@ int32,str,str
 28,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_140","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん！
 また来てくれて嬉しいわ！
 あ、ちょっと待ってね……今片付けるから！"
-29,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_145","次の納品依頼は、
-「木工師／革細工師／裁縫師」のいずれかがレベル73以上になると、
+29,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_145","次の納品依頼は「木工師／革細工師／裁縫師」の、
+いずれかがレベル73以上になると、
 ミーン工芸館の「トゥナ」から受注可能です。"
 30,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_150","丁度、あなたが作ってくれた素材の残りを使って、
 この子に分析してもらいながら勉強していたところよ。"
@@ -191,8 +191,8 @@ int32,str,str
 77,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_340","あら、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん！
 ちょうど今、新規の依頼品の修復が終わって、
 ひと息ついたところなのよ。"
-78,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_345","次の納品依頼は、
-「木工師／革細工師／裁縫師」のいずれかがレベル75以上になると、
+78,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_345","次の納品依頼は「木工師／革細工師／裁縫師」の、
+いずれかがレベル75以上になると、
 ミーン工芸館の「トゥナ」から受注可能です。"
 79,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_350","ねぇ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さんは……
 「保存修復」と「修理」の違いって、
@@ -288,12 +288,11 @@ int32,str,str
 116,"TEXT_CTSDKBCHARACTER2_00568_RECORDSYSTEM_000_517","ピピ……アマロ、鼻から水飛ばす。
 ニガテ。"
 117,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_518","また、「トゥナ」から受注可能な、
-ミーン工芸館取引のストーリークエストが発行されました！
-クエストをコンプリートすることで、納品リストが更新されます。"
+ミーン工芸館取引のストーリークエストが発行されました！"
 118,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_540","それで……相談させてもらっていた、
 リュートの修復のことなんだけど……"
-119,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_545","次の納品依頼は、
-「木工師／革細工師／裁縫師」のいずれかがレベル78以上になると、
+119,"TEXT_CTSDKBCHARACTER2_00568_SYSTEM_000_545","次の納品依頼は「木工師／革細工師／裁縫師」の、
+いずれかがレベル78以上になると、
 ミーン工芸館の「トゥナ」から受注可能です。"
 120,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_550","壊れたリュートを分析して、
 必要な素材をピックアップしたわ。"

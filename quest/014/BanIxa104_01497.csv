@@ -118,5 +118,5 @@ int32,str,str
 さすが、親方の見つけてきた腕利きッィ！"
 69,"TEXT_BANIXA104_01497_YAZELAHUATAN_000_133","ウウッゥ、親方と……<If(PlayerParameter(4))>ネエチャン<Else/>アンチャン</If>と同じ夢を見られて、
 ワシは天下一の幸せモンじゃッァー！
-さあッァ、ワシらと一緒に、<74>FF07E796BEE9A2A8FF07E3818BE3819C</74>になろうやッァー！"
+さあッァ、ワシらと一緒に、<RubyCharaters>FF07E796BEE9A2A8FF07E3818BE3819C</RubyCharaters>になろうやッァー！"
 70,"TEXT_BANIXA104_01497_POPMESSAGE_000_200","製作の準備が整った。"

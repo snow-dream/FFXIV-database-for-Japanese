@@ -23,3 +23,7 @@ int32,int32,byte,byte,byte,byte,int32,str,str,str,bit&01,bit&02,bit&04,bit&08,st
 19,2,28,10,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"離脱","連打して抜け出せ！"
 20,5,3,25,15,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,False,"守護","連打してクライヴを守り抜け！"
 21,5,3,25,15,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,False,"対抗","連打して攻撃に抗え！"
+22,5,10,30,3,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"鍔迫り合い","連打して耐えろ！"
+23,2,22,17,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"離脱","連打して抜け出し、クイーキを助けろ！"
+24,2,20,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"離脱","連打して攻撃を切り抜けろ！"
+25,0,0,0,0,0,0,"","","",False,False,False,False,"",""

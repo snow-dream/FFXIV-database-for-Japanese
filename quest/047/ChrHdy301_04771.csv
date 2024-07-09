@@ -83,7 +83,7 @@ int32,str,str
 59,"TEXT_CHRHDY301_04771_CRAFTER04653_000_012","すぐに、当主を呼んでまいります……。"
 60,"TEXT_CHRHDY301_04771_GODBERT_000_013","ホッホゥ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>殿、
 またもご助力いただけるようで、大変助かりますぞ！"
-61,"TEXT_CHRHDY301_04771_GODBERT_000_014","我が家に古くから伝わる<74>FF0DE8AC8EE381AEE981BAE789A9FF10E382AAE383BCE38391E383BCE38384</74>によって、
+61,"TEXT_CHRHDY301_04771_GODBERT_000_014","我が家に古くから伝わる<RubyCharaters>FF0DE8AC8EE381AEE981BAE789A9FF10E382AAE383BCE38391E383BCE38384</RubyCharaters>によって、
 マンダヴィルウェポンの改良法が判明しました。"
 62,"TEXT_CHRHDY301_04771_GODBERT_000_015","レシピの記録を古文書から遺物に変更したのは、
 知識の悪用を防ぐために、機密性を高める狙いあってのこと……。

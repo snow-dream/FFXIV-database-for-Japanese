@@ -63,7 +63,7 @@ int32,str,str
 27,"TEXT_VOICEMAN_02500_200020_MIDGARDSORMR","然らば、我と引き合わせたのも、ハイデリンの意志か。
 問おう……汝は何故、ここへ参った？"
 28,"TEXT_VOICEMAN_02500_200030_MIDGARDSORMR","確かに、北天の星を燃やすは、我が一族の猛き咆哮。
-進軍を告げる、<74>FF04E9ACA8FF07E381A8E3818D</74>の声だ。"
+進軍を告げる、<RubyCharaters>FF04E9ACA8FF07E381A8E3818D</RubyCharaters>の声だ。"
 29,"TEXT_VOICEMAN_02500_200040_MIDGARDSORMR","一族が向うは、イシュガルド……。
 畏れを忘れ、罪を犯したヒトの棲処……。"
 30,"TEXT_VOICEMAN_02500_200050_MIDGARDSORMR","これは報復よ……。

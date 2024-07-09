@@ -17,3 +17,4 @@ int32,uint32,str,bit&01,str,str,str,str,str,str,str,str,str,str,Row,Row,Row,Row,
 13,0,"WarpInnOldSharlayan",True,"","","","","","","","","","","","","","","","","","","","","","",""
 14,0,"WarpSEElpis",False,"","","","","","","","","","","","","","","","","","","","","","はい","いいえ"
 15,0,"WarpSEUltimaThule",False,"","","","","","","","","","","","","","","","","","","","","","はい","いいえ"
+16,0,"WarpInnTuliyollal",False,"QST_SEQ_1","QST_SEQ_FINISH","QST_KINGMD108","QST_KINGME111","QST_KINGMF114","QST_SEQ_2","QST_KINGMB104","","","","移動やカメラの操作をしてみよう","コンテンツリプレイを再生してみよう","大地が鳴いた日","護る者、壊す者","黄金のレガシー","クエストを始めてみよう","王として、父として","","","","","",""

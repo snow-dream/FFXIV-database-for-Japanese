@@ -96,7 +96,7 @@ int32,str,str
 ……それも、あなたのいう「我が主」からの情報かしら？"
 65,"TEXT_HEAVNY221_02288_UNUKALHAI_000_058","……ご明察です。
 ただこの状況は、我々にとって好機と捉えることもできますね。
-帝国軍を一網打尽にし、<74>FF07E6AEB2E6BB85FF0DE3819BE38293E38281E381A4</74>すればよいのですよ。"
+帝国軍を一網打尽にし、<RubyCharaters>FF07E6AEB2E6BB85FF0DE3819BE38293E38281E381A4</RubyCharaters>すればよいのですよ。"
 66,"TEXT_HEAVNY221_02288_KRILE_000_059","ずいぶんと、過激な主張をするのね？
 今は敵の殲滅よりも、機密を守るのが最優先のはずよ。"
 67,"TEXT_HEAVNY221_02288_YSHTOLA_000_060","クルルのいうとおりね。
@@ -123,7 +123,7 @@ int32,str,str
 77,"TEXT_HEAVNY221_02288_YSHTOLA_000_302","……ひとりで充分。
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>、私を信じて！"
 78,"TEXT_HEAVNY221_02288_REGULAVANHYDRUS_000_303","あのなかに、アラグの魔科学の神髄が……。"
-79,"TEXT_HEAVNY221_02288_REGULAVANHYDRUS_000_304","どこまでも、我が<74>FF04E98094FF07E381BFE381A1</74>に立ちふさがるか……。
+79,"TEXT_HEAVNY221_02288_REGULAVANHYDRUS_000_304","どこまでも、我が<RubyCharaters>FF04E98094FF07E381BFE381A1</RubyCharaters>に立ちふさがるか……。
 よかろう……皇帝陛下への献上品に、貴様の雁首を添えてくれるわ！"
 80,"TEXT_HEAVNY221_02288_YSHTOLA_000_500","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>！"
 81,"TEXT_HEAVNY221_02288_YSHTOLA_000_501","あの機械に、アラグの「変換式」が……？"
@@ -173,7 +173,7 @@ int32,str,str
 「光の戦士」と戦わせることで、敵の殲滅を謀った者のことを。"
 108,"TEXT_HEAVNY221_02288_UNUKALHAI_000_634","…………。
 僕が、今回の一件の黒幕だとでも？"
-109,"TEXT_HEAVNY221_02288_URIANGER_000_635","計画したのはあなたの「<74>FF04E4B8BBFF0AE38182E3828BE38198</74>」……実行したのは、あなた。
+109,"TEXT_HEAVNY221_02288_URIANGER_000_635","計画したのはあなたの「<RubyCharaters>FF04E4B8BBFF0AE38182E3828BE38198</RubyCharaters>」……実行したのは、あなた。
 帝国軍を罠にかけ、袋のネズミに……という作戦でしょうか。
 敵の「殲滅」を主張したのは、そのためですね？"
 110,"TEXT_HEAVNY221_02288_UNUKALHAI_000_636","何を根拠に……？"
@@ -193,7 +193,7 @@ int32,str,str
 アラグの機密をみすみす危険にさらす作戦など……。"
 117,"TEXT_HEAVNY221_02288_URIANGER_000_643","だとしても、あなた自身の言葉で語るべきでした。
 普段は理知的なあなたですが、蛮神を利用せんとする輩に対しては、
-行動が先走る<74>FF04E8B6A3FF0DE3818AE38282E38280E3818D</74>がある……。"
+行動が先走る<RubyCharaters>FF04E8B6A3FF0DE3818AE38282E38280E3818D</RubyCharaters>がある……。"
 118,"TEXT_HEAVNY221_02288_URIANGER_000_644","しかし、ひとりの力で救えるほど、この世は小さなものではない。
 同志を信じることを覚えねば、いつか大きな過ちを犯すでしょう。"
 119,"TEXT_HEAVNY221_02288_UNUKALHAI_000_645","…………。"
@@ -228,4 +228,4 @@ int32,str,str
 弄ぼうとする輩を前にすると、つい我を忘れてしまうようです。"
 131,"TEXT_HEAVNY221_02288_UNUKALHAI_000_706","そして我が主もまた、この世界が同じ結末をたどることを、
 良しとせぬ者……。
-悲劇を未然に防ぐ<74>FF04E69EB7FF07E3818BE3819B</74>として、僕はここに送られたのです。"
+悲劇を未然に防ぐ<RubyCharaters>FF04E69EB7FF07E3818BE3819B</RubyCharaters>として、僕はここに送られたのです。"

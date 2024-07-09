@@ -238,8 +238,7 @@ int32,str,str
 イオラはあなたの事を、
 「黒鉄工房の切り札」と感じているようです！"
 111,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_524","また、「イオラ」から受注可能な、
-ミーン工芸館取引のストーリークエストが発行されました！
-クエストをコンプリートすることで、納品リストが更新されます。"
+ミーン工芸館取引のストーリークエストが発行されました！"
 112,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_550","やあ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/><If(PlayerParameter(4))>ちゃん<Else/>君</If>！
 今回はどんな商品を開発しようか！"
 113,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_550","なんだか、最近の三人は熱心に仕事してることが多いな……

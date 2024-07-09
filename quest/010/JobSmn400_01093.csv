@@ -79,7 +79,7 @@ int32,str,str
 57,"TEXT_JOBSMN400_01093_YMHITRA_000_020","そんなことが……！
 まさか、トリスタンに先回りされていたなんて。"
 58,"TEXT_JOBSMN400_01093_YMHITRA_000_021","きっと<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>のことを、
-蛮神に魅入られた「テンパード（信徒）」だとでも、
+蛮神に魅入られた「<RubyCharaters>FF07E4BFA1E5BE92FF10E38386E383B3E38391E383BCE38389</RubyCharaters>」だとでも、
 吹きこんでおいたに違いないわ。"
 59,"TEXT_JOBSMN400_01093_YMHITRA_000_022","あのトリスタンという男、かなり頭が切れるみたいね。
 けっして、おかしいわけではない……。"

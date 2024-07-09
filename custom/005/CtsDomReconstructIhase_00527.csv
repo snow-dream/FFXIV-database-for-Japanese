@@ -57,7 +57,7 @@ int32,str,str
 ヤンサのような気候では、毛皮の需要も少なかろうに……。
 肉をボーズの餡にでもするのか？"
 25,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_036","た、食べるわけがない……！
-こいつに<74>FF04E78A82FF07E38199E3818D</74>を曳いてもらって、田んぼを掻くんだ。
+こいつに<RubyCharaters>FF04E78A82FF07E38199E3818D</RubyCharaters>を曳いてもらって、田んぼを掻くんだ。
 土を細かく、柔らかくしたほうが、稲がよく育つもんでね。"
 26,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_037","いい米は、それだけで美味い。
 炊きたての米に、塩を振っただけのにぎり飯なんか……
@@ -150,7 +150,7 @@ int32,str,str
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>殿と子どもたちに、
 お話がございまして、伺った次第でございまする。"
 61,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_076","実は、復興事業の次なる施設が、
-<74>FF0AE6A097E6968EE5A1BEFF16E3828AE381A3E38195E38184E38198E38285E3818F</74>という、
+<RubyCharaters>FF0AE6A097E6968EE5A1BEFF16E3828AE381A3E38195E38184E38198E38285E3818F</RubyCharaters>という、
 学び舎に決定いたしまして……"
 62,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_077","此度、先生をお呼びいたしましたので、
 子どもたちに紹介しようと、お連れしたのでございまする。"

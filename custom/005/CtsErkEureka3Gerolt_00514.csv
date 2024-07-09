@@ -219,7 +219,7 @@ int32,str,str
 85,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_319","……おっと、話がずれた。
 ともかく、理論はさておいて、それで触媒は作れるンだ。
 能力を付与したいなら、ピューロス帯で頑張るこった。"
-86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」で、エネミーを討伐すると、
+86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」で、エネミーを討伐すると、
 エウレカケトルに、混合エーテルが蓄積されるようになりました。"
 87,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_321","ピューロス帯に存在する「<Sheet(EObj,2009646,0)/>」を使用することで、
 蓄積された混合エーテルを消費し、

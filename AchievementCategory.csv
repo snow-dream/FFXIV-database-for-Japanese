@@ -80,3 +80,5 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 76,"メインクエスト","クエスト",True,False,2
 77,"ジョブ／ロールクエスト","クエスト",True,False,3
 78,"モーエンツール","アイテム",True,False,52
+79,"ヨカ・トラル","探検",True,False,14
+80,"サカ・トラル","探検",True,False,15

@@ -56,11 +56,11 @@ int32,str,str
 50,"TEXT_JOBAOZ800_04777_MARTYN_000_000","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>君、さらに腕を磨いてきたか。
 その実力を、わが身を以て試すことになるのだな……。"
 51,"TEXT_JOBAOZ800_04777_MARTYN_000_001","こちらは旅の疲れこそ癒えたものの、
-自分が新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>になるということが、
+自分が新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>になるということが、
 どうにも不安で仕方がないよ。"
 52,"TEXT_JOBAOZ800_04777_ROYSE_000_002","まあ、そう心配しないで、
 こちらで進めていた準備は滞りなく完了したわ。"
-53,"TEXT_JOBAOZ800_04777_ROYSE_000_003","新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>を演出する、衣装と舞台装置が完成したのよ。
+53,"TEXT_JOBAOZ800_04777_ROYSE_000_003","新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>を演出する、衣装と舞台装置が完成したのよ。
 もちろん、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>の新衣装もね。"
 54,"TEXT_JOBAOZ800_04777_ROYSE_000_004","ところで、それらの製作にあたって、
 今回、特別に協力してもらった人がいるの。"
@@ -72,7 +72,7 @@ int32,str,str
 58,"TEXT_JOBAOZ800_04777_PYANDIH_000_011","協力者って誰でしょう？
 何だかわくわくしますね……！"
 59,"TEXT_JOBAOZ800_04777_ROYSE_000_020","それじゃあ、特別な協力者をお呼びしてくるわね。"
-60,"TEXT_JOBAOZ800_04777_ROYSE_000_021","マスクカーニバルの新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>に新風を吹き込むため、
+60,"TEXT_JOBAOZ800_04777_ROYSE_000_021","マスクカーニバルの新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>に新風を吹き込むため、
 今回は特別にこの方に協力してもらったのよ！"
 61,"TEXT_JOBAOZ800_04777_GODBERT_000_022","ホッホッホゥ！
 マスクカーニバルの皆さんにお会いできて光栄です！"
@@ -87,7 +87,7 @@ int32,str,str
 マスクカーニバルの関係者でしたか……。"
 66,"TEXT_JOBAOZ800_04777_GODBERT_000_025","マスクカーニバルにテュポーン殿を出場させたりと、
 ブルースカイとは、以前から協力関係にありましたが……"
-67,"TEXT_JOBAOZ800_04777_GODBERT_000_026","今回は、新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>を演出するために、
+67,"TEXT_JOBAOZ800_04777_GODBERT_000_026","今回は、新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>を演出するために、
 弊社が持つ技術とノウハウを、惜しみなく提供いたしました。"
 68,"TEXT_JOBAOZ800_04777_ROYSE_000_027","衣装、舞台装置ともに、ゴッドベルトさんの協力がなければ、
 実現できなかったことばかりです。
@@ -102,11 +102,11 @@ int32,str,str
 ブルースカイへ向かいましょう！"
 72,"TEXT_JOBAOZ800_04777_ROYSE_000_200","うん、新衣装、よく似合ってるわね！"
 73,"TEXT_JOBAOZ800_04777_MARTYN_000_201","あのう……私の衣装は？"
-74,"TEXT_JOBAOZ800_04777_ROYSE_000_202","マスクカーニバルの新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>、
+74,"TEXT_JOBAOZ800_04777_ROYSE_000_202","マスクカーニバルの新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>、
 その名も……"
 75,"TEXT_JOBAOZ800_04777_ROYSE_100_202","黄金闘士「ゴールドル」よ……！"
 76,"TEXT_JOBAOZ800_04777_PYANDIH_000_203","先生……なんか大きくなってないですか……？"
-77,"TEXT_JOBAOZ800_04777_ROYSE_000_204","<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>は迫力がないといけないからね。
+77,"TEXT_JOBAOZ800_04777_ROYSE_000_204","<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>は迫力がないといけないからね。
 ミラージュプリズムを応用して、大きく見せているの。"
 78,"TEXT_JOBAOZ800_04777_ROYSE_000_205","そして、この金のクリスタルは、
 魔力の増幅器としての機能を持ち合わせていて、
@@ -114,7 +114,7 @@ int32,str,str
 79,"TEXT_JOBAOZ800_04777_ROYSE_000_206","さらには、魔法人形や魔物も投入する予定だから、
 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>も、油断はしないことね！"
 80,"TEXT_JOBAOZ800_04777_MARTYN_000_207","そ、それって、反則じゃないですか？"
-81,"TEXT_JOBAOZ800_04777_ROYSE_000_208","あら、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>が卑怯な手を使って憎まれてこそ、
+81,"TEXT_JOBAOZ800_04777_ROYSE_000_208","あら、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>が卑怯な手を使って憎まれてこそ、
 試合は盛り上がるものでしょう？"
 82,"TEXT_JOBAOZ800_04777_ROYSE_000_209","それと、ゴールドルの性格付けなんだけど、
 マーティンの守銭奴なところから発想して考えてみたの。
@@ -129,7 +129,7 @@ int32,str,str
 88,"TEXT_JOBAOZ800_04777_MARTYN_000_220","やれやれ、守銭奴のゴールドルとはね。
 私はそんな風に見られていたのか……。"
 89,"TEXT_JOBAOZ800_04777_PYANDIH_000_221","先生、とってもハマってましたよ！
-<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>、向いてるんじゃないですか？"
+<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>、向いてるんじゃないですか？"
 90,"TEXT_JOBAOZ800_04777_MARTYN_000_222","そ、それはいいことなのだろうか……？"
 91,"TEXT_JOBAOZ800_04777_MARTYN_000_223","まあ、こうなったからには、
 腹をくくって、思い切って演じるしかないだろうな。"

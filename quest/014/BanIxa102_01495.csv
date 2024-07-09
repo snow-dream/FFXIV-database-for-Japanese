@@ -123,6 +123,6 @@ int32,str,str
 ケツの羽根までむしられずに済むッゥ！
 助かったわッァ！"
 71,"TEXT_BANIXA102_01495_YAZELAHUATAN_000_132","姐御は冗談なんて言わねえからなッァ！！
-やると言ったら、<74>FF07E69CACE6B097FF07E3839EE382B8</74>でやる女なんじゃッァ！
+やると言ったら、<RubyCharaters>FF07E69CACE6B097FF07E3839EE382B8</RubyCharaters>でやる女なんじゃッァ！
 <If(PlayerParameter(4))>ネエチャン<Else/>アンチャン</If>は、ワシのケツの羽根の恩人じゃあッァ！"
 72,"TEXT_BANIXA102_01495_POPMESSAGE_000_200","製作の準備が整った。"

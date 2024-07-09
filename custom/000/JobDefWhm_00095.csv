@@ -7,7 +7,7 @@ int32,str,str
 グリダニアの指導者にして、双蛇党の党首……
 カヌ・エ・センナは、あたしの姉様なの。"
 2,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_012","弟のア・ルン・センナと合わせて、
-あたしたちは「<74>FF07E4B889E9878DFF07E381BFE38188</74>の幻術皇」なんて呼ばれてるわ。"
+あたしたちは「<RubyCharaters>FF07E4B889E9878DFF07E381BFE38188</RubyCharaters>の幻術皇」なんて呼ばれてるわ。"
 3,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_013","もっとも、肩書きはいろいろあるけど……あたし自身としては、
 癒し手である「白魔道士」だって思ってるのよ。"
 4,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_014","霊災、戦争、そして人の営み。
@@ -125,7 +125,7 @@ int32,str,str
 51,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_031","長老の木も鎮まったし、最近の森は平和そのものよ。
 こういう日が続いてくれると、あたしも気が休まるんだけど。"
 52,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_032","森が騒がしいのって、やっぱりよくないわ。
-心休まる、緑の<74>FF07E99D99E5AF82FF0AE38197E38198E381BE</74>こそが黒衣森だと思うのよね。"
+心休まる、緑の<RubyCharaters>FF07E99D99E5AF82FF0AE38197E38198E381BE</RubyCharaters>こそが黒衣森だと思うのよね。"
 53,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_051","あんたが善王モグル・モグXII世を討伐してから、
 とくに進展らしきものはないわよ。"
 54,"TEXT_JOBDEFWHM_00095_RAYAOSENNA_000_052","カヌ・エ姉様とも連絡を取り合って、

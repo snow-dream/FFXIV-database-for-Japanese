@@ -53,3 +53,4 @@ int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,PublicCo
 41,5,10,"ui/icon/060000/060848.tex","","金のサボテンダー所持数","ゴール地点を目指せ！","PublicContentCutscene#0",0,0,"挑戦！ ジャンピングアスレチック","GFateClimbing2Content#26",48,125,0,0,18,"PublicContentCutscene#0"
 42,5,10,"ui/icon/060000/060848.tex","","金のサボテンダー所持数","ゴール地点を目指せ！","PublicContentCutscene#0",0,0,"挑戦！ ジャンピングアスレチック","GFateClimbing2Content#27",48,126,0,0,18,"PublicContentCutscene#0"
 43,10,0,"ui/icon/060000/060848.tex","","","","PublicContentCutscene#0",0,0,"ブランダーヴィル",,54,146,0,0,1,"PublicContentCutscene#50029"
+44,0,0,,"","","","PublicContentCutscene#0",0,0,"",,0,0,0,0,0,"PublicContentCutscene#0"

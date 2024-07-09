@@ -504,6 +504,34 @@ int32,str
 
 1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スピニングサイズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ナイトメアサイズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
-63,""
-64,""
-65,""
+63,"単体攻撃用コンボアクション。
+使用するごとに以下のウェポンスキルを順番に発動する。
+次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラーシャの鋭爪」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラーシャの双牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラーシャの尾撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のＨＰを回復する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250"
+64,"範囲攻撃用コンボアクション。
+使用するごとに以下のウェポンスキルを順番に発動する。
+次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トラルの厳酷」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トラルの激甚」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>210
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トラルの峻烈」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
+65,"コンボ用アクション。
+使用するごとに以下のウェポンスキルを順番に発動する。
+次に発動するウェポンスキルの発動条件を満たしていなかった場合は、最初のウェポンスキルに戻る。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【咬創】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「弐の牙【猛襲】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「参の牙【咬撃】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【切創】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「弐の牙【疾速】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「参の牙【噛砕】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【壱】」コンボ成立後は、「祖霊の牙【壱】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【弐】」コンボ成立後は、「祖霊の牙【弐】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【参】」コンボ成立後は、「祖霊の牙【参】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「祖霊降ろし」効果中、かつ「祖霊の牙【肆】」コンボ成立後は、「祖霊の牙【肆】」に変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+66,""

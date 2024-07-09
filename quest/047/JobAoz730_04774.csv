@@ -61,7 +61,7 @@ int32,str,str
 50,"TEXT_JOBAOZ730_04774_PYANDIH_000_000","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、
 青魔道士としてさらに腕を上げられ、
 青魔法「ゴブリンパンチ」もラーニングされたようですね！"
-51,"TEXT_JOBAOZ730_04774_PYANDIH_000_001","新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>探しの旅に出た先生から、
+51,"TEXT_JOBAOZ730_04774_PYANDIH_000_001","新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>探しの旅に出た先生から、
 連絡が届いてますよ。"
 52,"TEXT_JOBAOZ730_04774_PYANDIH_000_002","なんでも、リムサ・ロミンサにいるらしく、
 あなたに「メルヴァン税関公社」まで来てほしいそうです。
@@ -94,7 +94,7 @@ int32,str,str
 66,"TEXT_JOBAOZ730_04774_ARCANIST04774_000_028","これ、少ないですが、ほんの謝礼です。
 どうぞお納めください。"
 67,"TEXT_JOBAOZ730_04774_MARTYN_000_029","さて、本題に入るとしよう。
-新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>探しなのだが、
+新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>探しなのだが、
 私はリムサ・ロミンサの海賊、断罪党に目を付けたのだよ。"
 68,"TEXT_JOBAOZ730_04774_MARTYN_000_030","強者ぞろいの彼らから、とびきりの手練れを聞き出して、
 スカウトしようと考えている。
@@ -132,7 +132,7 @@ int32,str,str
 仕方がない、私はアスタリシア号の近くで待っていよう。"
 85,"TEXT_JOBAOZ730_04774_MARTYN_000_070","用は済ませたようだな。
 それでは、アスタリシア号にいる断罪党の者たちから、
-<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>に相応しい、手練れの情報を集めよう。"
+<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>に相応しい、手練れの情報を集めよう。"
 86,"TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERA04773_100_071","ああん？
 断罪党に用でもあんのか……？"
 87,"TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_100_072","アタイになにか……？"
@@ -160,7 +160,7 @@ int32,str,str
 100,"TEXT_JOBAOZ730_04774_BLOODYEXECUTIONERB04773_000_096","フン、アタイ以上の者となると、首領代行のシカルドだね。
 若いながらも、その銃術の腕は本物だよ。"
 101,"TEXT_JOBAOZ730_04774_MARTYN_000_097","現役首領代行を雇うとなると、ギャラも高いはず。
-そうなると<74>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</74>としての取り分が……
+そうなると<RubyCharaters>FF0AE88888E8A18CE5B8ABFF0DE383A9E3838BE382B9E382BF</RubyCharaters>としての取り分が……
 やはり、ほかを当たるしかないな。"
 102,"TEXT_JOBAOZ730_04774_MARTYN_000_100","そもそも、断罪党から探すのは無理があったか……？
 しかし、このまま手ぶらで帰るわけにもいかん。"
@@ -181,10 +181,10 @@ int32,str,str
 110,"TEXT_JOBAOZ730_04774_HASTHWAB_000_124","そういえば、伝説の大海賊「霧髭」の右腕だったという斧使いが、
 最近、溺れた海豚亭に現れると聞いたな……。"
 111,"TEXT_JOBAOZ730_04774_HASTHWAB_000_125","なんでも、赤い仮面を被った巨漢で、
-「<74>FF07E89BB8E9ABADFF0DE382BFE382B3E381B2E38192</74>」と名乗っているそうだ。"
+「<RubyCharaters>FF07E89BB8E9ABADFF0DE382BFE382B3E381B2E38192</RubyCharaters>」と名乗っているそうだ。"
 112,"TEXT_JOBAOZ730_04774_MARTYN_000_126","あの霧髭の……それならただ者じゃないはずだ。
 有益な情報を教えてくれて感謝します！"
-113,"TEXT_JOBAOZ730_04774_MARTYN_000_127","伝説の海賊の右腕……<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>にぴったりじゃないか！
+113,"TEXT_JOBAOZ730_04774_MARTYN_000_127","伝説の海賊の右腕……<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>にぴったりじゃないか！
 さっそく「溺れた海豚亭」に向かおう。"
 114,"TEXT_JOBAOZ730_04774_HASTHWAB_000_130","伝説の大海賊「霧髭」の右腕だったという斧使いが、
 最近、溺れた海豚亭に現れると聞いたな……。
@@ -226,7 +226,7 @@ int32,str,str
 136,"TEXT_JOBAOZ730_04774_TRACHTOUM_100_408","どうか許してーーーーーー！"
 137,"TEXT_JOBAOZ730_04774_MARTYN_000_409","結局、偽物だったというわけか……"
 138,"TEXT_JOBAOZ730_04774_MARTYN_000_410","まあ、たとえ本物だったとしても、
-私に負けた相手なら、<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>として不合格ということ。
+私に負けた相手なら、<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>として不合格ということ。
 またどこかで別の候補を探さなければ……。"
 139,"TEXT_JOBAOZ730_04774_MARTYN_000_411","私はほかの土地へ向かおうと思う。
 君はウルダハに戻って、ペ・ヤンディに報告してくれたまえ。"
@@ -235,7 +235,7 @@ int32,str,str
 141,"TEXT_JOBAOZ730_04774_PYANDIH_000_420","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さん、お帰りなさい！
 首尾はいかがでしょう？"
 142,"TEXT_JOBAOZ730_04774_PYANDIH_000_421","なるほど、リムサ・ロミンサでは、
-新たな<74>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</74>は見つかりませんでしたか……。
+新たな<RubyCharaters>FF07E695B5E5BDB9FF0AE38392E383BCE383AB</RubyCharaters>は見つかりませんでしたか……。
 ロイスさんには私から報告しておきますね。"
 143,"TEXT_JOBAOZ730_04774_PYANDIH_000_422","何はともあれ、ご協力ありがとうございます！
 そうそう、先生からあなたにラーニングしておいてほしい、

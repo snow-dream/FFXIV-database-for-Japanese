@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_AKTKVA001_04651_OSMON_000_001","おや……？
 もしやあなたは、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>さんでは？"
 50,"TEXT_AKTKVA001_04651_OSMON_000_002","ああ、やっぱりそうでしたか……！"
-51,"TEXT_AKTKVA001_04651_OSMON_000_003","僕、<74>FF0AE7A880E8A6AFE69CACFF10E3818DE38193E38186E381BCE38293</74>の収集を専門にしている、
+51,"TEXT_AKTKVA001_04651_OSMON_000_003","僕、<RubyCharaters>FF0AE7A880E8A6AFE69CACFF10E3818DE38193E38186E381BCE38293</RubyCharaters>の収集を専門にしている、
 グリーナーのオスモンと申します。"
 52,"TEXT_AKTKVA001_04651_OSMON_000_004","お会いできて、とても嬉しいです！
 あなたから、お話を聞いてみたいと思っていました！"

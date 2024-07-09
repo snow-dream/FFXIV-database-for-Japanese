@@ -7,10 +7,10 @@ int32,str,str
 「ホーンテッドマナー」へ行かれたい方はもちろん、
 説明を聞きたい方も、何なりとお申し付けくださいまセ！"
 2,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_TITLE","何をする？"
-3,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_1","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」に行く"
-4,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_2","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」について聞く"
+3,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_1","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」に行く"
+4,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_2","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」について聞く"
 5,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_3","キャンセル"
-6,"TEXT_FESHLW2018ENTRANCE_00540_CHALLENGEMENU_CONFIRM","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」に向かいますか？"
+6,"TEXT_FESHLW2018ENTRANCE_00540_CHALLENGEMENU_CONFIRM","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」に向かいますか？"
 7,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_TITLE","何を聞く？"
 8,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_GAGE","<UIForeground>F20224</UIForeground>ホーンテッドマナーの「ルール」について<UIForeground>01</UIForeground>"
 9,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_MONSTERS","<UIForeground>F20224</UIForeground>邪魔をしてくる「奇妙なお化け」について<UIForeground>01</UIForeground>"
@@ -128,7 +128,7 @@ int32,str,str
 61,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_110","ホーンテッドマナーには、4人一組で招待させていただきまス！
 お客様には冒険者としての経験は、いっさい問いませんから、
 どなたとでも、気軽にいらしてくださいネ。"
-62,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_111","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」は、
+62,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_111","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」は、
 4人パーティで攻略するコンテンツです。
 ファイター・ソーサラー・レベルに関わらず、参加できます。"
 63,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_112","3人以下のパーティを組んだ状態で参加申請した場合は、

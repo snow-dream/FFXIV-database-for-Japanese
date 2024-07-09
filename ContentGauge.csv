@@ -76,5 +76,11 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 72,0,"ハルオーネの凍気","ContentGaugeColor#1",True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
 73,0,"メネフィナの魔力","ContentGaugeColor#1",True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
 74,0,"アテナの魔力","ContentGaugeColor#2",True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-75,0,"","ContentGaugeColor#0",False,"",0,0,0,0,0,0,0
+75,0,"エネルギー充填率","ContentGaugeColor#3",True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 76,0,"エーテル凝縮率","ContentGaugeColor#2",True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+77,0,"九尾の妖気","ContentGaugeColor#1",True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+78,0,"","ContentGaugeColor#0",False,"",0,0,0,0,0,0,0
+79,0,"グウィドリトの雷力","ContentGaugeColor#2",True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+80,0,"オーティスの耐久度","ContentGaugeColor#2",False,"",30,1,3,70,1,1,0
+81,0,"災厄の徴","ContentGaugeColor#3",True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+82,0,"イクソク・シュマジュンの魔力","ContentGaugeColor#3",True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0

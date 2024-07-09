@@ -79,7 +79,7 @@ int32,str,str
 34,"TEXT_VOICEMAN_02300_200040_RAUBAHN","エオルゼア都市軍事同盟は、この争いを亀裂とせぬために、
 かの地で起こった対立の一切を、
 外に持ち出さないという協定を結んだ。"
-35,"TEXT_VOICEMAN_02300_200050_RAUBAHN","……これが、「<74>FF07E6B395E5A496FF10E382A2E382A6E38388E383ADE383BC</74>戦区」と
+35,"TEXT_VOICEMAN_02300_200050_RAUBAHN","……これが、「<RubyCharaters>FF07E6B395E5A496FF10E382A2E382A6E38388E383ADE383BC</RubyCharaters>戦区」と
 呼ばれる所以だ。"
 36,"TEXT_VOICEMAN_02300_200060_RAUBAHN","戦場となっているカルテノー平原への植民……。
 この無謀な「フロンティア計画」の出資者こそ、
@@ -278,7 +278,7 @@ int32,str,str
 これは眼福の光景……結尾の記憶としましょう。
 ……これは失礼を……。"
 116,"TEXT_VOICEMAN_02300_800210_URIANGER","どうしても、調べたいことがあるのです。
-この機械仕掛けの<74>FF04E79CBCFF0AE381BEE381AAE38193</74>を通し、
+この機械仕掛けの<RubyCharaters>FF04E79CBCFF0AE381BEE381AAE38193</RubyCharaters>を通し、
 雷神狩りを、拝見させていただきましょう……。"
 117,"TEXT_VOICEMAN_02300_900010_RAMUH","お主の力、しかと見届けた……。"
 118,"TEXT_VOICEMAN_02300_900020_RAMUH","……光の者よ、気付いておろう。

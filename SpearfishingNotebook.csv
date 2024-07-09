@@ -56,4 +56,12 @@ int32,byte,bit&01,TerritoryType,int16,int16,uint16,byte,PlaceName,byte,Gathering
 52,90,False,"s1f5",1185,1023,600,2,"ブロンズレイク北東湖底",52,"GatheringPointBase#917",0,0
 53,85,False,"e3f1",910,620,600,2,"サイバイ洞周辺",53,"GatheringPointBase#942",0,0
 54,90,False,"s1f5",900,1025,600,4,"ブロンズレイク北西湖底",54,"GatheringPointBase#943",0,0
-55,0,False,,0,0,0,0,"",0,"GatheringPointBase#0",0,0
+55,95,False,"y6f1",264,967,800,4,"カーヴァーフー湖",55,"GatheringPointBase#1005",0,0
+56,95,False,"y6f2",1338,1469,600,2,"リガカの潟東",56,"GatheringPointBase#1006",0,0
+57,95,False,"y6f2",1010,1616,600,4,"リガカの潟西",57,"GatheringPointBase#1007",0,0
+58,95,False,"y6f3",214,332,600,4,"シャダータラト・ゾユ",58,"GatheringPointBase#1008",0,0
+59,100,False,"y6f3",1385,190,600,2,"イクラシュ・ゾユ西",59,"GatheringPointBase#1009",0,0
+60,100,False,"y6f3",1683,332,600,4,"イクラシュ・ゾユ東",60,"GatheringPointBase#1010",0,0
+61,100,False,"x6f1",1528,508,600,2,"トーリ湖北",61,"GatheringPointBase#1011",0,0
+62,95,True,"y6f2",1209,1514,225,1,"リガカの潟中央深部",62,"GatheringPointBase#1012",0,0
+63,100,True,"y6f3",1522,303,300,1,"イクラシュ・ゾユ中央湖底",63,"GatheringPointBase#1013",0,0

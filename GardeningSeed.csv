@@ -104,3 +104,4 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 100,"モーニンググローリー:レッド",121,"ui/icon/066000/066502.tex",False,True,19
 101,"クリサンセマム:レッド",122,"ui/icon/066000/066502.tex",False,True,20
 102,"ルピナス:レッド",117,"ui/icon/066000/066502.tex",False,True,21
+103,"サンフラワー:レッド",123,"ui/icon/066000/066502.tex",False,True,22

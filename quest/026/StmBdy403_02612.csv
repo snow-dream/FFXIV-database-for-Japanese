@@ -57,12 +57,12 @@ int32,str,str
 奥地へと向かうにつれて、火属性の力が強くなっているんですよ。"
 50,"TEXT_STMBDY403_02612_RODNEY_000_001","準備が終わりましたら、ピューロス帯の拠点へ向かい、
 先行しているクルルさんと合流してください！"
-51,"TEXT_STMBDY403_02612_SYSTEM_000_010","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」から続く、ソロから、
+51,"TEXT_STMBDY403_02612_SYSTEM_000_010","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」から続く、ソロから、
 フルパーティ（8人）で挑むことができる探索型コンテンツ、
-「<Sheet(ContentFinderCondition,IntegerParameter(2),41)/>」に挑戦可能になりました。"
+「<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>」に挑戦可能になりました。"
 52,"TEXT_STMBDY403_02612_SYSTEM_000_011","「ロドニー」に話しかけて、
-「<Sheet(ContentFinderCondition,IntegerParameter(2),41)/>」を選択することで、
+「<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>」を選択することで、
 探索を開始することができます。"
-53,"TEXT_STMBDY403_02612_SYSTEM_000_012","なお、「<Sheet(ContentFinderCondition,IntegerParameter(2),41)/>」では、
+53,"TEXT_STMBDY403_02612_SYSTEM_000_012","なお、「<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>」では、
 アイテムレベルシンクが設定されており、装備品の性能が、
-「アイテムレベル：<Sheet(ContentFinderCondition,IntegerParameter(1),19)/>」以下になるよう調整されます。"
+「アイテムレベル：<Sheet(ContentFinderCondition,IntegerParameter(1),20)/>」以下になるよう調整されます。"

@@ -336,7 +336,7 @@ int32,str,str
 　新たなおねがいを達成した場合は、
 　報酬量が変化することがあります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-現在の所持数：<Value>IntegerParameter(3)</Value>個"
+現在の所持数：<Value>IntegerParameter(3)</Value>/150個"
 146,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_100_000","この名もなき島へ、ようこそ！
 ゆっくりしていってくださいニャー。"
 147,"TEXT_CTSMJIMISSION_00791_SYSTEM_200_000","現在の開拓目標では、ねこみみさんに話しかけることで、

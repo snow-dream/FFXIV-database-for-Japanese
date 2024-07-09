@@ -82,7 +82,7 @@ int32,str,str
 ほかの地域へ転移するためには、調整が必要らしい……。"
 34,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040","中継エーテライトが起動している。
 調整は完了しており、ほかの地域へ転移可能だ。"
-35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」から退出し、
+35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","「<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>」から退出し、
 クガネにいる「ロドニー」に話しかけることで、
 ほかの地域へ向かうことができます。"
 36,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR","（★未使用／削除予定★）"

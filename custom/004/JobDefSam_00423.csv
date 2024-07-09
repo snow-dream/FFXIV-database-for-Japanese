@@ -24,7 +24,7 @@ int32,str,str
 ムソウサイ様の弟子である、貴方のお力添えが必要です。"
 11,"TEXT_JOBDEFSAM_00423_MAKOTO_000_062","どうか、この国の平和を護るため、
 今後とも赤誠組に、お付き合いいただきたく存じます。"
-12,"TEXT_JOBDEFSAM_00423_MAKOTO_000_070","侍の源流は、刀を手に戦う<74>FF07E6ADA6E5A3ABFF0DE38282E381AEE381AEE381B5</74>にあります。
+12,"TEXT_JOBDEFSAM_00423_MAKOTO_000_070","侍の源流は、刀を手に戦う<RubyCharaters>FF07E6ADA6E5A3ABFF0DE38282E381AEE381AEE381B5</RubyCharaters>にあります。
 その技は、ひんがしの国が戦乱の直中にあった時代、
 戦いの中で、発展してきたものなのです。"
 13,"TEXT_JOBDEFSAM_00423_MAKOTO_000_071","しかし、天下が統一されると、誰もが刀を持つ時代は終わり、
@@ -81,7 +81,7 @@ int32,str,str
 各国を飛び回っていたそうです。"
 37,"TEXT_JOBDEFSAM_00423_MAKOTO_000_303","私たちも負けじと、世直しに勤しみ、
 人に希望を与える、新たな物語を紡いでゆきたいと思います。"
-38,"TEXT_JOBDEFSAM_00423_MAKOTO_000_170","侍の源流は、刀を手に戦う<74>FF07E6ADA6E5A3ABFF0DE38282E381AEE381AEE381B5</74>にあります。
+38,"TEXT_JOBDEFSAM_00423_MAKOTO_000_170","侍の源流は、刀を手に戦う<RubyCharaters>FF07E6ADA6E5A3ABFF0DE38282E381AEE381AEE381B5</RubyCharaters>にあります。
 その技は、ひんがしの国が戦乱の直中にあった時代、
 戦いの中で、発展してきたものなのです。"
 39,"TEXT_JOBDEFSAM_00423_MAKOTO_000_171","しかし、天下が統一されると、誰もが刀を持つ時代は終わり、

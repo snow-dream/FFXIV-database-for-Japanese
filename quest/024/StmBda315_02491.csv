@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_STMBDA315_02491_LYSE_000_000","いよいよ、ドマの中心地か……。
 少し、緊張するね。"
 49,"TEXT_STMBDA315_02491_ALISAIE_000_005","地図によると、「ヤンサ」はここからさらに西……。
-紅玉海に流れ込む巨大な川「<74>FF0AE784A1E4BA8CE6B19FFF0DE38280E381ABE38193E38186</74>」の、
+紅玉海に流れ込む巨大な川「<RubyCharaters>FF0AE784A1E4BA8CE6B19FFF0DE38280E381ABE38193E38186</RubyCharaters>」の、
 流域付近を指しているわ。"
 50,"TEXT_STMBDA315_02491_GOSETSU_000_010","世話をかけたな、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>殿。
 おかげで拙者も、ほかに尋問にかけられていた者らも、
