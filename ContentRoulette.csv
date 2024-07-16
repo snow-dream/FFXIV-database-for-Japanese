@@ -46,7 +46,7 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 9,"コンテンツルーレット：メンター","メンター","","「コンテンツルーレット：メンター」はバトルメンターとなったキャラクターのみが参加できるコンテンツルーレットで、コンプリート済みのメンター対応コンテンツの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：メンター」のギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られるギルとの差額を報酬として得られます。
-※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：メンター対応コンテンツ",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,670,False,0,"ui/icon/112000/112144.tex","ContentRouletteRoleBonus#8",0,30,0,0,0,0,10,142,"ContentMemberType#1",0,0,8,True,1,0,30,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：メンター対応コンテンツ",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,685,False,0,"ui/icon/112000/112144.tex","ContentRouletteRoleBonus#8",0,30,0,0,0,0,10,142,"ContentMemberType#1",0,0,8,True,1,0,30,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 10,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
 11,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
 12,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0

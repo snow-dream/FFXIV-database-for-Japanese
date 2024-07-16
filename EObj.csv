@@ -13723,10 +13723,10 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2013719,False,False,False,False,False,False,False,False,3,70475,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False,0,False,False
 2013720,False,False,False,False,False,False,False,False,3,70383,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0044.sgb",False,False,True,0,False,0,False,False
 2013721,False,False,False,False,False,False,False,False,3,70348,7,"bgcommon/world/evt/shared/for_pln/sgvf_w_evt_kirakira01.sgb",True,False,True,0,False,0,False,False
-2013722,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013723,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013724,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013725,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
+2013722,False,False,False,False,False,False,False,False,3,131564,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_0150.sgb",True,False,True,0,False,0,False,False
+2013723,False,False,False,False,False,False,False,False,3,854738,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_b0263.sgb",True,False,True,0,False,0,False,False
+2013724,False,False,False,False,False,False,False,False,3,854753,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_0150.sgb",True,False,True,0,False,0,False,False
+2013725,False,False,False,False,False,False,False,False,3,131565,7,"bgcommon/world/evt/shared/for_vfx/sgvf_w_evt_0150.sgb",True,False,True,0,False,0,False,False
 2013726,False,False,False,False,False,False,False,False,3,70372,7,"bgcommon/world/evt/shared/for_pln/sgpl_a_evt_crashcargo01.sgb",False,False,True,0,False,0,False,False
 2013727,False,False,False,False,False,False,False,False,2,0,0,"bg/ex5/02_ykt_y6/shared/for_vfx/sgvf_y6f3_b3123.sgb",False,False,True,0,False,0,False,False
 2013728,False,False,False,False,False,False,False,False,2,0,0,"bg/ex5/01_xkt_x6/shared/for_vfx/sgvf_x6d3_b2891.sgb",False,False,True,0,False,0,False,False
@@ -13858,9 +13858,9 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2013854,False,False,False,False,False,False,False,False,3,70366,7,"bgcommon/world/evt/shared/ver_600/sgpl_evt_600_meetup_area_cube_square_small_8m_16m_vfx03.sgb",False,False,True,0,False,0,False,False
 2013855,False,False,False,False,False,False,False,False,3,70366,7,"bgcommon/world/evt/shared/ver_600/sgpl_evt_600_meetup_area_cube_square_small_8m_16m_vfx03.sgb",False,False,True,0,False,0,False,False
 2013856,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013857,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013858,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
-2013859,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
+2013857,False,False,False,False,False,False,False,False,2,0,0,"bg/ex5/01_xkt_x6/shared/for_vfx/sgvf_x6r2_b3034.sgb",False,False,True,0,False,0,False,False
+2013858,False,False,False,False,False,False,False,False,2,0,0,"bg/ex5/01_xkt_x6/shared/for_bg/sgbg_x6r2_a1_gmc02.sgb",False,False,True,0,False,0,False,True
+2013859,False,False,False,False,False,False,False,False,2,0,0,"bg/ex5/01_xkt_x6/shared/for_bg/sgbg_x6r2_a1_gmc03.sgb",False,False,True,0,False,0,False,True
 2013860,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
 2013861,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False
 2013862,False,False,False,False,False,False,False,False,0,0,0,,False,False,False,0,False,0,False,False

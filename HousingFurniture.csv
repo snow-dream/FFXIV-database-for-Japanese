@@ -1114,7 +1114,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197765,1056,14,7,68,0,0,"CmnDefHousingDish_00213","ドリップコーヒー",True,False,9,4,11,True,False
 197766,1057,13,0,0,0,0,,"バックバー",False,False,0,0,0,True,False
 197767,1058,14,7,69,0,0,"CmnDefHousingDish_00213","ピクシーアップルバスケット",True,False,9,4,11,True,False
-197768,1395,15,0,0,0,0,,"複製原画：黄金の群像",False,False,3,0,0,True,False
+197768,1395,15,0,0,0,0,,"複製原画:黄金の群像",False,False,3,0,0,True,False
 197769,1060,13,0,0,0,0,,"ピロソポス・ラウンドテーブル",False,False,0,0,0,True,False
 197770,1061,12,0,0,0,0,,"クリスタリウム・ワードローブ",False,False,0,0,0,True,False
 197771,1062,13,0,0,0,0,,"ハーフブックシェルフ",False,False,0,0,0,True,False

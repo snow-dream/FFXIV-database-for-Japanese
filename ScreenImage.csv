@@ -1263,10 +1263,10 @@ int32,Image,Jingle,sbyte,bit&01
 1259,,"Unlock",1,True
 1260,,"Unlock",1,True
 1261,,"Unlock",1,True
-1262,,"Lv",0,False
-1263,,"Lv",0,False
-1264,,"Lv",0,False
-1265,,"Lv",0,False
+1262,,"Unlock",1,True
+1263,,"Unlock",1,True
+1264,,"Unlock",1,True
+1265,,"Unlock",1,True
 1266,,"Lv",0,False
 1267,,"Unlock",1,True
 1268,,"Unlock",1,True

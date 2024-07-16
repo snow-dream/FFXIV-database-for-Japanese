@@ -414,7 +414,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 410,409,3,4,6,5,"TripleTriadCardRarity#2","",300,8,395,0,False,6,"ルーヤワ","Level#10806917","サカ・トラルへ"
 411,410,4,4,5,6,"TripleTriadCardRarity#2","",300,8,396,0,False,6,"ワターエ","Level#10806452","理王スフェーン"
 412,411,5,6,5,3,"TripleTriadCardRarity#2","",300,8,397,0,False,6,"ラリサ","Level#10806915","優しくて残酷な世界"
-413,412,5,7,2,7,"TripleTriadCardRarity#3","",500,31,398,0,False,6,"カニロッカ","Level#10806911","血の涙を拭って"
+413,412,5,7,2,7,"TripleTriadCardRarity#3","",500,31,398,0,False,6,"ガヴォージャ","Level#10806911","血の涙を拭って"
 414,413,3,5,6,7,"TripleTriadCardRarity#3","",500,20,399,0,False,3,"濁流遡上 イフイカ・トゥム",,"みんなのために"
 415,414,6,4,6,6,"TripleTriadCardRarity#3","",500,20,400,0,False,3,"山嶺登頂 ウォーコー・ゾーモー",,"祭司長グーフールー"
 416,415,7,4,4,7,"TripleTriadCardRarity#3","",500,20,401,0,False,3,"遺産踏査 天深きセノーテ",,"黄金郷に至る路"
@@ -422,7 +422,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 418,417,7,6,8,5,"TripleTriadCardRarity#4","",800,32,403,0,False,3,"ヴァリガルマンダ討滅戦",,"最強のトラルヴィドラール"
 419,418,9,5,7,8,"TripleTriadCardRarity#5","",1500,40,404,0,False,3,"ゾラージャ討滅戦",,"奇跡の子"
 420,419,3,9,5,10,"TripleTriadCardRarity#5","",1500,40,405,0,False,3,"エターナルクイーン討滅戦",,"黄金のレガシー"
-421,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+421,420,7,3,8,3,"TripleTriadCardRarity#3","",500,20,410,0,False,3,"至天の座アルカディア：ライトヘビー級1",,"爪研ぐ猫魂"
 422,421,5,8,6,7,"TripleTriadCardRarity#4","",800,39,406,0,False,10,"広域交易商 トーシュナ","Level#10417506","護る者、壊す者"
 423,422,8,5,5,8,"TripleTriadCardRarity#4","",800,39,407,0,False,10,"広域交易商 クラークPX-0027","Level#10417540","終わらない旅路を"
 424,423,5,10,9,5,"TripleTriadCardRarity#5","",0,47,408,0,False,11,"街角のデュエリスト：ランク9",,"「トリプルトライアド」の手引き"

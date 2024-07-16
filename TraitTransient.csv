@@ -236,7 +236,7 @@ int32,str
 186,"コンバスがコンバラに変化する。"
 187,"マレフィクがマレフィラに変化する。"
 188,"マレフィラがマレフィガに変化する。"
-189,"ライトスピードのリキャストタイムを90秒に短縮させる。"
+189,"ライトスピードのリキャストタイムを60秒に短縮させる。"
 190,"採集開始時にすべてのリーチゲージを0にする。
 対象：レベル60以下の採集場所"
 191,"採集開始時にすべてのリーチゲージを0にする。
@@ -420,8 +420,8 @@ int32,str
 292,"ガウスラウンドとリコシェットの最大チャージ数が3に増加する。"
 293,"ワイルドファイアの「ウェポンスキル1回ごとの威力」が240に上昇する。"
 294,"オートタレット・ルークがオートマトン・クイーンに、オーバードライブ・ルークがオーバードライブ・クイーンに変化する。"
-295,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルハート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が3つ付与される。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>フリーズおよびマナフォントの実行時"
+295,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルハート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>マナフォント、アンブラルソウル、フリーズの実行時"
 296,"一部の魔法を実行すると、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アストラルファイア」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>もしくは<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルブリザード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大スタック数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 
@@ -938,10 +938,10 @@ int32,str
 518,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>連撃の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>正拳突きの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>290
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>崩拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>破砕拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>正拳突きの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>崩拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>破砕拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双竜脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>陰陽闘気斬の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400"
 519,"風雅が風光に変化する。"
@@ -965,13 +965,13 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ワクシングスライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>インファナルスライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
 524,"蛇尾撃が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参の牙【側撃】、参の牙【側裂】、参の牙【背撃】、参の牙【背裂】のコンボ成功時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参の牙【側撃】、参の牙【側裂】、参の牙【背撃】、参の牙【背裂】の命中時"
 525,"蛇尾閃が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参の大牙【乱撃】および参の大牙【乱裂】のコンボ成功時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参の大牙【乱撃】および参の大牙【乱裂】の命中時"
 526,"双牙連撃および双牙乱撃が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弐の蛇【猛襲】および弐の蛇【疾速】のコンボ成功時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弐の蛇【猛襲】および弐の蛇【疾速】の命中時"
 527,"双牙連閃および双牙乱閃が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弐の大蛇【猛襲】および弐の大蛇【疾速】のコンボ成功時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弐の大蛇【猛襲】および弐の大蛇【疾速】の命中時"
 528,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「飛蛇の魂」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>壱の蛇【惨毒】および壱の大蛇【惨毒】の命中時"
 529,"蛇行の最大チャージ数が3に増加する。"
@@ -981,12 +981,12 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特定のウェポンスキルの命中時と蛇の霊気実行時"
 532,"飛蛇連尾撃および飛蛇乱尾撃が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>飛蛇の尾実行時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>飛蛇の尾の命中時"
 533,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「霊力」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の最大スタック数が5に増加する。
 さらに、祖霊の大蛇牙が実行できるようになる。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「祖霊降ろし」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
 534,"祖霊の蛇【壱】、祖霊の蛇【弐】、祖霊の蛇【参】、祖霊の蛇【肆】が実行できるようになる。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>祖霊の牙【壱】、祖霊の牙【弐】、祖霊の牙【参】、祖霊の牙【肆】それぞれの実行時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>祖霊の牙【壱】、祖霊の牙【弐】、祖霊の牙【参】、祖霊の牙【肆】それぞれの命中時"
 535,""
 536,""
 537,"パレットゲージが上昇するようになる。
@@ -1068,7 +1068,7 @@ int32,str
 原初の鼓動が3スタック付与されると<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「原初の激震実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に変化し、原初の解放が原初の激震に変化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>原初の解放の効果中に実行するフェルクリーヴおよびデシメートの命中時"
 569,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ルイネーター実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>プライマルレンド実行時"
 570,"ブラッドウェポンがブラッドデリリアムに変化する。"
 571,"シャドウウォールがシャドウヴィジルに変化する。"
@@ -1338,8 +1338,8 @@ int32,str
 659,"エノキアンの効果量を30％に上昇させる。"
 660,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>破砕拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>破砕拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双竜脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六合星導脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780"
 661,"特定のアクションの威力を上昇させる。
@@ -1434,7 +1434,8 @@ int32,str
 673,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンバガの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>フォールマレフィクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>フォールマレフィクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マクロコスモスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
 674,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>壱の牙【咬創】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200

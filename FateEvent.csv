@@ -3306,7 +3306,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 イクブラーシャの防衛に力を貸してもらえないだろうか。
 この付近で殺気立ったリーフマンティスの群れが目撃されたのだ。","奴らは相手が誰だろうと襲い、捕食しようとする。
 ここで食い止めなければ、集落が危ない……！","ともに戦ってくれたなら、
-我らは、最大限の敬意と感謝を示すだろう！","ロスガル族の狩人に協力しますか？
+我らは、最大限の敬意と感謝を示すだろう！","シュバラール族の狩人に協力しますか？
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※このF.A.T.E.の推奨レベルは<Value>IntegerParameter(1)</Value>です。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","恩に着る……！
 奴らは間もなくここに到達するはずだ！","","そうか……
@@ -3355,7 +3355,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 727,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,3,0,0,0,0,"まさかヤツが……
 ミユールルまでもが現れるとは……！","ヤツは、ヒトを好んで襲う獰猛な存在で、
 幾人もの同胞が犠牲になっているのです。","このまま放置すれば、集落に被害が出るかもしれません。
-しかし、あなたの助力がいればきっと狩れるはず……
+しかし、あなたの助力があればきっと狩れるはず……
 どうか力添えを、お願いいたします！","シュバラール族の狩人に協力しますか？
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※このF.A.T.E.の推奨レベルは<Value>IntegerParameter(1)</Value>です。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ありがとうございます！
@@ -3423,7 +3423,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 これ以上は走れず、どうしたものかと思っていたところなんだ。","私が運んでいた積荷は、
 ナジュールの発育を促す秘薬……。
 おそらく、それに興味を示した草木の魔物が襲ってきたんだろう。","このままでは魔物に荷を奪われる……
-すまないが、積み荷を守ってはもらえないだろうか？","フビゴ族の荷運び人に協力しますか？
+すまないが、積荷を守ってはもらえないだろうか？","フビゴ族の荷運び人に協力しますか？
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※このF.A.T.E.の推奨レベルは<Value>IntegerParameter(1)</Value>です。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","助かるよ……！
 奴らはすぐに追いついてくるはずだ！","","そうか……勝手なことを頼んで悪かった。

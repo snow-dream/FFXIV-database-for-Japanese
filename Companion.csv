@@ -525,7 +525,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 521,"ドリーマー・スキャンプ",0,"",0,0,1,0,0,"ModelChara#4119",100,10,0,0,0,"追従",0,8,519,False,True,False,True,False,0,False,True,"ui/icon/004000/004921.tex",1111,False,0,10,480,35,360,25,1,634,"モンスター"
 522,"ティンセントリーT1",0,"",0,0,1,0,0,"ModelChara#4120",100,10,0,0,0,"追従",0,8,520,False,True,False,True,False,0,False,True,"ui/icon/004000/004922.tex",11031,False,0,25,590,1,30,30,1,603,"ドール"
 523,"検証体アンブローズ",0,"",0,0,1,0,0,"ModelChara#4121",100,10,0,0,0,"追従",0,8,521,False,True,False,True,False,0,False,True,"ui/icon/004000/004923.tex",1112,False,0,20,580,6,360,40,1,600,"ドール"
-524,"",0,"",0,0,0,0,0,"ModelChara#0",0,0,0,0,0,"",0,0,0,False,False,False,False,False,0,False,False,,0,False,0,0,0,0,0,0,0,0,""
+524,"ブラックキトン",0,"",0,0,1,0,0,"ModelChara#4122",100,10,0,0,0,"追従",0,8,522,False,True,False,True,False,0,False,True,"ui/icon/004000/004924.tex",2012,False,0,30,710,14,30,20,1,607,"モンスター"
 525,"ニュー・クルル",0,"",0,0,1,0,0,"ModelChara#4123",100,10,0,0,0,"追従",0,8,262,False,True,False,True,False,0,False,True,"ui/icon/004000/004925.tex",9012,False,0,20,560,26,360,20,1,619,"ドール"
 526,"マメット・ゼロ",0,"",0,0,1,0,0,"ModelChara#4124",100,10,10,0,0,"追従",0,8,523,False,True,False,True,False,0,False,True,"ui/icon/004000/004926.tex",9052,False,0,25,600,20,120,20,2,605,"ドール"
 527,"",0,"",0,0,0,0,0,"ModelChara#0",0,0,0,0,0,"",0,0,0,False,False,False,False,False,0,False,False,,0,False,0,0,0,0,0,0,0,0,""
