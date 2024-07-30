@@ -1391,6 +1391,9 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198048,1310,14,0,0,0,0,,"クラスター・ルームランプ",False,False,0,0,0,True,False
 198049,1311,15,0,0,0,0,,"ラピスマナリス・バナー",False,False,0,0,0,True,False
 198050,1312,16,0,0,0,0,,"アルザダール・トレジャーラグ",False,False,0,0,0,True,False
+198051,1313,12,0,0,0,0,,"ヒュペルボレア・ベンチ",False,False,0,0,0,True,False
+198052,1314,13,0,0,0,0,,"アイティオン・デスク",False,False,0,0,0,True,False
+198053,1315,14,0,0,0,0,,"アイティオン・ランプ",False,False,0,0,0,True,False
 198054,1316,12,0,0,0,0,,"筆頭神官の椅子",False,False,0,0,0,True,False
 198055,1317,15,0,0,0,0,,"ツリートランク・ロフト",False,False,0,0,0,True,False
 198056,1318,15,0,0,0,0,,"フェアリー・ペンダントウォールライト",False,False,0,0,0,True,False
@@ -1401,6 +1404,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198061,1323,12,0,0,0,0,,"ロイヤルレザーソファ",False,False,0,0,0,True,False
 198062,1324,12,0,0,0,0,,"ウォールキャビネット",False,False,0,0,0,True,False
 198063,1325,16,0,0,0,0,,"フィールドオブホープ・ラグ",False,False,0,0,0,True,False
+198064,1326,14,0,0,0,0,,"樽酒",False,False,0,0,0,True,False
 198065,1327,15,0,0,0,0,,"コロッサルクロック・ウィンドウ",False,False,0,0,0,True,False
 198066,1328,14,0,0,100,0,,"ゼロムスの追憶",False,False,0,0,0,True,False
 198067,1333,15,0,0,0,0,,"工神の肖像画",False,False,5,0,0,True,False
@@ -1450,7 +1454,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198111,1368,14,0,0,0,0,,"フラッグのぬいぐるみ",False,False,0,0,0,True,False
 198112,1369,14,0,0,0,0,,"ドリッピーのふわふわぬいぐるみ",False,False,0,0,0,True,False
 198113,1370,14,0,0,0,0,,"プヌティーのぬいぐるみ",False,False,0,0,0,True,False
+198114,1371,15,0,0,0,0,,"東方飾り戸窓",False,False,0,0,0,True,False
 198115,1372,15,0,0,0,0,,"マジックスカイスケープ:サンセットスカイ",False,False,0,0,0,True,False
+198116,1373,12,0,0,0,0,,"マジックランドスケープ:ゴブレットビュート",False,False,0,0,0,True,False
+198117,1374,12,0,0,0,0,,"マジックランドスケープ:ラベンダーベッド",False,False,0,0,0,True,False
+198118,1375,12,0,0,0,0,,"マジックランドスケープ:ミストヴィレッジ",False,False,0,0,0,True,False
+198119,1376,12,0,0,0,0,,"マジックランドスケープ:シロガネ",False,False,0,0,0,True,False
+198120,1377,12,0,0,0,0,,"マジックランドスケープ:エンピレアム",False,False,0,0,0,True,False
 198121,1378,13,0,0,0,0,,"ダブルトップテーブル",False,False,0,0,0,True,False
 198122,1379,14,7,86,0,0,"CmnDefHousingDish_00213","ココアマグカップ",True,False,9,4,11,True,False
 198123,1380,12,0,0,0,0,,"キッチンキャビネット",False,False,0,0,0,True,False
@@ -1465,6 +1475,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198132,1387,12,0,0,0,0,,"ヘリテージファウンド・ストレージ",False,False,0,0,0,True,False
 198133,1388,15,0,0,0,0,,"ホリゾンタル・ネオンウォールライト",False,False,0,0,0,True,False
 198134,1389,15,0,0,0,0,,"ヴァーティカル・ネオンウォールライト",False,False,0,0,0,True,False
+198135,1390,12,0,0,0,0,,"パイル・オブ・ゴールド",False,False,0,0,0,True,False
 198136,1391,14,0,0,0,0,,"ライジング・テーブルランプ",False,False,5,0,0,True,False
 198137,1392,14,0,0,0,0,,"フライング・パンプキンバット",False,False,5,0,0,True,False
 198139,1288,15,0,0,0,0,,"新生祭のポスターEX",False,False,3,0,0,True,False

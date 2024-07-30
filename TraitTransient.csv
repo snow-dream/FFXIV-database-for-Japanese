@@ -385,7 +385,10 @@ int32,str
 274,"効果量を10％に上昇させる。"
 275,"ジャンプがハイジャンプに変化する。"
 276,"紅の竜血の効果時間を30秒に延長する。"
-277,"居合術の詠唱時間を1.3秒に短縮する。"
+277,"居合術の詠唱時間を1.3秒に短縮する。
+さらに、自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「燕返し実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>彼岸花を除く居合術の実行時"
 278,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「風月」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「風花」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果量を13％に上昇する。"
 279,"縮地がチャージアクションに変化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
@@ -714,10 +717,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷遁の術実行時"
 442,"燕返しがチャージアクションに変化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
-443,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「燕返し実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>明鏡止水実行時
-さらに、明鏡止水がチャージアクションに変化する。
+443,"明鏡止水がチャージアクションに変化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 444,"クイックノックがラドンバイトに変化する。"
 445,"ブラッドレッターとレイン・オブ・デスの最大チャージ数が3に増加する。"
@@ -776,9 +776,9 @@ int32,str
 464,"激成魔がチャージアクションに変化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 465,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「パラドックスシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
-この効果が付与されるとファイアがパラドックスに変化する。
-パラドックスシンボルはアストラルファイアが解除されると消滅する。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルブリザード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルハート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が最大スタック数まで付与された状態で、自身の状態が反対属性に変化したとき。"
+この効果が付与されるとブリザドとファイアがパラドックスに変化する。
+パラドックスシンボルはアストラルファイアおよびアンブラルブリザードが解除されると消滅する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アストラルファイア」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>もしくは<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルブリザード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アンブラルハート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が最大スタック数まで付与された状態で、自身の状態が反対属性に変化したとき。"
 466,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ルビーの神秘」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「トパーズの神秘」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>エーテルチャージ実行時"
 467,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ルビーの神秘」「トパーズの神秘」「エメラルドの神秘」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
@@ -916,7 +916,7 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ゲイルスコグルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ナーストレンドの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360"
-509,"エノキアンの効果量を23％に上昇させる。"
+509,"エノキアンの効果量を25％に上昇させる。"
 510,"ピュシスがピュシスIIに変化する。"
 511,"英雄の影身による攻撃の威力が420に上昇する。"
 512,"爆裂脚が鳳凰の舞に変化する。"
@@ -952,9 +952,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>士風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120"
 521,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月光の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>花車の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雪風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月光の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>花車の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雪風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110"
 522,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双刃旋の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
@@ -973,7 +973,7 @@ int32,str
 527,"双牙連閃および双牙乱閃が実行できるようになる。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弐の大蛇【猛襲】および弐の大蛇【疾速】の命中時"
 528,"自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「飛蛇の魂」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与される。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>壱の蛇【惨毒】および壱の大蛇【惨毒】の命中時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>壱の蛇【強砕】および壱の大蛇【強砕】の命中時"
 529,"蛇行の最大チャージ数が3に増加する。"
 530,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「飛蛇の魂」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の最大スタック数が3に増加する。"
 531,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「霊力ゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が上昇するようになる。
@@ -1249,19 +1249,19 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ファストブレードの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ライオットソードの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ロイヤルアソリティの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホーリースピリットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ロイエの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ゲベートの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グラブカッマーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンフィテオルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・フェイスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・トゥルースの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・ヴァラーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ロイヤルアソリティの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ホーリースピリットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ロイエの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ゲベートの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グラブカッマーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンフィテオルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・フェイスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・トゥルースの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブレード・オブ・ヴァラーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
 651,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ディアの継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハート・オブ・ミゼリの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>グレアガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330"
 652,"特定のアクションの威力を上昇させる。
@@ -1272,13 +1272,13 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンツヴェルクハウの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>フレッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンルドゥブルマンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コントルシクストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コントルシクストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルフレアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>620
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルホーリーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>620
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンルプリーズの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>エンルプリーズの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スコーチの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルエアロガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルサンダガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルエアロガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヴァルサンダガの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レゾリューションの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800"
 653,"特定のアクションの威力を上昇させる。
 
@@ -1286,6 +1286,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>竜尾大車輪の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雲蒸竜変の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>竜眼雷電の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スターダイバーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヘヴンスラストの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>桜華繚乱の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140"
 654,"特定のアクションの威力を上昇させる。
@@ -1297,15 +1298,15 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>フェルクリーヴの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580"
 655,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>陣風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>陣風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>燕飛効果アップ時の燕飛の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>士風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月光の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>士風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月光の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>彼岸花の継続ダメージの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>花車の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雪風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>乱れ雪月花の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>返し雪月花の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>花車の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雪風の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>乱れ雪月花の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>640
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>返し雪月花の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>640
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>照破の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>640
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>奥義波切の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>返し波切の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900"
@@ -1320,6 +1321,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スピニングサイズの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>インファナルスライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ナイトメアサイズの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ソウルスライスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ジビトゥの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ギャロウズの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ジビトゥクロウの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
@@ -1335,17 +1337,18 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヒートスラッグショットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ヒートクリーンショットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>スキャッターガンの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160"
-659,"エノキアンの効果量を30％に上昇させる。"
+659,"エノキアンの効果量を33％に上昇させる。"
 660,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>破砕拳の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双竜脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六合星導脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六合星導脚の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>夢幻闘舞の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500"
 661,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双刃旋の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風断ちの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風断ちの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>旋風刃の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風魔手裏剣の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雷遁の術の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>740
@@ -1353,8 +1356,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>強甲破点突の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六道輪廻の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>命水効果中の六道輪廻の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月影雷獣爪の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>640
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月影雷獣牙の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>640"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月影雷獣爪の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>月影雷獣牙の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700"
 662,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>カスケードの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
@@ -1363,13 +1366,15 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ファウンテンフォールの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ダブル・スタンダードフィニッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>850
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クワッド・テクニカルフィニッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>剣の舞いの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>剣の舞いの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇の舞い【終】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
 663,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハードスラッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>サイフォンストライクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ソウルイーターの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ハードスラッシュの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>サイフォンストライクの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ソウルイーターの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ストルワートソウルの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>カーヴ・アンド・スピットの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ブラッドスピラーの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>クワイタスの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
 664,"特定のアクションの威力を上昇させる。
@@ -1439,15 +1444,15 @@ int32,str
 674,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>壱の牙【咬創】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>壱の牙【惨毒】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弐の牙【猛襲】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弐の牙【疾速】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>壱の牙【穿裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弐の牙【猛襲】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弐の牙【疾速】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
 675,"特定のアクションの威力を上昇させる。
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【側撃】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【側裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【背撃】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【背裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【側撃】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【側裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【背撃】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>参の牙【背裂】の威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 676,"特定のアクションの威力を上昇させる。
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>レッドファイアの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340

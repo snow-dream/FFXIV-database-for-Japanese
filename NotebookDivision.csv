@@ -103,7 +103,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1058,"万貨街取引","クラスクエスト関連",90,255,"街の金荒物屋さん",92,False,False,True,True,True,False,False,False,False
 1059,"万貨街取引","クラスクエスト関連",90,255,"不思議なお話を",91,False,True,False,False,False,True,True,False,False
 1060,"万貨街取引","クラスクエスト関連",90,255,"ジュース店、立ち退きの危機",90,False,False,False,False,False,False,False,True,True
-1061,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1061,"秘伝書:第11巻","秘伝書",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"クルザス","伝承録",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"ドラヴァニア","伝承録",255,50,,11,False,True,True,True,True,True,True,True,True

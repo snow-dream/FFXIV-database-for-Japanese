@@ -245,7 +245,7 @@ int32,str
 「コーダシンボル」を1つ以上付与するとアクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「光神のフィナーレ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行できます。"
 109,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「極性マスタリーV」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「パラドックスシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されるようになりました！
-アンブラルブリザードとアンブラルハートが最大スタック数まで付与された状態で、自身の状態がアストラルファイアに変化すると、ゲージ左側の「パラドックスシンボル」が点灯し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「パラドックス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が実行できます。"
+自身に「アストラルファイア」もしくは「アンブラルブリザード」と「アンブラルハート」が最大スタック数まで付与された状態で、自身の状態が反対属性に変化すると、ゲージ左側の「パラドックスシンボル」が点灯し、アクション<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「パラドックス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が実行できます。"
 110,"特性<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソイルチャージ効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を修得し、
 ソイルの最大スタック数が3つに増加しました！
 ソイルは<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソリッドバレル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>やレベル40で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「デーモンスローター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をコンボで実行することに成功すると蓄積し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「バーストストライク」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>やレベル60で修得する<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビートファング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行すると消費されます。"
@@ -321,7 +321,7 @@ int32,str
 133,"ヴァイパーシンボル"
 134,"霊力ゲージ"
 135,"アクションのコンボ状況を示す<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ヴァイパーシンボル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されました！
-ヴァイパーは<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【咬創】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【惨毒】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のように2つのアクションのうち、いずれか1つのアクションを実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「弐の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「参の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>とコンボを繋げて戦います。
+ヴァイパーは<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【咬創】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙【穿裂】」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のように2つのアクションのうち、いずれか1つのアクションを実行し、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「壱の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「弐の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「参の牙」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>とコンボを繋げて戦います。
 
 「参の牙」には複数の種類があり、いずれかの「参の牙」を実行すると、異なる「参の牙」にダメージ上昇効果が付与されます。
 効果が付与された「参の牙」を実行するためには、特定のコンボルートでコンボを成功させる必要があります。

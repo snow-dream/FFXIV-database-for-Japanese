@@ -9,6 +9,6 @@ int32,bit&01,uint16,uint16,bool,bool,Item,uint16,uint16,uint16,uint16,CSBonusTex
 5,True,2,4,True,True,"",0,0,0,0,"","",1
 6,False,2,4,True,True,"",0,0,0,0,"","",1
 7,False,0,0,False,False,"",0,0,0,0,"","",1
-8,True,8,0,True,False,"希少トームストーン:魔典",9,10,11,12,"モグモグ★コレクション","",26
+8,True,8,0,True,False,"希少トームストーン:魔典",9,10,11,12,"モグモグ★コレクション","～黄金の魔典～",26
 9,True,8,0,True,False,"",0,0,0,0,"","",1
 10,False,0,0,False,False,"",0,0,0,0,"","",0

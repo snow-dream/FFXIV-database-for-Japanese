@@ -7,7 +7,7 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 ※「コンテンツルーレット：レべリング」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
 ※軍票の報酬量は参加するクラス・ジョブのレベルによって決定されます。
 ※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。
-※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用ダンジョン、ライトパーティ用討伐戦",0,0,False,True,"ContentRouletteOpenRule#1",False,16,16,0,False,0,"ui/icon/112000/112034.tex","ContentRouletteRoleBonus#1",0,100,0,0,0,0,4,142,"ContentMemberType#2",0,0,0,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用ダンジョン、ライトパーティ用討伐戦",0,0,False,True,"ContentRouletteOpenRule#1",False,16,16,0,False,0,"ui/icon/112000/112034.tex","ContentRouletteRoleBonus#1",0,100,20,0,0,0,4,142,"ContentMemberType#2",0,0,0,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 2,"コンテンツルーレット：ハイレベリング","ハイレベリング","","「コンテンツルーレット：ハイレベリング」では、現在参加することのできるライトパーティ用レベル50・60・70・80・90ダンジョンの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：ハイレベリング」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
@@ -18,7 +18,7 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 ※本ルーレットの対応コンテンツは、カットシーンをスキップすることができません。
 ※「コンテンツルーレット：メインクエスト」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
 ※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。
-※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：フルパーティ用ダンジョン",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,42,False,0,"ui/icon/112000/112036.tex","ContentRouletteRoleBonus#3",350,100,0,0,0,0,6,142,"ContentMemberType#2",0,0,2,True,1,0,60,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：フルパーティ用ダンジョン",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,42,False,0,"ui/icon/112000/112036.tex","ContentRouletteRoleBonus#3",350,100,50,0,0,0,6,142,"ContentMemberType#2",0,0,2,True,1,0,60,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 4,"コンテンツルーレット：ギルドオーダー","ギルドオーダー","","「コンテンツルーレット：ギルドオーダー」では、現在参加することのできるギルドオーダーの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：ギルドオーダー」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
@@ -30,23 +30,23 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 
 ※「コンテンツルーレット：エキスパート」のギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られるギルとの差額を報酬として得られます。
 ※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。
-※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用エキスパートダンジョン",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,670,False,0,"ui/icon/112000/112057.tex","ContentRouletteRoleBonus#5",0,80,0,0,0,0,1,142,"ContentMemberType#2",0,0,4,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用エキスパートダンジョン",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,670,False,0,"ui/icon/112000/112057.tex","ContentRouletteRoleBonus#5",0,60,40,0,0,0,1,142,"ContentMemberType#2",0,0,4,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 6,"コンテンツルーレット：討伐・討滅戦","討伐・討滅戦","","「コンテンツルーレット：討伐・討滅戦」では、現在参加することのできるフルパーティ用討伐・討滅戦の中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。
-※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：フルパーティ用討伐・討滅戦",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,90,False,0,"ui/icon/112000/112056.tex","ContentRouletteRoleBonus#6",0,60,0,0,0,0,5,142,"ContentMemberType#3",0,0,5,True,1,0,60,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：フルパーティ用討伐・討滅戦",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,90,False,0,"ui/icon/112000/112056.tex","ContentRouletteRoleBonus#6",0,60,15,0,0,0,5,142,"ContentMemberType#3",0,0,5,True,1,0,60,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 7,"デイリーチャレンジ：フロントライン","フロントライン","","「デイリーチャレンジ：フロントライン」では、現在開催されているフロントラインが参加先に決定されます。開催されているフロントラインは毎日変わるため、参加先はINFORMATIONで確認できます。
 
-※デイリーチャレンジでは1日1回、大幅にプラスされた報酬を得ることができます。","対応コンテンツ：オンサル・ハカイル（終節戦）",0,0,False,True,"ContentRouletteOpenRule#3",True,30,30,0,False,0,"ui/icon/112000/112083.tex","ContentRouletteRoleBonus#0",0,50,0,1000,1000,1500,15,146,"ContentMemberType#24",0,0,6,True,1,28,20,0,True,True,False,False,0,"InstanceContent#0",False,0,False,True,0
+※デイリーチャレンジでは1日1回、大幅にプラスされた報酬を得ることができます。","対応コンテンツ：オンサル・ハカイル（終節戦）",0,0,False,True,"ContentRouletteOpenRule#3",True,30,30,0,False,0,"ui/icon/112000/112083.tex","ContentRouletteRoleBonus#0",0,50,20,1000,1000,1500,15,146,"ContentMemberType#24",0,0,6,True,1,28,20,0,True,True,False,False,0,"InstanceContent#0",False,0,False,True,0
 8,"コンテンツルーレット：レベルキャップダンジョン","レベルキャップダンジョン","","「コンテンツルーレット：レベルキャップダンジョン」では、コンプリート済みのライトパーティ用レベル100ダンジョンの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：レベルキャップダンジョン」のギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られるギルとの差額を報酬として得られます。
 ※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。
-※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用レベル100ダンジョン",4,0,False,True,"ContentRouletteOpenRule#2",False,90,90,590,False,0,"ui/icon/112000/112123.tex","ContentRouletteRoleBonus#7",0,100,0,0,0,0,2,142,"ContentMemberType#2",0,0,7,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※規定人数で参加した場合、不足ロールボーナスを得ることはできません。","対応コンテンツ：ライトパーティ用レベル100ダンジョン",4,0,False,True,"ContentRouletteOpenRule#2",False,90,90,590,False,0,"ui/icon/112000/112123.tex","ContentRouletteRoleBonus#7",0,100,15,0,0,0,2,142,"ContentMemberType#2",0,0,7,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 9,"コンテンツルーレット：メンター","メンター","","「コンテンツルーレット：メンター」はバトルメンターとなったキャラクターのみが参加できるコンテンツルーレットで、コンプリート済みのメンター対応コンテンツの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：メンター」のギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られるギルとの差額を報酬として得られます。
-※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：メンター対応コンテンツ",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,685,False,0,"ui/icon/112000/112144.tex","ContentRouletteRoleBonus#8",0,30,0,0,0,0,10,142,"ContentMemberType#1",0,0,8,True,1,0,30,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：メンター対応コンテンツ",5,0,False,True,"ContentRouletteOpenRule#2",False,100,100,685,False,0,"ui/icon/112000/112144.tex","ContentRouletteRoleBonus#8",0,30,10,0,0,0,10,142,"ContentMemberType#1",0,0,8,True,1,0,30,120,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 10,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
 11,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
 12,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
@@ -55,12 +55,12 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 15,"コンテンツルーレット：アライアンスレイド","アライアンスレイド","","「コンテンツルーレット：アライアンスレイド」では、現在参加することのできる24人用アライアンスレイドの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：アライアンスレイド」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
-※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：アライアンス用レイド",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,70,True,0,"ui/icon/112000/112259.tex","ContentRouletteRoleBonus#9",120,120,0,0,0,0,8,142,"ContentMemberType#5",0,0,9,True,1,0,120,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：アライアンス用レイド",0,0,False,True,"ContentRouletteOpenRule#1",False,50,50,70,True,0,"ui/icon/112000/112259.tex","ContentRouletteRoleBonus#9",120,120,50,0,0,0,8,142,"ContentMemberType#5",0,0,9,True,1,0,120,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 16,"","","","","",0,0,False,False,"ContentRouletteOpenRule#0",False,0,0,0,False,0,,"ContentRouletteRoleBonus#0",0,0,0,0,0,0,0,0,"ContentMemberType#0",0,0,0,False,0,0,0,0,False,False,False,False,0,"InstanceContent#0",False,0,False,False,0
 17,"コンテンツルーレット：ノーマルレイド","ノーマルレイド","","「コンテンツルーレット：ノーマルレイド」では、現在参加することのできる8人用ノーマルレイドの中から参加先がランダムに決定されます。さらに、個別にコンテンツを選択して参加したときよりも、大幅にプラスされたコンプリート報酬を得ることができます。
 
 ※「コンテンツルーレット：ノーマルレイド」の経験値とギルのボーナス値は、参加するクラス・ジョブのレベルによって決定され、参加先コンテンツの道中で得られる経験値、ギルとの差額を報酬として得られます。
-※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：ノーマルレイド",1,0,False,True,"ContentRouletteOpenRule#1",False,60,60,170,False,0,"ui/icon/112000/112294.tex","ContentRouletteRoleBonus#10",80,60,0,0,0,0,9,142,"ContentMemberType#3",0,0,10,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
+※「コンテンツルーレット」の報酬は1日1回のみ得ることができます。","対応コンテンツ：ノーマルレイド",1,0,False,True,"ContentRouletteOpenRule#1",False,60,60,170,False,0,"ui/icon/112000/112294.tex","ContentRouletteRoleBonus#10",80,60,20,0,0,0,9,142,"ContentMemberType#3",0,0,10,True,1,0,90,0,True,True,False,False,2,"InstanceContent#0",False,0,False,True,0
 18,"チョコボレース：サゴリーロード","サゴリーロード","","走ることに特化したチョコボ「競走羽」を相棒に、
 参加者たちが着順を争う白熱の競技「チョコボレース」。
 君も勝利を目指してレースに出走しよう！

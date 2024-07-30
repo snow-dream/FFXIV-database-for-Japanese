@@ -295,6 +295,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131373,281,17,0,0,0,,"ドロポックル・ストーンキルン",False,False,True,0,0,0,False,True
 131374,282,17,0,0,0,,"ストーンガーデンウォール",False,False,True,0,0,0,False,True
 131375,283,17,0,0,0,,"カラフルフラワーパッチ",False,False,True,0,0,0,False,True
+131376,284,17,0,0,0,,"イルメグ・アーバー",False,False,True,0,0,0,False,True
 131377,285,17,0,0,0,,"アイルガーデンフェンス",False,False,True,0,0,0,False,True
 131378,286,17,0,0,0,,"アイルパラソルテーブル",False,False,True,0,0,0,False,True
 131379,287,17,0,0,0,,"アイルガーデンチェア",False,False,True,0,0,0,False,True
@@ -313,6 +314,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131392,263,17,0,0,0,,"サマー・ボーンファイアEX",False,False,True,3,0,0,False,True
 131396,303,17,0,0,0,,"モバイル・ガーデンステップ",False,False,True,0,0,0,False,True
 131397,304,17,0,0,0,,"フラワーリーズド・ガゼボ",False,False,True,0,0,0,False,True
+131398,305,17,0,0,0,,"アルザダール・ガーデンランプ",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"エルピス・ガーデンファウンテン",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"ワイルドグラスガーデン",False,False,True,0,0,0,False,True
 131402,309,17,0,0,0,"CmnDefHousingObject_00141","イミテーション・マジテックハンガー",False,False,True,0,0,0,False,True
